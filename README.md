@@ -1,16 +1,39 @@
-# Parsing data from journalmetrics.com
+# Tidying and mapping Scopus and Journal Metrics data
 
-This repository creates user-friendly (tidy) TSVs of data from [Journal Metrics](http://www.journalmetrics.com/values.php). Journal Metrics provides three measures (`SNIP`, `IPP`, `SJR`) of journal prestige. This repository provides data in NLM journal IDs for PubMed integration.
+This repository creates user-friendly (tidy) TSVs of data from [Scopus](https://www.elsevier.com/solutions/scopus/content) and [Journal Metrics](http://www.journalmetrics.com/values.php) and converts data to NLM journal IDs for PubMed integration. Data pulled from Scopus include journal subject areas and open access status. Data pulled from Journal Metrics include journal three measures (`SNIP`, `IPP`, `SJR`) of journal prestige and a Scopus–ISSN mapping.
 
 Execution is performed by running notebooks in the following order:
 
-1. [`process.ipynb`](process.ipynb) to process the raw Journal Metric download
-2. [`pubmed.ipynb`](pubmed.ipynb) to convert to NLM journal IDs
+1. [`process-titles.ipynb`](process-titles.ipynb) to process the raw Scopus title list
+2. [`process-metics.ipynb`](process-metics.ipynb) to process the raw Journal Metric download
+3. [`pubmed.ipynb`](pubmed.ipynb) to convert Scopus IDs to NLM journal IDs
 
-The `data` directory contains three tidy outputs:
+### Scopus titles
 
-1. [`issn.tsv`](data/issn.tsv) containing a mapping between scopus journal identifiers and ISSNs.
-2. [`metrics.tsv.gz`](data/metrics.tsv.gz) containing metrics for scopus journals.
-3. [`pubmed-metrics.tsv.gz`](data/metrics.tsv.gz) containing metrics for PubMed journals.
+The `data` directory contains the following tidy outputs:
 
-The current version of this repository is based on `SNIP_IPP_SJR_complete_1999_2014.xlsx`.
++ [`titles.tsv`](data/titles.tsv): IDs and names for titles in Scopus
++ [`title-attributes.tsv`](data/title-attributes.tsv): attributes for Scopus titles such as open access status, publisher, and active status (excludes conference proceedings)
++ ['title-top-levels.tsv'](data/title-top-levels.tsv): top-level subject categories for each Scopus title
++ [`asjc-codes.tsv`](data/asjc-codes.tsv): ASJC (All Science Journal Classification) code definitions
++ ['subject-areas.tsv'](data/subject-areas.tsv): ASJC subject areas for each Scopus title
+
+### Scopus mappings
+
+The `data` directory contains the following tidy outputs:
+
++ [`issn.tsv`](data/issn.tsv): a mapping between Scopus titles and ISSNs
++ [`pubmed-map.tsv`](data/pubmed-map.tsv): a Scopus–NLM journal mapping
+
+### Journal metrics
+
++ [`metrics.tsv.gz`](data/metrics.tsv.gz): metrics for Scopus journals
++ [`pubmed-metrics.tsv.gz`](data/metrics.tsv.gz): metrics for PubMed journals
+
+## Version
+
+The current version of this repository is built from the following publicly-available inputs:
+
++ `https://www.elsevier.com/__data/assets/excel_doc/0015/91122/title_list.xlsx`
++ `http://www.journalmetrics.com/documents/SNIP_IPP_SJR_complete_1999_2014.xlsx`
++ `https://raw.githubusercontent.com/dhimmel/delays/756ffebf309499a500ec1f83d68803c044ec8729/data/pubmed-journals.tsv`
