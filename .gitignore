@@ -1,3 +1,6 @@
+# ignore raw downloads
+download/
+
 # Created by https://www.gitignore.io
 
 ### Python ###

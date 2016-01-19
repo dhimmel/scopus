@@ -30,10 +30,12 @@ The `data` directory contains the following tidy outputs:
 + [`metrics.tsv.gz`](data/metrics.tsv.gz): metrics for Scopus journals
 + [`pubmed-metrics.tsv.gz`](data/metrics.tsv.gz): metrics for PubMed journals
 
-## Version
+## Source and version info
 
-The current version of this repository is built from the following publicly-available inputs:
+This repository is built from the following publicly-available inputs:
 
-+ `https://www.elsevier.com/__data/assets/excel_doc/0015/91122/title_list.xlsx`
-+ `http://www.journalmetrics.com/documents/SNIP_IPP_SJR_complete_1999_2014.xlsx`
-+ `https://raw.githubusercontent.com/dhimmel/delays/756ffebf309499a500ec1f83d68803c044ec8729/data/pubmed-journals.tsv`
++ `title_list.xlsx`: Scopus title list ([source](https://www.elsevier.com/solutions/scopus/content))
++ `SNIP_IPP_SJR_complete_1999_2014.xlsx`: Journal Metrics ([source](http://www.journalmetrics.com/values.php))
++ `pubmed-journals.tsv`: PubMed journal information ([source](https://github.com/dhimmel/delays/blob/master/data/pubmed-journals.tsv))
+
+See [`backup.sh`](backup.sh), which downloads local copies of the inputs, for versioned links. 
