@@ -466,7 +466,7 @@ scopus_id	asjc_code	asjc_description
 12335	1500	Chemical Engineering
 12336	2200	Engineering
 12336	2600	Mathematics
-12337	1000	General
+12337	1000	Multidisciplinary
 12337	2200	Engineering
 12337	2600	Mathematics
 12340	2600	Mathematics
@@ -851,7 +851,7 @@ scopus_id	asjc_code	asjc_description
 12629	3300	Social Sciences
 12630	1900	Earth and Planetary Sciences
 12633	2200	Engineering
-12634	1000	General
+12634	1000	Multidisciplinary
 12634	1200	Arts and Humanities
 12634	2700	Medicine
 12635	2700	Medicine
@@ -977,7 +977,7 @@ scopus_id	asjc_code	asjc_description
 12721	2900	Nursing
 12722	2700	Medicine
 12723	2500	Materials Science
-12724	1000	General
+12724	1000	Multidisciplinary
 12724	1500	Chemical Engineering
 12725	1500	Chemical Engineering
 12725	1600	Chemistry
@@ -1630,7 +1630,6 @@ scopus_id	asjc_code	asjc_description
 13217	2000	Economics, Econometrics and Finance
 13217	2700	Medicine
 13218	2200	Engineering
-13219	2200	Engineering
 13220	2700	Medicine
 13220	3300	Social Sciences
 13221	2700	Medicine
@@ -1861,7 +1860,6 @@ scopus_id	asjc_code	asjc_description
 13422	2700	Medicine
 13422	3200	Psychology
 13423	3200	Psychology
-13424	3200	Psychology
 13427	1700	Computer Science
 13427	2200	Engineering
 13427	3100	Physics and Astronomy
@@ -2400,7 +2398,6 @@ scopus_id	asjc_code	asjc_description
 13847	1300	Biochemistry, Genetics and Molecular Biology
 13848	2100	Energy
 13850	2100	Energy
-13851	2700	Medicine
 13852	2500	Materials Science
 13852	3100	Physics and Astronomy
 13853	2200	Engineering
@@ -2513,7 +2510,7 @@ scopus_id	asjc_code	asjc_description
 13946	2700	Medicine
 13947	2700	Medicine
 13950	2700	Medicine
-13951	1000	General
+13951	1000	Multidisciplinary
 13952	2200	Engineering
 13953	3300	Social Sciences
 13954	2200	Engineering
@@ -2611,7 +2608,7 @@ scopus_id	asjc_code	asjc_description
 14035	3300	Social Sciences
 14036	3300	Social Sciences
 14037	2700	Medicine
-14038	1000	General
+14038	1000	Multidisciplinary
 14040	2200	Engineering
 14041	2700	Medicine
 14042	2900	Nursing
@@ -2649,7 +2646,7 @@ scopus_id	asjc_code	asjc_description
 14080	3200	Psychology
 14082	1900	Earth and Planetary Sciences
 14083	1900	Earth and Planetary Sciences
-14086	1000	General
+14086	1000	Multidisciplinary
 14086	2200	Engineering
 14089	2000	Economics, Econometrics and Finance
 14089	3300	Social Sciences
@@ -3564,6 +3561,7 @@ scopus_id	asjc_code	asjc_description
 14853	2800	Neuroscience
 14854	1300	Biochemistry, Genetics and Molecular Biology
 14855	2700	Medicine
+14855	2800	Neuroscience
 14856	2700	Medicine
 14857	2700	Medicine
 14857	2800	Neuroscience
@@ -4069,6 +4067,8 @@ scopus_id	asjc_code	asjc_description
 15292	2500	Materials Science
 15293	1100	Agricultural and Biological Sciences
 15294	2500	Materials Science
+15296	1400	Business, Management and Accounting
+15296	2200	Engineering
 15298	1800	Decision Sciences
 15298	2000	Economics, Econometrics and Finance
 15298	2600	Mathematics
@@ -5879,8 +5879,6 @@ scopus_id	asjc_code	asjc_description
 16709	3200	Psychology
 16710	2700	Medicine
 16711	1100	Agricultural and Biological Sciences
-16712	3200	Psychology
-16712	3300	Social Sciences
 16713	2700	Medicine
 16714	2700	Medicine
 16715	1100	Agricultural and Biological Sciences
@@ -7606,7 +7604,6 @@ scopus_id	asjc_code	asjc_description
 18149	2200	Engineering
 18150	1700	Computer Science
 18151	2700	Medicine
-18152	2700	Medicine
 18153	2700	Medicine
 18153	2800	Neuroscience
 18155	2500	Materials Science
@@ -7831,7 +7828,6 @@ scopus_id	asjc_code	asjc_description
 18365	3300	Social Sciences
 18366	1200	Arts and Humanities
 18367	2700	Medicine
-18368	2700	Medicine
 18369	2700	Medicine
 18370	2700	Medicine
 18373	2200	Engineering
@@ -8136,7 +8132,7 @@ scopus_id	asjc_code	asjc_description
 18658	1700	Computer Science
 18658	1800	Decision Sciences
 18658	2200	Engineering
-18659	1000	General
+18659	1000	Multidisciplinary
 18660	1700	Computer Science
 18661	1700	Computer Science
 18661	2200	Engineering
@@ -8180,7 +8176,7 @@ scopus_id	asjc_code	asjc_description
 18691	2300	Environmental Science
 18692	2200	Engineering
 18693	1200	Arts and Humanities
-18694	1000	General
+18694	1000	Multidisciplinary
 18694	3300	Social Sciences
 18695	1200	Arts and Humanities
 18695	3300	Social Sciences
@@ -8263,7 +8259,7 @@ scopus_id	asjc_code	asjc_description
 18757	1500	Chemical Engineering
 18757	2200	Engineering
 18757	2300	Environmental Science
-18761	1000	General
+18761	1000	Multidisciplinary
 18761	2200	Engineering
 18762	2200	Engineering
 18766	1500	Chemical Engineering
@@ -8575,6 +8571,7 @@ scopus_id	asjc_code	asjc_description
 19041	2300	Environmental Science
 19042	2700	Medicine
 19043	2700	Medicine
+19044	1300	Biochemistry, Genetics and Molecular Biology
 19046	1100	Agricultural and Biological Sciences
 19046	1300	Biochemistry, Genetics and Molecular Biology
 19048	1300	Biochemistry, Genetics and Molecular Biology
@@ -8861,7 +8858,7 @@ scopus_id	asjc_code	asjc_description
 19295	3300	Social Sciences
 19296	1100	Agricultural and Biological Sciences
 19297	2700	Medicine
-19298	1000	General
+19298	1000	Multidisciplinary
 19299	2200	Engineering
 19300	2700	Medicine
 19301	2700	Medicine
@@ -8908,7 +8905,7 @@ scopus_id	asjc_code	asjc_description
 19338	2700	Medicine
 19339	1200	Arts and Humanities
 19339	2600	Mathematics
-19340	1000	General
+19340	1000	Multidisciplinary
 19341	2700	Medicine
 19342	2700	Medicine
 19343	2700	Medicine
@@ -9063,7 +9060,7 @@ scopus_id	asjc_code	asjc_description
 19469	3300	Social Sciences
 19470	1400	Business, Management and Accounting
 19471	2700	Medicine
-19472	1000	General
+19472	1000	Multidisciplinary
 19473	2700	Medicine
 19474	2200	Engineering
 19475	2200	Engineering
@@ -9107,7 +9104,6 @@ scopus_id	asjc_code	asjc_description
 19518	3400	veterinary
 19520	2400	Immunology and Microbiology
 19520	3400	veterinary
-19522	2700	Medicine
 19523	3400	veterinary
 19524	1100	Agricultural and Biological Sciences
 19524	3400	veterinary
@@ -10318,7 +10314,7 @@ scopus_id	asjc_code	asjc_description
 20554	2900	Nursing
 20555	2700	Medicine
 20556	1100	Agricultural and Biological Sciences
-20557	1000	General
+20557	1000	Multidisciplinary
 20558	2700	Medicine
 20559	2700	Medicine
 20560	2700	Medicine
@@ -10499,7 +10495,7 @@ scopus_id	asjc_code	asjc_description
 20695	2400	Immunology and Microbiology
 20695	2800	Neuroscience
 20696	2700	Medicine
-20699	1000	General
+20699	1000	Multidisciplinary
 20700	2700	Medicine
 20701	2700	Medicine
 20702	2200	Engineering
@@ -11005,7 +11001,7 @@ scopus_id	asjc_code	asjc_description
 21119	2500	Materials Science
 21120	2200	Engineering
 21120	2500	Materials Science
-21121	1000	General
+21121	1000	Multidisciplinary
 21122	2200	Engineering
 21122	2500	Materials Science
 21123	1300	Biochemistry, Genetics and Molecular Biology
@@ -11135,7 +11131,7 @@ scopus_id	asjc_code	asjc_description
 21204	2300	Environmental Science
 21205	2200	Engineering
 21205	2500	Materials Science
-21206	1000	General
+21206	1000	Multidisciplinary
 21207	1300	Biochemistry, Genetics and Molecular Biology
 21207	3000	Pharmacology, Toxicology and Pharmaceutics
 21208	1300	Biochemistry, Genetics and Molecular Biology
@@ -11378,7 +11374,6 @@ scopus_id	asjc_code	asjc_description
 21406	1400	Business, Management and Accounting
 21406	2200	Engineering
 21407	1600	Chemistry
-21408	2700	Medicine
 21410	2700	Medicine
 21411	2700	Medicine
 21412	2700	Medicine
@@ -11770,7 +11765,7 @@ scopus_id	asjc_code	asjc_description
 21751	2700	Medicine
 21752	1300	Biochemistry, Genetics and Molecular Biology
 21752	2700	Medicine
-21753	1000	General
+21753	1000	Multidisciplinary
 21754	1300	Biochemistry, Genetics and Molecular Biology
 21756	2700	Medicine
 21758	2700	Medicine
@@ -12178,9 +12173,6 @@ scopus_id	asjc_code	asjc_description
 22112	3300	Social Sciences
 22113	2200	Engineering
 22114	2200	Engineering
-22115	2200	Engineering
-22115	2500	Materials Science
-22115	3100	Physics and Astronomy
 22116	2200	Engineering
 22116	2500	Materials Science
 22116	3100	Physics and Astronomy
@@ -12246,7 +12238,7 @@ scopus_id	asjc_code	asjc_description
 22172	1300	Biochemistry, Genetics and Molecular Biology
 22173	1300	Biochemistry, Genetics and Molecular Biology
 22174	2700	Medicine
-22176	1000	General
+22176	1000	Multidisciplinary
 22177	1600	Chemistry
 22177	2500	Materials Science
 22178	2200	Engineering
@@ -12309,7 +12301,6 @@ scopus_id	asjc_code	asjc_description
 22230	1100	Agricultural and Biological Sciences
 22230	2300	Environmental Science
 22231	2200	Engineering
-22232	2300	Environmental Science
 22234	1300	Biochemistry, Genetics and Molecular Biology
 22235	1300	Biochemistry, Genetics and Molecular Biology
 22235	2700	Medicine
@@ -12331,7 +12322,7 @@ scopus_id	asjc_code	asjc_description
 22246	2700	Medicine
 22249	1100	Agricultural and Biological Sciences
 22250	1100	Agricultural and Biological Sciences
-22251	1000	General
+22251	1000	Multidisciplinary
 22252	1100	Agricultural and Biological Sciences
 22255	2000	Economics, Econometrics and Finance
 22257	2700	Medicine
@@ -12446,7 +12437,7 @@ scopus_id	asjc_code	asjc_description
 22364	2700	Medicine
 22365	2400	Immunology and Microbiology
 22365	3000	Pharmacology, Toxicology and Pharmaceutics
-22367	1000	General
+22367	1000	Multidisciplinary
 22368	2200	Engineering
 22369	1400	Business, Management and Accounting
 22370	3300	Social Sciences
@@ -12471,7 +12462,7 @@ scopus_id	asjc_code	asjc_description
 22383	2700	Medicine
 22384	2700	Medicine
 22385	2700	Medicine
-22386	1000	General
+22386	1000	Multidisciplinary
 22388	1100	Agricultural and Biological Sciences
 22392	3000	Pharmacology, Toxicology and Pharmaceutics
 22393	2700	Medicine
@@ -12539,7 +12530,7 @@ scopus_id	asjc_code	asjc_description
 22444	2400	Immunology and Microbiology
 22445	2700	Medicine
 22446	2400	Immunology and Microbiology
-22447	1000	General
+22447	1000	Multidisciplinary
 22448	2700	Medicine
 22450	2400	Immunology and Microbiology
 22450	2700	Medicine
@@ -12857,7 +12848,7 @@ scopus_id	asjc_code	asjc_description
 22725	1100	Agricultural and Biological Sciences
 22726	2000	Economics, Econometrics and Finance
 22727	2300	Environmental Science
-22728	1000	General
+22728	1000	Multidisciplinary
 22729	1600	Chemistry
 22730	1200	Arts and Humanities
 22731	2700	Medicine
@@ -13110,18 +13101,18 @@ scopus_id	asjc_code	asjc_description
 22960	2700	Medicine
 22961	1400	Business, Management and Accounting
 22961	2000	Economics, Econometrics and Finance
-22962	1000	General
-22963	1000	General
+22962	1000	Multidisciplinary
+22963	1000	Multidisciplinary
 22963	3300	Social Sciences
 22964	2700	Medicine
 22965	1400	Business, Management and Accounting
 22965	3300	Social Sciences
-22966	1000	General
+22966	1000	Multidisciplinary
 22967	2700	Medicine
 22969	1400	Business, Management and Accounting
 22969	2000	Economics, Econometrics and Finance
 22972	1400	Business, Management and Accounting
-22973	1000	General
+22973	1000	Multidisciplinary
 22976	2700	Medicine
 22977	2700	Medicine
 22977	3000	Pharmacology, Toxicology and Pharmaceutics
@@ -13173,7 +13164,7 @@ scopus_id	asjc_code	asjc_description
 23028	2300	Environmental Science
 23029	2400	Immunology and Microbiology
 23029	2700	Medicine
-23030	1000	General
+23030	1000	Multidisciplinary
 23032	1100	Agricultural and Biological Sciences
 23032	1900	Earth and Planetary Sciences
 23032	2300	Environmental Science
@@ -13203,7 +13194,7 @@ scopus_id	asjc_code	asjc_description
 23046	2700	Medicine
 23047	1100	Agricultural and Biological Sciences
 23047	2500	Materials Science
-23049	1000	General
+23049	1000	Multidisciplinary
 23050	1500	Chemical Engineering
 23050	1600	Chemistry
 23050	3000	Pharmacology, Toxicology and Pharmaceutics
@@ -13350,6 +13341,7 @@ scopus_id	asjc_code	asjc_description
 23150	2200	Engineering
 23150	2600	Mathematics
 23152	2600	Mathematics
+23153	1200	Arts and Humanities
 23154	2700	Medicine
 23155	2700	Medicine
 23155	3000	Pharmacology, Toxicology and Pharmaceutics
@@ -13503,7 +13495,7 @@ scopus_id	asjc_code	asjc_description
 23282	2300	Environmental Science
 23284	1300	Biochemistry, Genetics and Molecular Biology
 23284	3000	Pharmacology, Toxicology and Pharmaceutics
-23285	1000	General
+23285	1000	Multidisciplinary
 23287	1100	Agricultural and Biological Sciences
 23287	2300	Environmental Science
 23288	2700	Medicine
@@ -13689,6 +13681,8 @@ scopus_id	asjc_code	asjc_description
 23422	2700	Medicine
 23423	1300	Biochemistry, Genetics and Molecular Biology
 23424	1300	Biochemistry, Genetics and Molecular Biology
+23425	1200	Arts and Humanities
+23425	3300	Social Sciences
 23426	2700	Medicine
 23429	1200	Arts and Humanities
 23429	3300	Social Sciences
@@ -13734,7 +13728,7 @@ scopus_id	asjc_code	asjc_description
 23463	2800	Neuroscience
 23464	3300	Social Sciences
 23465	3300	Social Sciences
-23467	1000	General
+23467	1000	Multidisciplinary
 23468	1900	Earth and Planetary Sciences
 23468	2200	Engineering
 23468	2300	Environmental Science
@@ -13798,7 +13792,7 @@ scopus_id	asjc_code	asjc_description
 23525	3300	Social Sciences
 23526	2600	Mathematics
 23530	2700	Medicine
-23531	1000	General
+23531	1000	Multidisciplinary
 23532	2700	Medicine
 23534	2700	Medicine
 23535	2700	Medicine
@@ -13821,7 +13815,7 @@ scopus_id	asjc_code	asjc_description
 23566	1100	Agricultural and Biological Sciences
 23567	1200	Arts and Humanities
 23567	3300	Social Sciences
-23571	1000	General
+23571	1000	Multidisciplinary
 23574	3300	Social Sciences
 23577	3300	Social Sciences
 23579	3500	Dentistry
@@ -13903,8 +13897,8 @@ scopus_id	asjc_code	asjc_description
 23646	3300	Social Sciences
 23647	2700	Medicine
 23648	2700	Medicine
-23649	1000	General
-23650	1000	General
+23649	1000	Multidisciplinary
+23650	1000	Multidisciplinary
 23651	1400	Business, Management and Accounting
 23651	3300	Social Sciences
 23653	2700	Medicine
@@ -13955,7 +13949,7 @@ scopus_id	asjc_code	asjc_description
 23694	2200	Engineering
 23695	1100	Agricultural and Biological Sciences
 23696	1100	Agricultural and Biological Sciences
-23697	1000	General
+23697	1000	Multidisciplinary
 23699	3300	Social Sciences
 23701	3300	Social Sciences
 23702	2000	Economics, Econometrics and Finance
@@ -13980,7 +13974,7 @@ scopus_id	asjc_code	asjc_description
 23715	2000	Economics, Econometrics and Finance
 23715	2200	Engineering
 23715	3300	Social Sciences
-23716	1000	General
+23716	1000	Multidisciplinary
 23717	2000	Economics, Econometrics and Finance
 23717	3300	Social Sciences
 23718	1400	Business, Management and Accounting
@@ -14264,7 +14258,6 @@ scopus_id	asjc_code	asjc_description
 23978	2600	Mathematics
 23979	1600	Chemistry
 23980	2600	Mathematics
-23981	1600	Chemistry
 23985	1300	Biochemistry, Genetics and Molecular Biology
 23985	2700	Medicine
 23985	2800	Neuroscience
@@ -14545,7 +14538,7 @@ scopus_id	asjc_code	asjc_description
 24195	1200	Arts and Humanities
 24195	3300	Social Sciences
 24196	2200	Engineering
-24197	1000	General
+24197	1000	Multidisciplinary
 24199	1100	Agricultural and Biological Sciences
 24199	2200	Engineering
 24200	2000	Economics, Econometrics and Finance
@@ -14571,7 +14564,7 @@ scopus_id	asjc_code	asjc_description
 24219	2300	Environmental Science
 24219	2700	Medicine
 24220	2700	Medicine
-24221	1000	General
+24221	1000	Multidisciplinary
 24222	1700	Computer Science
 24222	3300	Social Sciences
 24223	2700	Medicine
@@ -14938,7 +14931,6 @@ scopus_id	asjc_code	asjc_description
 24564	2300	Environmental Science
 24565	1100	Agricultural and Biological Sciences
 24566	1100	Agricultural and Biological Sciences
-24567	3300	Social Sciences
 24568	2600	Mathematics
 24569	2600	Mathematics
 24570	2600	Mathematics
@@ -15149,6 +15141,7 @@ scopus_id	asjc_code	asjc_description
 24719	3200	Psychology
 24720	2600	Mathematics
 24720	3300	Social Sciences
+24721	1800	Decision Sciences
 24721	2600	Mathematics
 24722	2600	Mathematics
 24723	1600	Chemistry
@@ -15322,7 +15315,7 @@ scopus_id	asjc_code	asjc_description
 24841	2700	Medicine
 24842	1400	Business, Management and Accounting
 24842	3200	Psychology
-24843	1000	General
+24843	1000	Multidisciplinary
 24844	1200	Arts and Humanities
 24844	3300	Social Sciences
 24846	1200	Arts and Humanities
@@ -15351,6 +15344,7 @@ scopus_id	asjc_code	asjc_description
 24871	1200	Arts and Humanities
 24871	3300	Social Sciences
 24872	1700	Computer Science
+24873	2700	Medicine
 24874	2200	Engineering
 24875	2200	Engineering
 24877	1300	Biochemistry, Genetics and Molecular Biology
@@ -15788,7 +15782,6 @@ scopus_id	asjc_code	asjc_description
 25273	2700	Medicine
 25274	1900	Earth and Planetary Sciences
 25275	1900	Earth and Planetary Sciences
-25276	1900	Earth and Planetary Sciences
 25278	2700	Medicine
 25279	2300	Environmental Science
 25280	1300	Biochemistry, Genetics and Molecular Biology
@@ -15831,6 +15824,7 @@ scopus_id	asjc_code	asjc_description
 25305	1300	Biochemistry, Genetics and Molecular Biology
 25305	1500	Chemical Engineering
 25305	3000	Pharmacology, Toxicology and Pharmaceutics
+25306	1600	Chemistry
 25307	2600	Mathematics
 25308	1600	Chemistry
 25309	2600	Mathematics
@@ -15976,7 +15970,6 @@ scopus_id	asjc_code	asjc_description
 25432	2700	Medicine
 25433	1200	Arts and Humanities
 25434	2200	Engineering
-25439	2700	Medicine
 25440	1300	Biochemistry, Genetics and Molecular Biology
 25440	2700	Medicine
 25441	2700	Medicine
@@ -15990,7 +15983,7 @@ scopus_id	asjc_code	asjc_description
 25449	1100	Agricultural and Biological Sciences
 25450	1300	Biochemistry, Genetics and Molecular Biology
 25450	2700	Medicine
-25451	1000	General
+25451	1000	Multidisciplinary
 25452	2500	Materials Science
 25453	2700	Medicine
 25454	1300	Biochemistry, Genetics and Molecular Biology
@@ -16033,7 +16026,7 @@ scopus_id	asjc_code	asjc_description
 25487	2700	Medicine
 25488	1300	Biochemistry, Genetics and Molecular Biology
 25488	2700	Medicine
-25490	1000	General
+25490	1000	Multidisciplinary
 25491	2700	Medicine
 25491	2900	Nursing
 25493	3200	Psychology
@@ -16070,7 +16063,7 @@ scopus_id	asjc_code	asjc_description
 25520	2700	Medicine
 25521	1100	Agricultural and Biological Sciences
 25521	2500	Materials Science
-25522	1000	General
+25522	1000	Multidisciplinary
 25523	1300	Biochemistry, Genetics and Molecular Biology
 25523	2700	Medicine
 25524	1400	Business, Management and Accounting
@@ -16437,7 +16430,7 @@ scopus_id	asjc_code	asjc_description
 25821	1600	Chemistry
 25822	2300	Environmental Science
 25822	3300	Social Sciences
-25823	1000	General
+25823	1000	Multidisciplinary
 25824	1600	Chemistry
 25825	1100	Agricultural and Biological Sciences
 25825	1300	Biochemistry, Genetics and Molecular Biology
@@ -16526,7 +16519,6 @@ scopus_id	asjc_code	asjc_description
 25891	1600	Chemistry
 25891	2500	Materials Science
 25892	2600	Mathematics
-25893	2500	Materials Science
 25894	2600	Mathematics
 25895	1300	Biochemistry, Genetics and Molecular Biology
 25896	1600	Chemistry
@@ -16601,8 +16593,6 @@ scopus_id	asjc_code	asjc_description
 25944	1600	Chemistry
 25944	2500	Materials Science
 25944	3100	Physics and Astronomy
-25946	1600	Chemistry
-25946	2500	Materials Science
 25947	2700	Medicine
 25948	2700	Medicine
 25949	1300	Biochemistry, Genetics and Molecular Biology
@@ -16626,7 +16616,7 @@ scopus_id	asjc_code	asjc_description
 25963	2700	Medicine
 25964	2700	Medicine
 25965	2700	Medicine
-25966	1000	General
+25966	1000	Multidisciplinary
 25967	3300	Social Sciences
 25969	1200	Arts and Humanities
 25969	2000	Economics, Econometrics and Finance
@@ -16913,7 +16903,7 @@ scopus_id	asjc_code	asjc_description
 26191	2700	Medicine
 26192	2700	Medicine
 26193	2700	Medicine
-26195	1000	General
+26195	1000	Multidisciplinary
 26196	2200	Engineering
 26197	2100	Energy
 26198	1500	Chemical Engineering
@@ -16926,7 +16916,7 @@ scopus_id	asjc_code	asjc_description
 26203	2700	Medicine
 26205	2700	Medicine
 26206	1300	Biochemistry, Genetics and Molecular Biology
-26207	1000	General
+26207	1000	Multidisciplinary
 26208	1300	Biochemistry, Genetics and Molecular Biology
 26209	1100	Agricultural and Biological Sciences
 26210	1100	Agricultural and Biological Sciences
@@ -18435,6 +18425,7 @@ scopus_id	asjc_code	asjc_description
 27597	1400	Business, Management and Accounting
 27598	2700	Medicine
 27599	2900	Nursing
+27600	1900	Earth and Planetary Sciences
 27601	2700	Medicine
 27602	1900	Earth and Planetary Sciences
 27603	2700	Medicine
@@ -18758,8 +18749,6 @@ scopus_id	asjc_code	asjc_description
 27900	2500	Materials Science
 27901	2700	Medicine
 27902	2700	Medicine
-27905	1600	Chemistry
-27905	2500	Materials Science
 27906	1900	Earth and Planetary Sciences
 27908	1900	Earth and Planetary Sciences
 27910	1100	Agricultural and Biological Sciences
@@ -19398,7 +19387,7 @@ scopus_id	asjc_code	asjc_description
 28470	2600	Mathematics
 28471	2700	Medicine
 28471	3300	Social Sciences
-28472	1000	General
+28472	1000	Multidisciplinary
 28472	2600	Mathematics
 28473	3300	Social Sciences
 28474	1700	Computer Science
@@ -19697,6 +19686,9 @@ scopus_id	asjc_code	asjc_description
 28667	1900	Earth and Planetary Sciences
 28667	3300	Social Sciences
 28668	2700	Medicine
+28670	1900	Earth and Planetary Sciences
+28670	2300	Environmental Science
+28670	3300	Social Sciences
 28671	1900	Earth and Planetary Sciences
 28671	3300	Social Sciences
 28672	1900	Earth and Planetary Sciences
@@ -21431,6 +21423,8 @@ scopus_id	asjc_code	asjc_description
 30145	1900	Earth and Planetary Sciences
 30145	2300	Environmental Science
 30147	2200	Engineering
+30149	2300	Environmental Science
+30149	2700	Medicine
 30150	2200	Engineering
 30160	1700	Computer Science
 30162	2200	Engineering
@@ -21701,7 +21695,6 @@ scopus_id	asjc_code	asjc_description
 30966	2300	Environmental Science
 30969	1900	Earth and Planetary Sciences
 30969	2300	Environmental Science
-30981	2200	Engineering
 30986	2200	Engineering
 30987	1900	Earth and Planetary Sciences
 30987	2300	Environmental Science
@@ -22006,7 +21999,7 @@ scopus_id	asjc_code	asjc_description
 31722	2200	Engineering
 31726	1100	Agricultural and Biological Sciences
 31726	2200	Engineering
-31728	1000	General
+31728	1000	Multidisciplinary
 31747	2700	Medicine
 31749	2200	Engineering
 31751	1900	Earth and Planetary Sciences
@@ -22067,8 +22060,6 @@ scopus_id	asjc_code	asjc_description
 31877	1100	Agricultural and Biological Sciences
 31877	1500	Chemical Engineering
 31877	2300	Environmental Science
-31879	1900	Earth and Planetary Sciences
-31879	2200	Engineering
 31880	1900	Earth and Planetary Sciences
 31880	2300	Environmental Science
 31881	2200	Engineering
@@ -22595,6 +22586,7 @@ scopus_id	asjc_code	asjc_description
 33533	2700	Medicine
 33543	2200	Engineering
 33545	2400	Immunology and Microbiology
+33552	1100	Agricultural and Biological Sciences
 33557	2900	Nursing
 33559	1900	Earth and Planetary Sciences
 33560	2700	Medicine
@@ -22888,8 +22880,6 @@ scopus_id	asjc_code	asjc_description
 34417	1300	Biochemistry, Genetics and Molecular Biology
 34419	2700	Medicine
 34419	2800	Neuroscience
-34423	1900	Earth and Planetary Sciences
-34423	2100	Energy
 34432	2200	Engineering
 34441	2700	Medicine
 34445	2700	Medicine
@@ -23481,6 +23471,7 @@ scopus_id	asjc_code	asjc_description
 36096	2700	Medicine
 36099	2700	Medicine
 36099	3600	Health Professions
+36100	2200	Engineering
 36102	1100	Agricultural and Biological Sciences
 36103	2700	Medicine
 36104	1900	Earth and Planetary Sciences
@@ -23496,8 +23487,6 @@ scopus_id	asjc_code	asjc_description
 36139	2100	Energy
 36143	2200	Engineering
 36148	2400	Immunology and Microbiology
-36151	1900	Earth and Planetary Sciences
-36151	2300	Environmental Science
 36152	2200	Engineering
 36157	2500	Materials Science
 36158	1300	Biochemistry, Genetics and Molecular Biology
@@ -23646,6 +23635,7 @@ scopus_id	asjc_code	asjc_description
 36552	2700	Medicine
 36553	2700	Medicine
 36554	2200	Engineering
+36555	2700	Medicine
 36556	2700	Medicine
 36560	1300	Biochemistry, Genetics and Molecular Biology
 36562	2200	Engineering
@@ -23951,7 +23941,7 @@ scopus_id	asjc_code	asjc_description
 37527	1300	Biochemistry, Genetics and Molecular Biology
 37529	1100	Agricultural and Biological Sciences
 37536	2700	Medicine
-37540	1000	General
+37540	1000	Multidisciplinary
 37550	2700	Medicine
 37557	2200	Engineering
 37558	2200	Engineering
@@ -24240,7 +24230,7 @@ scopus_id	asjc_code	asjc_description
 38399	1500	Chemical Engineering
 38399	2200	Engineering
 38401	3100	Physics and Astronomy
-38404	1000	General
+38404	1000	Multidisciplinary
 38405	2200	Engineering
 38405	2700	Medicine
 38410	2700	Medicine
@@ -24440,7 +24430,7 @@ scopus_id	asjc_code	asjc_description
 38949	1500	Chemical Engineering
 38955	2200	Engineering
 38957	2200	Engineering
-38958	1000	General
+38958	1000	Multidisciplinary
 38958	2200	Engineering
 38961	1900	Earth and Planetary Sciences
 38961	2300	Environmental Science
@@ -24995,7 +24985,6 @@ scopus_id	asjc_code	asjc_description
 40695	1300	Biochemistry, Genetics and Molecular Biology
 40699	1500	Chemical Engineering
 40713	2700	Medicine
-40715	2200	Engineering
 40719	1100	Agricultural and Biological Sciences
 40720	1100	Agricultural and Biological Sciences
 40720	1400	Business, Management and Accounting
@@ -25182,12 +25171,12 @@ scopus_id	asjc_code	asjc_description
 50105	3000	Pharmacology, Toxicology and Pharmaceutics
 50105	3200	Psychology
 50108	2700	Medicine
-50110	1900	Earth and Planetary Sciences
 50111	2200	Engineering
 50114	2800	Neuroscience
 50115	2700	Medicine
 50115	3100	Physics and Astronomy
 50116	2200	Engineering
+50117	2700	Medicine
 50118	2700	Medicine
 50119	2700	Medicine
 50120	1100	Agricultural and Biological Sciences
@@ -25232,7 +25221,6 @@ scopus_id	asjc_code	asjc_description
 50209	1100	Agricultural and Biological Sciences
 50209	1300	Biochemistry, Genetics and Molecular Biology
 50209	2700	Medicine
-50211	2700	Medicine
 50212	1300	Biochemistry, Genetics and Molecular Biology
 50217	2700	Medicine
 50218	2700	Medicine
@@ -25348,7 +25336,6 @@ scopus_id	asjc_code	asjc_description
 51658	2200	Engineering
 51664	1700	Computer Science
 51664	2200	Engineering
-51665	2700	Medicine
 51667	2200	Engineering
 51667	2600	Mathematics
 51667	3100	Physics and Astronomy
@@ -25523,7 +25510,6 @@ scopus_id	asjc_code	asjc_description
 52779	2200	Engineering
 52786	2200	Engineering
 52791	2200	Engineering
-52796	2700	Medicine
 52815	2200	Engineering
 52817	2200	Engineering
 52825	1900	Earth and Planetary Sciences
@@ -25549,6 +25535,9 @@ scopus_id	asjc_code	asjc_description
 52936	1300	Biochemistry, Genetics and Molecular Biology
 52943	1700	Computer Science
 52945	2700	Medicine
+52946	1200	Arts and Humanities
+52946	2700	Medicine
+52946	3300	Social Sciences
 52947	2200	Engineering
 52949	2200	Engineering
 52950	2700	Medicine
@@ -26042,7 +26031,6 @@ scopus_id	asjc_code	asjc_description
 56197	1900	Earth and Planetary Sciences
 56197	2300	Environmental Science
 56201	2700	Medicine
-56202	2700	Medicine
 56212	2700	Medicine
 56216	1900	Earth and Planetary Sciences
 56216	2300	Environmental Science
@@ -26332,6 +26320,10 @@ scopus_id	asjc_code	asjc_description
 57869	2200	Engineering
 57870	2700	Medicine
 57872	2000	Economics, Econometrics and Finance
+57883	1100	Agricultural and Biological Sciences
+57883	1300	Biochemistry, Genetics and Molecular Biology
+57883	2400	Immunology and Microbiology
+57883	2700	Medicine
 57895	2200	Engineering
 57899	2700	Medicine
 57911	2200	Engineering
@@ -26555,14 +26547,12 @@ scopus_id	asjc_code	asjc_description
 59427	2400	Immunology and Microbiology
 59430	2700	Medicine
 59434	2700	Medicine
-59465	2700	Medicine
 59500	2200	Engineering
 59506	1900	Earth and Planetary Sciences
 59506	2300	Environmental Science
 59515	2700	Medicine
 59521	2700	Medicine
 59522	3000	Pharmacology, Toxicology and Pharmaceutics
-59529	2200	Engineering
 59552	2700	Medicine
 59557	2700	Medicine
 59559	2700	Medicine
@@ -26624,7 +26614,6 @@ scopus_id	asjc_code	asjc_description
 59863	1100	Agricultural and Biological Sciences
 59863	2200	Engineering
 59891	2700	Medicine
-59896	3100	Physics and Astronomy
 59899	2200	Engineering
 59904	2700	Medicine
 59917	2700	Medicine
@@ -26686,6 +26675,7 @@ scopus_id	asjc_code	asjc_description
 60226	2700	Medicine
 60234	2200	Engineering
 60241	2200	Engineering
+60256	1600	Chemistry
 60267	2500	Materials Science
 60277	1500	Chemical Engineering
 60277	1600	Chemistry
@@ -26809,6 +26799,7 @@ scopus_id	asjc_code	asjc_description
 61068	2100	Energy
 61074	2200	Engineering
 61099	2700	Medicine
+61102	3300	Social Sciences
 61105	2700	Medicine
 61114	1500	Chemical Engineering
 61114	2500	Materials Science
@@ -26853,7 +26844,7 @@ scopus_id	asjc_code	asjc_description
 61460	2700	Medicine
 61464	2200	Engineering
 61472	2700	Medicine
-61482	1000	General
+61482	1000	Multidisciplinary
 61490	1100	Agricultural and Biological Sciences
 61490	2200	Engineering
 61501	2500	Materials Science
@@ -27044,7 +27035,6 @@ scopus_id	asjc_code	asjc_description
 62608	2700	Medicine
 62609	1300	Biochemistry, Genetics and Molecular Biology
 62609	2800	Neuroscience
-62615	2700	Medicine
 62616	2200	Engineering
 62635	2200	Engineering
 62636	2200	Engineering
@@ -27088,7 +27078,6 @@ scopus_id	asjc_code	asjc_description
 62850	2200	Engineering
 62856	2700	Medicine
 62862	2200	Engineering
-62867	2200	Engineering
 62870	2200	Engineering
 62873	1700	Computer Science
 62873	2200	Engineering
@@ -27397,8 +27386,6 @@ scopus_id	asjc_code	asjc_description
 64927	2200	Engineering
 64936	1100	Agricultural and Biological Sciences
 64940	2200	Engineering
-64943	1100	Agricultural and Biological Sciences
-64943	1300	Biochemistry, Genetics and Molecular Biology
 64949	2200	Engineering
 64950	2200	Engineering
 64961	2700	Medicine
@@ -27588,6 +27575,7 @@ scopus_id	asjc_code	asjc_description
 66136	2200	Engineering
 66142	2700	Medicine
 66165	2700	Medicine
+66166	2200	Engineering
 66182	2700	Medicine
 66186	2200	Engineering
 66188	2200	Engineering
@@ -28056,6 +28044,9 @@ scopus_id	asjc_code	asjc_description
 68992	2200	Engineering
 68997	2700	Medicine
 69003	2700	Medicine
+69005	1100	Agricultural and Biological Sciences
+69005	1400	Business, Management and Accounting
+69005	2000	Economics, Econometrics and Finance
 69020	2700	Medicine
 69037	2200	Engineering
 69044	2700	Medicine
@@ -28391,7 +28382,7 @@ scopus_id	asjc_code	asjc_description
 71106	2700	Medicine
 71117	3300	Social Sciences
 71120	2700	Medicine
-71122	1000	General
+71122	1000	Multidisciplinary
 71124	1200	Arts and Humanities
 71124	2700	Medicine
 71124	3300	Social Sciences
@@ -28668,6 +28659,8 @@ scopus_id	asjc_code	asjc_description
 72953	2700	Medicine
 72957	2900	Nursing
 72964	2700	Medicine
+72981	1900	Earth and Planetary Sciences
+72981	2300	Environmental Science
 72998	2700	Medicine
 73004	1700	Computer Science
 73004	2200	Engineering
@@ -28806,6 +28799,7 @@ scopus_id	asjc_code	asjc_description
 74036	3200	Psychology
 74046	1700	Computer Science
 74053	2700	Medicine
+74062	2700	Medicine
 74068	2200	Engineering
 74079	2200	Engineering
 74085	2700	Medicine
@@ -28879,6 +28873,7 @@ scopus_id	asjc_code	asjc_description
 74516	3300	Social Sciences
 74522	2200	Engineering
 74525	2700	Medicine
+74535	1900	Earth and Planetary Sciences
 74546	2700	Medicine
 74553	1900	Earth and Planetary Sciences
 74559	2200	Engineering
@@ -29056,7 +29051,7 @@ scopus_id	asjc_code	asjc_description
 75562	2700	Medicine
 75565	2200	Engineering
 75566	2700	Medicine
-75573	1000	General
+75573	1000	Multidisciplinary
 75576	1400	Business, Management and Accounting
 75576	2200	Engineering
 75579	2200	Engineering
@@ -29211,7 +29206,7 @@ scopus_id	asjc_code	asjc_description
 76506	2700	Medicine
 76507	2200	Engineering
 76512	2700	Medicine
-76514	1000	General
+76514	1000	Multidisciplinary
 76522	2700	Medicine
 76528	2700	Medicine
 76532	2700	Medicine
@@ -29222,6 +29217,8 @@ scopus_id	asjc_code	asjc_description
 76579	2200	Engineering
 76584	2700	Medicine
 76587	1700	Computer Science
+76593	2000	Economics, Econometrics and Finance
+76593	3300	Social Sciences
 76602	2200	Engineering
 76616	2200	Engineering
 76621	2200	Engineering
@@ -29772,7 +29769,6 @@ scopus_id	asjc_code	asjc_description
 79913	2700	Medicine
 79917	1300	Biochemistry, Genetics and Molecular Biology
 79919	2200	Engineering
-79927	2800	Neuroscience
 79939	3300	Social Sciences
 79940	2700	Medicine
 79944	2700	Medicine
@@ -29832,7 +29828,6 @@ scopus_id	asjc_code	asjc_description
 80280	1300	Biochemistry, Genetics and Molecular Biology
 80280	2700	Medicine
 80293	2700	Medicine
-80295	1200	Arts and Humanities
 80296	2200	Engineering
 80296	2500	Materials Science
 80311	2200	Engineering
@@ -29945,7 +29940,7 @@ scopus_id	asjc_code	asjc_description
 80927	2700	Medicine
 80931	2700	Medicine
 80937	2700	Medicine
-80974	1000	General
+80974	1000	Multidisciplinary
 80975	1900	Earth and Planetary Sciences
 80975	2300	Environmental Science
 80983	2700	Medicine
@@ -30810,7 +30805,7 @@ scopus_id	asjc_code	asjc_description
 86852	1600	Chemistry
 86866	2200	Engineering
 86886	2700	Medicine
-86891	1000	General
+86891	1000	Multidisciplinary
 86892	1900	Earth and Planetary Sciences
 86892	2300	Environmental Science
 86896	2300	Environmental Science
@@ -30819,7 +30814,6 @@ scopus_id	asjc_code	asjc_description
 86907	2600	Mathematics
 86911	2200	Engineering
 86934	2000	Economics, Econometrics and Finance
-86935	2200	Engineering
 86937	1100	Agricultural and Biological Sciences
 86948	2700	Medicine
 86955	1900	Earth and Planetary Sciences
@@ -30963,6 +30957,9 @@ scopus_id	asjc_code	asjc_description
 87849	2300	Environmental Science
 87861	2700	Medicine
 87877	2700	Medicine
+87878	1200	Arts and Humanities
+87878	2700	Medicine
+87878	3300	Social Sciences
 87880	2700	Medicine
 87881	1400	Business, Management and Accounting
 87893	1700	Computer Science
@@ -31957,6 +31954,8 @@ scopus_id	asjc_code	asjc_description
 94097	1700	Computer Science
 94098	2700	Medicine
 94099	2500	Materials Science
+94118	1200	Arts and Humanities
+94118	3300	Social Sciences
 94140	2200	Engineering
 94144	2700	Medicine
 94148	2600	Mathematics
@@ -32491,6 +32490,7 @@ scopus_id	asjc_code	asjc_description
 97509	1400	Business, Management and Accounting
 97509	2200	Engineering
 97509	2500	Materials Science
+97530	2700	Medicine
 97531	2700	Medicine
 97557	2700	Medicine
 97561	2200	Engineering
@@ -32576,8 +32576,6 @@ scopus_id	asjc_code	asjc_description
 98083	1900	Earth and Planetary Sciences
 98083	2300	Environmental Science
 98085	3300	Social Sciences
-98101	2100	Energy
-98101	2300	Environmental Science
 98110	2700	Medicine
 98114	2700	Medicine
 98120	1100	Agricultural and Biological Sciences
@@ -32612,6 +32610,8 @@ scopus_id	asjc_code	asjc_description
 98293	2700	Medicine
 98333	2700	Medicine
 98344	2700	Medicine
+98347	2400	Immunology and Microbiology
+98347	2700	Medicine
 98351	2700	Medicine
 98352	3400	veterinary
 98356	2700	Medicine
@@ -32911,7 +32911,6 @@ scopus_id	asjc_code	asjc_description
 100321	2200	Engineering
 100326	2700	Medicine
 100333	2200	Engineering
-100336	2700	Medicine
 100339	2200	Engineering
 100345	3100	Physics and Astronomy
 100349	2200	Engineering
@@ -33096,6 +33095,8 @@ scopus_id	asjc_code	asjc_description
 101530	1300	Biochemistry, Genetics and Molecular Biology
 101537	2700	Medicine
 101543	2200	Engineering
+101546	1600	Chemistry
+101546	2500	Materials Science
 101574	2700	Medicine
 101575	2200	Engineering
 101580	2700	Medicine
@@ -33791,7 +33792,6 @@ scopus_id	asjc_code	asjc_description
 130135	2700	Medicine
 130137	2200	Engineering
 130138	1700	Computer Science
-130139	2700	Medicine
 130140	1900	Earth and Planetary Sciences
 130140	3300	Social Sciences
 130141	2500	Materials Science
@@ -37605,7 +37605,7 @@ scopus_id	asjc_code	asjc_description
 144722	2700	Medicine
 144723	2700	Medicine
 144724	1600	Chemistry
-144725	1000	General
+144725	1000	Multidisciplinary
 144726	2700	Medicine
 144726	2800	Neuroscience
 144728	2200	Engineering
@@ -37746,7 +37746,7 @@ scopus_id	asjc_code	asjc_description
 144837	3300	Social Sciences
 144838	2700	Medicine
 144839	2700	Medicine
-144840	1300	Biochemistry, Genetics and Molecular Biology
+144840	2700	Medicine
 144841	2700	Medicine
 144842	2600	Mathematics
 144843	2200	Engineering
@@ -37960,8 +37960,6 @@ scopus_id	asjc_code	asjc_description
 144998	3200	Psychology
 145000	2700	Medicine
 145000	3000	Pharmacology, Toxicology and Pharmaceutics
-145001	1300	Biochemistry, Genetics and Molecular Biology
-145001	2600	Mathematics
 145002	2200	Engineering
 145003	2200	Engineering
 145004	2700	Medicine
@@ -38310,7 +38308,7 @@ scopus_id	asjc_code	asjc_description
 145328	1400	Business, Management and Accounting
 145329	3300	Social Sciences
 145330	2600	Mathematics
-145331	1000	General
+145331	1000	Multidisciplinary
 145332	3300	Social Sciences
 145333	1700	Computer Science
 145333	2200	Engineering
@@ -38350,7 +38348,7 @@ scopus_id	asjc_code	asjc_description
 145362	2700	Medicine
 145363	1100	Agricultural and Biological Sciences
 145364	2200	Engineering
-145365	1000	General
+145365	1000	Multidisciplinary
 145366	2200	Engineering
 145367	2200	Engineering
 145368	2700	Medicine
@@ -38738,6 +38736,7 @@ scopus_id	asjc_code	asjc_description
 145698	2000	Economics, Econometrics and Finance
 145698	3300	Social Sciences
 145699	2200	Engineering
+145699	3100	Physics and Astronomy
 145700	2500	Materials Science
 145700	3100	Physics and Astronomy
 145701	2700	Medicine
@@ -38768,7 +38767,7 @@ scopus_id	asjc_code	asjc_description
 145726	2200	Engineering
 145727	1900	Earth and Planetary Sciences
 145727	2200	Engineering
-145728	1000	General
+145728	1000	Multidisciplinary
 145729	1800	Decision Sciences
 145729	2600	Mathematics
 145730	1900	Earth and Planetary Sciences
@@ -38844,7 +38843,6 @@ scopus_id	asjc_code	asjc_description
 147218	2200	Engineering
 147218	3300	Social Sciences
 147219	1900	Earth and Planetary Sciences
-147220	3200	Psychology
 147221	3300	Social Sciences
 147222	1900	Earth and Planetary Sciences
 147223	2200	Engineering
@@ -39163,7 +39161,7 @@ scopus_id	asjc_code	asjc_description
 1200147102	2200	Engineering
 1200147103	2200	Engineering
 1200147103	3100	Physics and Astronomy
-1300147101	1000	General
+1300147101	1000	Multidisciplinary
 1300147102	1900	Earth and Planetary Sciences
 1400147101	2200	Engineering
 1600147303	2200	Engineering
@@ -39268,7 +39266,6 @@ scopus_id	asjc_code	asjc_description
 3200147829	2200	Engineering
 3200147830	1400	Business, Management and Accounting
 3200147830	2000	Economics, Econometrics and Finance
-3200147831	2200	Engineering
 3200147832	2200	Engineering
 3200147832	2500	Materials Science
 3200147833	3300	Social Sciences
@@ -39450,7 +39447,7 @@ scopus_id	asjc_code	asjc_description
 3900148407	1700	Computer Science
 3900148501	3200	Psychology
 3900148501	3300	Social Sciences
-3900148502	1000	General
+3900148502	1000	Multidisciplinary
 3900148503	2200	Engineering
 3900148504	2700	Medicine
 3900148504	2900	Nursing
@@ -39466,7 +39463,7 @@ scopus_id	asjc_code	asjc_description
 3900148510	2900	Nursing
 3900148511	2700	Medicine
 3900148512	1900	Earth and Planetary Sciences
-3900148513	1000	General
+3900148513	1000	Multidisciplinary
 3900148601	2700	Medicine
 3900148602	3100	Physics and Astronomy
 3900148603	2500	Materials Science
@@ -39787,7 +39784,7 @@ scopus_id	asjc_code	asjc_description
 4000151814	2700	Medicine
 4000151815	1400	Business, Management and Accounting
 4000151816	2200	Engineering
-4000151817	1000	General
+4000151817	1000	Multidisciplinary
 4000151818	3300	Social Sciences
 4000151820	2000	Economics, Econometrics and Finance
 4000151820	2300	Environmental Science
@@ -40030,7 +40027,7 @@ scopus_id	asjc_code	asjc_description
 4400151502	2700	Medicine
 4400151503	1400	Business, Management and Accounting
 4400151505	3300	Social Sciences
-4400151506	1000	General
+4400151506	1000	Multidisciplinary
 4400151506	1700	Computer Science
 4400151506	2600	Mathematics
 4400151506	2700	Medicine
@@ -40102,7 +40099,7 @@ scopus_id	asjc_code	asjc_description
 4400151713	1300	Biochemistry, Genetics and Molecular Biology
 4400151713	2400	Immunology and Microbiology
 4400151715	2600	Mathematics
-4400151716	1000	General
+4400151716	1000	Multidisciplinary
 4400151717	1900	Earth and Planetary Sciences
 4400151718	2200	Engineering
 4400151719	2200	Engineering
@@ -41556,7 +41553,7 @@ scopus_id	asjc_code	asjc_description
 5000157201	1100	Agricultural and Biological Sciences
 5000157202	2500	Materials Science
 5000157203	2200	Engineering
-5000157301	1000	General
+5000157301	1000	Multidisciplinary
 5000157601	3200	Psychology
 5000157601	3300	Social Sciences
 5000157602	1300	Biochemistry, Genetics and Molecular Biology
@@ -41700,6 +41697,7 @@ scopus_id	asjc_code	asjc_description
 5000159300	1100	Agricultural and Biological Sciences
 5000159300	2300	Environmental Science
 5000159301	2700	Medicine
+5000159302	2700	Medicine
 5000159501	2200	Engineering
 5000159502	2200	Engineering
 5000159503	2200	Engineering
@@ -41792,11 +41790,8 @@ scopus_id	asjc_code	asjc_description
 5100152707	2200	Engineering
 5100152708	2200	Engineering
 5100152901	2200	Engineering
-5100152902	1900	Earth and Planetary Sciences
 5100152903	1100	Agricultural and Biological Sciences
 5100152903	3000	Pharmacology, Toxicology and Pharmaceutics
-5100152904	1700	Computer Science
-5100152904	2200	Engineering
 5100152905	2700	Medicine
 5100152906	2200	Engineering
 5100152907	2200	Engineering
@@ -41918,6 +41913,7 @@ scopus_id	asjc_code	asjc_description
 5100155058	2700	Medicine
 5100155059	2700	Medicine
 5100155060	2200	Engineering
+5100155061	1600	Chemistry
 5100155062	2200	Engineering
 5100155063	2200	Engineering
 5100155064	2200	Engineering
@@ -42368,6 +42364,7 @@ scopus_id	asjc_code	asjc_description
 5400152621	3300	Social Sciences
 5400152622	3100	Physics and Astronomy
 5400152623	2700	Medicine
+5400152624	1600	Chemistry
 5400152625	2200	Engineering
 5400152626	2200	Engineering
 5400152627	2200	Engineering
@@ -42415,7 +42412,7 @@ scopus_id	asjc_code	asjc_description
 5400152702	3200	Psychology
 5400152703	2700	Medicine
 5400152704	2700	Medicine
-5400152705	1000	General
+5400152705	1000	Multidisciplinary
 5400152706	2200	Engineering
 5400152706	3000	Pharmacology, Toxicology and Pharmaceutics
 5400152707	2300	Environmental Science
@@ -42512,6 +42509,8 @@ scopus_id	asjc_code	asjc_description
 5600152888	3300	Social Sciences
 5600152890	3200	Psychology
 5600152890	3300	Social Sciences
+5600152894	2700	Medicine
+5600152895	3300	Social Sciences
 5600152899	3300	Social Sciences
 5600152902	2700	Medicine
 5600152902	3300	Social Sciences
@@ -42528,6 +42527,8 @@ scopus_id	asjc_code	asjc_description
 5600152925	1200	Arts and Humanities
 5600152925	3300	Social Sciences
 5600152936	3300	Social Sciences
+5600152937	1200	Arts and Humanities
+5600152937	3300	Social Sciences
 5600152947	1200	Arts and Humanities
 5600152947	3300	Social Sciences
 5600152949	3300	Social Sciences
@@ -42567,8 +42568,6 @@ scopus_id	asjc_code	asjc_description
 5600153136	1200	Arts and Humanities
 5600153136	3300	Social Sciences
 5600153144	3300	Social Sciences
-5600153154	2700	Medicine
-5600153154	3300	Social Sciences
 5600153156	3300	Social Sciences
 5600153158	1200	Arts and Humanities
 5600153161	3300	Social Sciences
@@ -42583,6 +42582,8 @@ scopus_id	asjc_code	asjc_description
 5600153203	3200	Psychology
 5600153203	3300	Social Sciences
 5600153207	3300	Social Sciences
+5600153208	1200	Arts and Humanities
+5600153208	3300	Social Sciences
 5600153211	3300	Social Sciences
 5600153212	1200	Arts and Humanities
 5600153212	3300	Social Sciences
@@ -42688,6 +42689,8 @@ scopus_id	asjc_code	asjc_description
 5600155004	3300	Social Sciences
 5600155013	1200	Arts and Humanities
 5600155013	3300	Social Sciences
+5600155015	1200	Arts and Humanities
+5600155015	3300	Social Sciences
 5600155017	3300	Social Sciences
 5600155020	3300	Social Sciences
 5600155022	3300	Social Sciences
@@ -42767,8 +42770,12 @@ scopus_id	asjc_code	asjc_description
 5600155448	1200	Arts and Humanities
 5600155499	3300	Social Sciences
 5600155504	3300	Social Sciences
+5600155515	3300	Social Sciences
 5600155520	1200	Arts and Humanities
 5600155520	3300	Social Sciences
+5600155528	1400	Business, Management and Accounting
+5600155528	3200	Psychology
+5600155528	3300	Social Sciences
 5600155537	3300	Social Sciences
 5600155551	3300	Social Sciences
 5600155552	1200	Arts and Humanities
@@ -42832,6 +42839,7 @@ scopus_id	asjc_code	asjc_description
 5600157610	2200	Engineering
 5600157612	1100	Agricultural and Biological Sciences
 5600157612	2300	Environmental Science
+5600157613	2600	Mathematics
 5600157614	2600	Mathematics
 5600157615	2900	Nursing
 5600157616	1200	Arts and Humanities
@@ -43230,14 +43238,14 @@ scopus_id	asjc_code	asjc_description
 5700165164	1400	Business, Management and Accounting
 5700165164	2500	Materials Science
 5700165165	1400	Business, Management and Accounting
-5700165166	1000	General
+5700165166	1000	Multidisciplinary
 5700165167	2700	Medicine
 5700165168	1400	Business, Management and Accounting
 5700165169	3100	Physics and Astronomy
 5700165170	1900	Earth and Planetary Sciences
 5700165171	1200	Arts and Humanities
 5700165171	3300	Social Sciences
-5700165172	1000	General
+5700165172	1000	Multidisciplinary
 5700165173	1400	Business, Management and Accounting
 5700165173	2700	Medicine
 5700165173	3000	Pharmacology, Toxicology and Pharmaceutics
@@ -43272,6 +43280,7 @@ scopus_id	asjc_code	asjc_description
 5700165614	3300	Social Sciences
 5700165635	3300	Social Sciences
 5700165656	3300	Social Sciences
+5700165814	2700	Medicine
 5700166179	3300	Social Sciences
 5700166187	3300	Social Sciences
 5700166220	1200	Arts and Humanities
@@ -43300,6 +43309,8 @@ scopus_id	asjc_code	asjc_description
 5700167217	3300	Social Sciences
 5700167221	3300	Social Sciences
 5700167223	3300	Social Sciences
+5700167230	3200	Psychology
+5700167230	3300	Social Sciences
 5700167235	1400	Business, Management and Accounting
 5700167235	2000	Economics, Econometrics and Finance
 5700167235	2700	Medicine
@@ -43311,6 +43322,7 @@ scopus_id	asjc_code	asjc_description
 5700168058	3300	Social Sciences
 5700168194	1400	Business, Management and Accounting
 5700168194	3300	Social Sciences
+5700168238	3300	Social Sciences
 5700168298	3200	Psychology
 5700168298	3300	Social Sciences
 5700168304	1200	Arts and Humanities
@@ -43334,6 +43346,8 @@ scopus_id	asjc_code	asjc_description
 5700168538	1200	Arts and Humanities
 5700168539	1200	Arts and Humanities
 5700168539	3300	Social Sciences
+5700168544	3200	Psychology
+5700168544	3300	Social Sciences
 5700168548	3300	Social Sciences
 5700168551	3300	Social Sciences
 5700168554	1200	Arts and Humanities
@@ -43365,6 +43379,7 @@ scopus_id	asjc_code	asjc_description
 5700169127	3300	Social Sciences
 5700169133	1200	Arts and Humanities
 5700169133	3300	Social Sciences
+5700169134	1400	Business, Management and Accounting
 5700169137	1200	Arts and Humanities
 5700169137	3300	Social Sciences
 5700169140	1200	Arts and Humanities
@@ -43379,6 +43394,7 @@ scopus_id	asjc_code	asjc_description
 5700169428	1200	Arts and Humanities
 5700169459	1200	Arts and Humanities
 5700169459	3300	Social Sciences
+5700169467	3300	Social Sciences
 5700169551	1200	Arts and Humanities
 5700169551	2700	Medicine
 5700169553	2700	Medicine
@@ -43410,16 +43426,18 @@ scopus_id	asjc_code	asjc_description
 5700176816	1400	Business, Management and Accounting
 5700176816	2200	Engineering
 5700176816	3300	Social Sciences
+5700176860	2000	Economics, Econometrics and Finance
+5700176860	3300	Social Sciences
 5700176869	3300	Social Sciences
 5700176915	2700	Medicine
 5700176915	3300	Social Sciences
 5700177049	1200	Arts and Humanities
 5700177049	3300	Social Sciences
-5700177090	1000	General
+5700177090	1000	Multidisciplinary
 5700177090	1200	Arts and Humanities
 5700177090	3200	Psychology
 5700177090	3300	Social Sciences
-5700177114	1000	General
+5700177114	1000	Multidisciplinary
 5700177114	1200	Arts and Humanities
 5700177114	3200	Psychology
 5700177114	3300	Social Sciences
@@ -43438,6 +43456,8 @@ scopus_id	asjc_code	asjc_description
 5700179507	3300	Social Sciences
 5700181417	1200	Arts and Humanities
 5700181457	1200	Arts and Humanities
+5700181569	3200	Psychology
+5700181569	3300	Social Sciences
 5700181592	1200	Arts and Humanities
 5700181592	3300	Social Sciences
 5700181944	1200	Arts and Humanities
@@ -43461,6 +43481,7 @@ scopus_id	asjc_code	asjc_description
 5700184173	3300	Social Sciences
 5700184957	3200	Psychology
 5700184957	3300	Social Sciences
+5700185098	1400	Business, Management and Accounting
 5700185131	1400	Business, Management and Accounting
 5700185131	3300	Social Sciences
 5700185415	1200	Arts and Humanities
@@ -43590,7 +43611,6 @@ scopus_id	asjc_code	asjc_description
 5800169457	1400	Business, Management and Accounting
 5800169457	3300	Social Sciences
 5800169464	3300	Social Sciences
-5800169479	3300	Social Sciences
 5800169484	1200	Arts and Humanities
 5800169484	3300	Social Sciences
 5800169547	3300	Social Sciences
@@ -43791,7 +43811,7 @@ scopus_id	asjc_code	asjc_description
 5800207372	2200	Engineering
 5800207372	2500	Materials Science
 5800207373	3200	Psychology
-5800207374	1000	General
+5800207374	1000	Multidisciplinary
 5800207375	2700	Medicine
 5800207375	3600	Health Professions
 5800207376	2700	Medicine
@@ -43864,7 +43884,7 @@ scopus_id	asjc_code	asjc_description
 5800207551	1700	Computer Science
 5800207551	3200	Psychology
 5800207551	3300	Social Sciences
-5800207553	1000	General
+5800207553	1000	Multidisciplinary
 5800207553	1200	Arts and Humanities
 5800207553	3200	Psychology
 5800207553	3300	Social Sciences
@@ -43967,6 +43987,8 @@ scopus_id	asjc_code	asjc_description
 5800207694	3300	Social Sciences
 5800207697	1200	Arts and Humanities
 5800207697	3300	Social Sciences
+5800207698	1200	Arts and Humanities
+5800207698	3300	Social Sciences
 5800207700	1200	Arts and Humanities
 5800207700	3300	Social Sciences
 5800207702	3300	Social Sciences
@@ -44039,7 +44061,7 @@ scopus_id	asjc_code	asjc_description
 5800207811	3300	Social Sciences
 5800207812	1200	Arts and Humanities
 5800207812	3300	Social Sciences
-5800207817	1000	General
+5800207817	1000	Multidisciplinary
 5800207817	1200	Arts and Humanities
 5800207817	3200	Psychology
 5800207817	3300	Social Sciences
@@ -44060,6 +44082,8 @@ scopus_id	asjc_code	asjc_description
 5800207861	3300	Social Sciences
 5800207863	1200	Arts and Humanities
 5800207863	3300	Social Sciences
+5800207867	1200	Arts and Humanities
+5800207867	3300	Social Sciences
 5800207868	1200	Arts and Humanities
 5800207868	3300	Social Sciences
 5800207869	1200	Arts and Humanities
@@ -44104,7 +44128,7 @@ scopus_id	asjc_code	asjc_description
 5800208051	1200	Arts and Humanities
 5800208051	3200	Psychology
 5800208051	3300	Social Sciences
-5800208054	1000	General
+5800208054	1000	Multidisciplinary
 5800208054	1200	Arts and Humanities
 5800208054	3200	Psychology
 5800208054	3300	Social Sciences
@@ -44136,6 +44160,8 @@ scopus_id	asjc_code	asjc_description
 5800208235	3200	Psychology
 5800208237	1200	Arts and Humanities
 5800208237	3300	Social Sciences
+5800208246	1200	Arts and Humanities
+5800208246	3300	Social Sciences
 5800208299	1200	Arts and Humanities
 5800208299	3300	Social Sciences
 5800208320	1100	Agricultural and Biological Sciences
@@ -44307,8 +44333,6 @@ scopus_id	asjc_code	asjc_description
 5900152813	1200	Arts and Humanities
 5900152813	3300	Social Sciences
 5900152815	1200	Arts and Humanities
-5900152820	1200	Arts and Humanities
-5900152820	1400	Business, Management and Accounting
 5900152839	1200	Arts and Humanities
 5900152861	1200	Arts and Humanities
 5900152863	1200	Arts and Humanities
@@ -44379,6 +44403,7 @@ scopus_id	asjc_code	asjc_description
 6000152770	1200	Arts and Humanities
 6000152793	1200	Arts and Humanities
 6000152793	3300	Social Sciences
+6000152798	1200	Arts and Humanities
 6000152799	1200	Arts and Humanities
 6000152799	3300	Social Sciences
 6000152801	1200	Arts and Humanities
@@ -44513,6 +44538,10 @@ scopus_id	asjc_code	asjc_description
 6100152806	2200	Engineering
 6100152807	1400	Business, Management and Accounting
 6100152807	1700	Computer Science
+6100152901	2000	Economics, Econometrics and Finance
+6100152902	1300	Biochemistry, Genetics and Molecular Biology
+6100152902	1600	Chemistry
+6100152902	3100	Physics and Astronomy
 6100152903	2600	Mathematics
 6100152904	2600	Mathematics
 6100152905	3200	Psychology
@@ -44547,6 +44576,13 @@ scopus_id	asjc_code	asjc_description
 6100153025	1600	Chemistry
 6100153026	1200	Arts and Humanities
 6100153027	1100	Agricultural and Biological Sciences
+6100153101	3300	Social Sciences
+6100153102	3200	Psychology
+6100153103	1300	Biochemistry, Genetics and Molecular Biology
+6100153103	3600	Health Professions
+6100153105	1100	Agricultural and Biological Sciences
+6100153105	1900	Earth and Planetary Sciences
+6100153105	2200	Engineering
 6100153106	1700	Computer Science
 6100153106	2200	Engineering
 6100153107	1900	Earth and Planetary Sciences
@@ -44556,11 +44592,16 @@ scopus_id	asjc_code	asjc_description
 6200158425	3200	Psychology
 6200158425	3300	Social Sciences
 6200162323	1100	Agricultural and Biological Sciences
+6200171093	1200	Arts and Humanities
+6200171093	3300	Social Sciences
 6200175025	1200	Arts and Humanities
 6200180148	1500	Chemical Engineering
 6200180148	1600	Chemistry
 6200180148	2500	Materials Science
 6200180149	2600	Mathematics
+6200180150	1100	Agricultural and Biological Sciences
+6200180150	1900	Earth and Planetary Sciences
+6200180150	2200	Engineering
 6200180151	3200	Psychology
 6200180151	3300	Social Sciences
 6200180153	1900	Earth and Planetary Sciences
@@ -44590,11 +44631,15 @@ scopus_id	asjc_code	asjc_description
 6200180167	1800	Decision Sciences
 6200180168	1400	Business, Management and Accounting
 6200180169	2600	Mathematics
+6200180170	1300	Biochemistry, Genetics and Molecular Biology
+6200180170	1600	Chemistry
+6200180170	3100	Physics and Astronomy
 6200180171	1100	Agricultural and Biological Sciences
 6200180171	2700	Medicine
 6200180174	1400	Business, Management and Accounting
 6200180174	2000	Economics, Econometrics and Finance
 6200180175	2600	Mathematics
+6200180176	3200	Psychology
 6200180178	2700	Medicine
 6200180179	2700	Medicine
 6200180180	2200	Engineering
@@ -44729,7 +44774,7 @@ scopus_id	asjc_code	asjc_description
 6400153119	2900	Nursing
 6400153120	2700	Medicine
 6400153120	3000	Pharmacology, Toxicology and Pharmaceutics
-6400153122	1000	General
+6400153122	1000	Multidisciplinary
 6400153123	2600	Mathematics
 6400153124	1100	Agricultural and Biological Sciences
 6400153124	2300	Environmental Science
@@ -44840,7 +44885,7 @@ scopus_id	asjc_code	asjc_description
 6500153114	2700	Medicine
 6500153123	1200	Arts and Humanities
 6500153123	3300	Social Sciences
-6500153124	1000	General
+6500153124	1000	Multidisciplinary
 6500153124	1200	Arts and Humanities
 6500153126	1200	Arts and Humanities
 6500153128	1200	Arts and Humanities
@@ -44957,6 +45002,7 @@ scopus_id	asjc_code	asjc_description
 6600153204	2700	Medicine
 6600153204	2800	Neuroscience
 6600153205	2700	Medicine
+6700153117	1200	Arts and Humanities
 6700153127	1200	Arts and Humanities
 6700153208	1200	Arts and Humanities
 6700153216	1200	Arts and Humanities
@@ -45487,7 +45533,7 @@ scopus_id	asjc_code	asjc_description
 7700153221	1700	Computer Science
 7700153222	1700	Computer Science
 7700153223	2600	Mathematics
-7700153224	1000	General
+7700153224	1000	Multidisciplinary
 7700153225	3300	Social Sciences
 7700153226	1500	Chemical Engineering
 7700153226	2200	Engineering
@@ -45686,6 +45732,7 @@ scopus_id	asjc_code	asjc_description
 8200153104	2200	Engineering
 8200153105	1700	Computer Science
 8200153106	1100	Agricultural and Biological Sciences
+8200153107	1300	Biochemistry, Genetics and Molecular Biology
 8200153108	2200	Engineering
 8200153109	1700	Computer Science
 8200153110	1700	Computer Science
@@ -45771,7 +45818,7 @@ scopus_id	asjc_code	asjc_description
 8500153133	1700	Computer Science
 8500153133	1800	Decision Sciences
 8600153101	1100	Agricultural and Biological Sciences
-8600153102	1000	General
+8600153102	1000	Multidisciplinary
 8600153104	1300	Biochemistry, Genetics and Molecular Biology
 8600153105	1700	Computer Science
 8600153105	2200	Engineering
@@ -46575,7 +46622,6 @@ scopus_id	asjc_code	asjc_description
 11000153707	2700	Medicine
 11000153709	1100	Agricultural and Biological Sciences
 11000153709	1300	Biochemistry, Genetics and Molecular Biology
-11000153710	1600	Chemistry
 11000153713	1400	Business, Management and Accounting
 11000153715	2700	Medicine
 11000153716	2700	Medicine
@@ -46737,7 +46783,7 @@ scopus_id	asjc_code	asjc_description
 11200153530	2200	Engineering
 11200153531	1700	Computer Science
 11200153531	2600	Mathematics
-11200153534	1000	General
+11200153534	1000	Multidisciplinary
 11200153534	2200	Engineering
 11200153535	1700	Computer Science
 11200153535	2200	Engineering
@@ -46754,7 +46800,7 @@ scopus_id	asjc_code	asjc_description
 11200153544	2600	Mathematics
 11200153545	1500	Chemical Engineering
 11200153545	1700	Computer Science
-11200153546	1000	General
+11200153546	1000	Multidisciplinary
 11200153546	2200	Engineering
 11200153547	1600	Chemistry
 11200153547	2500	Materials Science
@@ -46975,8 +47021,9 @@ scopus_id	asjc_code	asjc_description
 11400153337	1100	Agricultural and Biological Sciences
 11400153338	1400	Business, Management and Accounting
 11400153338	2200	Engineering
+11500153301	1300	Biochemistry, Genetics and Molecular Biology
 11500153302	2700	Medicine
-11500153303	1000	General
+11500153303	1000	Multidisciplinary
 11500153304	2600	Mathematics
 11500153305	1300	Biochemistry, Genetics and Molecular Biology
 11500153305	2700	Medicine
@@ -47109,6 +47156,7 @@ scopus_id	asjc_code	asjc_description
 11600153481	3300	Social Sciences
 11600153482	1200	Arts and Humanities
 11600153483	1200	Arts and Humanities
+11600153484	3300	Social Sciences
 11600153487	3300	Social Sciences
 11600153566	3300	Social Sciences
 11600153582	3300	Social Sciences
@@ -47909,8 +47957,6 @@ scopus_id	asjc_code	asjc_description
 12000154314	3300	Social Sciences
 12000154315	2200	Engineering
 12000154316	1900	Earth and Planetary Sciences
-12000154317	2200	Engineering
-12000154317	2500	Materials Science
 12000154318	1700	Computer Science
 12000154319	2700	Medicine
 12000154319	3200	Psychology
@@ -48692,7 +48738,6 @@ scopus_id	asjc_code	asjc_description
 12100155435	1700	Computer Science
 12100155435	2200	Engineering
 12100155501	2700	Medicine
-12100155502	2700	Medicine
 12100155503	2700	Medicine
 12100155504	1700	Computer Science
 12100155504	2200	Engineering
@@ -48882,6 +48927,7 @@ scopus_id	asjc_code	asjc_description
 12100156092	3300	Social Sciences
 12100156093	1200	Arts and Humanities
 12100156093	3600	Health Professions
+12100156106	3300	Social Sciences
 12100156129	3200	Psychology
 12100156129	3300	Social Sciences
 12100156147	1200	Arts and Humanities
@@ -48894,6 +48940,7 @@ scopus_id	asjc_code	asjc_description
 12100156320	2800	Neuroscience
 12100156320	3200	Psychology
 12100156320	3300	Social Sciences
+12100156325	3300	Social Sciences
 12100156333	1200	Arts and Humanities
 12100156333	3300	Social Sciences
 12100156346	1200	Arts and Humanities
@@ -50136,7 +50183,7 @@ scopus_id	asjc_code	asjc_description
 14000155544	3300	Social Sciences
 14000155810	1200	Arts and Humanities
 14000155810	3300	Social Sciences
-14000155853	1000	General
+14000155853	1000	Multidisciplinary
 14000155853	1200	Arts and Humanities
 14000155853	3200	Psychology
 14000155853	3300	Social Sciences
@@ -50163,8 +50210,6 @@ scopus_id	asjc_code	asjc_description
 14000155911	3200	Psychology
 14000155925	1200	Arts and Humanities
 14000155926	1200	Arts and Humanities
-14000156115	1200	Arts and Humanities
-14000156115	3300	Social Sciences
 14000156149	1200	Arts and Humanities
 14000156149	3300	Social Sciences
 14000156160	3300	Social Sciences
@@ -50664,7 +50709,6 @@ scopus_id	asjc_code	asjc_description
 15300154806	1200	Arts and Humanities
 15300154806	3300	Social Sciences
 15300154807	2700	Medicine
-15300154808	3300	Social Sciences
 15300154810	2400	Immunology and Microbiology
 15300154810	2700	Medicine
 15300154812	1100	Agricultural and Biological Sciences
@@ -50678,8 +50722,6 @@ scopus_id	asjc_code	asjc_description
 15300154819	2700	Medicine
 15300154819	3600	Health Professions
 15300154820	2200	Engineering
-15300154821	3100	Physics and Astronomy
-15300154822	3100	Physics and Astronomy
 15300154823	2700	Medicine
 15300154824	2700	Medicine
 15300154824	2900	Nursing
@@ -51107,7 +51149,7 @@ scopus_id	asjc_code	asjc_description
 16100154767	1200	Arts and Humanities
 16100154768	1200	Arts and Humanities
 16100154768	3300	Social Sciences
-16100154769	1000	General
+16100154769	1000	Multidisciplinary
 16100154769	1200	Arts and Humanities
 16100154770	1200	Arts and Humanities
 16100154770	3300	Social Sciences
@@ -51368,7 +51410,6 @@ scopus_id	asjc_code	asjc_description
 16300154761	1200	Arts and Humanities
 16300154761	3300	Social Sciences
 16300154762	1200	Arts and Humanities
-16300154763	1200	Arts and Humanities
 16300154764	1200	Arts and Humanities
 16300154764	3300	Social Sciences
 16300154765	1200	Arts and Humanities
@@ -51555,7 +51596,7 @@ scopus_id	asjc_code	asjc_description
 16500154705	1100	Agricultural and Biological Sciences
 16500154706	1100	Agricultural and Biological Sciences
 16500154706	3400	veterinary
-16500154707	1000	General
+16500154707	1000	Multidisciplinary
 16500154708	2700	Medicine
 16500154709	1200	Arts and Humanities
 16500154709	3300	Social Sciences
@@ -52094,8 +52135,6 @@ scopus_id	asjc_code	asjc_description
 17300154988	1300	Biochemistry, Genetics and Molecular Biology
 17300154988	1700	Computer Science
 17300154988	2600	Mathematics
-17300154989	2500	Materials Science
-17300154989	3100	Physics and Astronomy
 17300154990	1700	Computer Science
 17300154991	1700	Computer Science
 17300154992	1700	Computer Science
@@ -52375,11 +52414,10 @@ scopus_id	asjc_code	asjc_description
 17600155012	3300	Social Sciences
 17600155013	2200	Engineering
 17600155013	2600	Mathematics
-17600155014	1000	General
+17600155014	1000	Multidisciplinary
 17600155015	1400	Business, Management and Accounting
 17600155015	2000	Economics, Econometrics and Finance
 17600155016	2700	Medicine
-17600155017	3100	Physics and Astronomy
 17600155018	1100	Agricultural and Biological Sciences
 17600155019	1700	Computer Science
 17600155019	2200	Engineering
@@ -52446,12 +52484,12 @@ scopus_id	asjc_code	asjc_description
 17600155101	2000	Economics, Econometrics and Finance
 17600155103	3300	Social Sciences
 17600155104	3300	Social Sciences
-17600155105	1000	General
+17600155105	1000	Multidisciplinary
 17600155106	1800	Decision Sciences
 17600155106	2200	Engineering
 17600155107	3100	Physics and Astronomy
-17600155109	1000	General
-17600155110	1000	General
+17600155109	1000	Multidisciplinary
+17600155110	1000	Multidisciplinary
 17600155110	2200	Engineering
 17600155112	3300	Social Sciences
 17600155113	1700	Computer Science
@@ -52480,7 +52518,7 @@ scopus_id	asjc_code	asjc_description
 17600155126	3300	Social Sciences
 17600155127	1600	Chemistry
 17600155128	2700	Medicine
-17600155129	1000	General
+17600155129	1000	Multidisciplinary
 17600155129	3300	Social Sciences
 17600155130	2700	Medicine
 17600155131	2700	Medicine
@@ -52701,6 +52739,8 @@ scopus_id	asjc_code	asjc_description
 17700155410	2200	Engineering
 17700155411	2300	Environmental Science
 17700155411	3000	Pharmacology, Toxicology and Pharmaceutics
+17700155413	1200	Arts and Humanities
+17700155413	3300	Social Sciences
 17700155415	1200	Arts and Humanities
 17700155415	3300	Social Sciences
 17700155419	3300	Social Sciences
@@ -52725,7 +52765,7 @@ scopus_id	asjc_code	asjc_description
 17700155712	1400	Business, Management and Accounting
 17700155712	2000	Economics, Econometrics and Finance
 17700155801	2700	Medicine
-17700155802	1000	General
+17700155802	1000	Multidisciplinary
 17700155803	3300	Social Sciences
 17700155804	1700	Computer Science
 17700155804	3300	Social Sciences
@@ -52835,7 +52875,7 @@ scopus_id	asjc_code	asjc_description
 17700156308	2700	Medicine
 17700156309	2400	Immunology and Microbiology
 17700156309	2700	Medicine
-17700156311	1000	General
+17700156311	1000	Multidisciplinary
 17700156312	2300	Environmental Science
 17700156312	3300	Social Sciences
 17700156313	2700	Medicine
@@ -53158,7 +53198,6 @@ scopus_id	asjc_code	asjc_description
 17700156778	1700	Computer Science
 17700156778	2200	Engineering
 17800156701	2200	Engineering
-17800156702	1900	Earth and Planetary Sciences
 17800156703	3200	Psychology
 17800156703	3300	Social Sciences
 17800156704	2700	Medicine
@@ -53521,19 +53560,15 @@ scopus_id	asjc_code	asjc_description
 18500157900	3000	Pharmacology, Toxicology and Pharmaceutics
 18500158000	2700	Medicine
 18500158100	3300	Social Sciences
-18500158200	1200	Arts and Humanities
-18500158400	2700	Medicine
+18500158300	1200	Arts and Humanities
 18500158500	2700	Medicine
 18500158600	1500	Chemical Engineering
 18500158600	1600	Chemistry
 18500158600	2500	Materials Science
-18500158900	1100	Agricultural and Biological Sciences
-18500158900	2000	Economics, Econometrics and Finance
 18500159000	2700	Medicine
 18500159400	1400	Business, Management and Accounting
 18500159400	2200	Engineering
 18500159400	2300	Environmental Science
-18500161200	2200	Engineering
 18500161300	1400	Business, Management and Accounting
 18500161300	2200	Engineering
 18500161300	2500	Materials Science
@@ -53541,6 +53576,7 @@ scopus_id	asjc_code	asjc_description
 18500161400	2500	Materials Science
 18500161500	2200	Engineering
 18500161600	2200	Engineering
+18500161700	2700	Medicine
 18500161800	1200	Arts and Humanities
 18500161800	3300	Social Sciences
 18500161900	1700	Computer Science
@@ -53724,7 +53760,7 @@ scopus_id	asjc_code	asjc_description
 18800156730	3000	Pharmacology, Toxicology and Pharmaceutics
 18800156731	3300	Social Sciences
 18800156733	2300	Environmental Science
-18800156734	1000	General
+18800156734	1000	Multidisciplinary
 18800156734	2200	Engineering
 18800156735	1700	Computer Science
 18800156735	2200	Engineering
@@ -53875,9 +53911,6 @@ scopus_id	asjc_code	asjc_description
 19200156972	1700	Computer Science
 19200156973	1700	Computer Science
 19200156973	2200	Engineering
-19200157001	1300	Biochemistry, Genetics and Molecular Biology
-19200157001	3200	Psychology
-19200157001	3300	Social Sciences
 19200157002	1700	Computer Science
 19200157003	1700	Computer Science
 19200157004	1700	Computer Science
@@ -54117,7 +54150,7 @@ scopus_id	asjc_code	asjc_description
 19300157106	1800	Decision Sciences
 19300157106	2200	Engineering
 19300157107	1400	Business, Management and Accounting
-19300157108	1000	General
+19300157108	1000	Multidisciplinary
 19300157109	3300	Social Sciences
 19300157110	2200	Engineering
 19300157111	1400	Business, Management and Accounting
@@ -54279,6 +54312,8 @@ scopus_id	asjc_code	asjc_description
 19400157123	2700	Medicine
 19400157124	2500	Materials Science
 19400157124	3100	Physics and Astronomy
+19400157126	1200	Arts and Humanities
+19400157126	3300	Social Sciences
 19400157128	2700	Medicine
 19400157129	2700	Medicine
 19400157130	1700	Computer Science
@@ -54288,7 +54323,7 @@ scopus_id	asjc_code	asjc_description
 19400157139	2700	Medicine
 19400157140	1700	Computer Science
 19400157141	1400	Business, Management and Accounting
-19400157142	1000	General
+19400157142	1000	Multidisciplinary
 19400157143	1700	Computer Science
 19400157143	1900	Earth and Planetary Sciences
 19400157144	2000	Economics, Econometrics and Finance
@@ -54444,7 +54479,7 @@ scopus_id	asjc_code	asjc_description
 19400157271	1900	Earth and Planetary Sciences
 19400157271	2100	Energy
 19400157272	2200	Engineering
-19400157273	1000	General
+19400157273	1000	Multidisciplinary
 19400157273	1200	Arts and Humanities
 19400157273	2200	Engineering
 19400157274	1300	Biochemistry, Genetics and Molecular Biology
@@ -55579,7 +55614,7 @@ scopus_id	asjc_code	asjc_description
 19500157415	2300	Environmental Science
 19500157416	2100	Energy
 19500157416	2200	Engineering
-19500157417	1000	General
+19500157417	1000	Multidisciplinary
 19500157418	2200	Engineering
 19500157419	2200	Engineering
 19500157420	1200	Arts and Humanities
@@ -55709,6 +55744,8 @@ scopus_id	asjc_code	asjc_description
 19600156813	1200	Arts and Humanities
 19600156814	1700	Computer Science
 19600156814	2600	Mathematics
+19600156834	1200	Arts and Humanities
+19600156834	1400	Business, Management and Accounting
 19600156837	2700	Medicine
 19600156840	1200	Arts and Humanities
 19600156840	3300	Social Sciences
@@ -56148,8 +56185,6 @@ scopus_id	asjc_code	asjc_description
 19600161815	2300	Environmental Science
 19600161815	3300	Social Sciences
 19600161816	2700	Medicine
-19600161817	1900	Earth and Planetary Sciences
-19600161817	2300	Environmental Science
 19600161818	1500	Chemical Engineering
 19600161819	1100	Agricultural and Biological Sciences
 19600161820	1200	Arts and Humanities
@@ -56348,9 +56383,6 @@ scopus_id	asjc_code	asjc_description
 19600163000	2700	Medicine
 19600163400	3300	Social Sciences
 19600163600	2700	Medicine
-19600163800	1100	Agricultural and Biological Sciences
-19600163800	1300	Biochemistry, Genetics and Molecular Biology
-19600163800	2700	Medicine
 19600163900	2700	Medicine
 19600164000	2700	Medicine
 19600164100	2700	Medicine
@@ -56463,7 +56495,6 @@ scopus_id	asjc_code	asjc_description
 19600166314	2700	Medicine
 19600166315	2700	Medicine
 19600166316	1700	Computer Science
-19600166317	1400	Business, Management and Accounting
 19600166318	1300	Biochemistry, Genetics and Molecular Biology
 19600166318	2700	Medicine
 19600166320	1300	Biochemistry, Genetics and Molecular Biology
@@ -56539,7 +56570,7 @@ scopus_id	asjc_code	asjc_description
 19700166521	2700	Medicine
 19700166522	1100	Agricultural and Biological Sciences
 19700166522	2300	Environmental Science
-19700166523	1000	General
+19700166523	1000	Multidisciplinary
 19700166523	2200	Engineering
 19700166524	1700	Computer Science
 19700166524	2200	Engineering
@@ -56613,7 +56644,7 @@ scopus_id	asjc_code	asjc_description
 19700166901	1300	Biochemistry, Genetics and Molecular Biology
 19700166901	2700	Medicine
 19700166902	2700	Medicine
-19700166903	1000	General
+19700166903	1000	Multidisciplinary
 19700167001	2200	Engineering
 19700167001	2500	Materials Science
 19700167002	1700	Computer Science
@@ -56766,7 +56797,7 @@ scopus_id	asjc_code	asjc_description
 19700168302	2200	Engineering
 19700168303	2100	Energy
 19700168303	2200	Engineering
-19700168304	1000	General
+19700168304	1000	Multidisciplinary
 19700168305	1700	Computer Science
 19700168305	2200	Engineering
 19700168305	2500	Materials Science
@@ -57014,6 +57045,8 @@ scopus_id	asjc_code	asjc_description
 19700170193	1200	Arts and Humanities
 19700170193	3300	Social Sciences
 19700170197	3300	Social Sciences
+19700170230	1200	Arts and Humanities
+19700170230	3300	Social Sciences
 19700170231	1200	Arts and Humanities
 19700170231	3300	Social Sciences
 19700170236	1200	Arts and Humanities
@@ -57091,7 +57124,7 @@ scopus_id	asjc_code	asjc_description
 19700170617	1100	Agricultural and Biological Sciences
 19700170617	1300	Biochemistry, Genetics and Molecular Biology
 19700170617	3000	Pharmacology, Toxicology and Pharmaceutics
-19700170618	1000	General
+19700170618	1000	Multidisciplinary
 19700170619	1700	Computer Science
 19700170619	2200	Engineering
 19700170620	1700	Computer Science
@@ -57512,7 +57545,7 @@ scopus_id	asjc_code	asjc_description
 19700173162	3300	Social Sciences
 19700173163	2700	Medicine
 19700173165	2700	Medicine
-19700173166	1000	General
+19700173166	1000	Multidisciplinary
 19700173166	2200	Engineering
 19700173167	1100	Agricultural and Biological Sciences
 19700173167	2200	Engineering
@@ -57645,7 +57678,6 @@ scopus_id	asjc_code	asjc_description
 19700173316	3300	Social Sciences
 19700173317	1300	Biochemistry, Genetics and Molecular Biology
 19700173317	1500	Chemical Engineering
-19700173318	2600	Mathematics
 19700173319	1700	Computer Science
 19700173319	2200	Engineering
 19700173320	1700	Computer Science
@@ -57740,7 +57772,6 @@ scopus_id	asjc_code	asjc_description
 19700174647	1100	Agricultural and Biological Sciences
 19700174647	1300	Biochemistry, Genetics and Molecular Biology
 19700174647	2300	Environmental Science
-19700174648	3300	Social Sciences
 19700174650	2100	Energy
 19700174650	2600	Mathematics
 19700174651	2300	Environmental Science
@@ -57910,8 +57941,6 @@ scopus_id	asjc_code	asjc_description
 19700174806	2700	Medicine
 19700174807	2700	Medicine
 19700174808	2700	Medicine
-19700174809	2700	Medicine
-19700174809	3000	Pharmacology, Toxicology and Pharmaceutics
 19700174810	3000	Pharmacology, Toxicology and Pharmaceutics
 19700174811	3000	Pharmacology, Toxicology and Pharmaceutics
 19700174811	3600	Health Professions
@@ -58058,8 +58087,6 @@ scopus_id	asjc_code	asjc_description
 19700174935	2800	Neuroscience
 19700174936	1300	Biochemistry, Genetics and Molecular Biology
 19700174936	2700	Medicine
-19700174937	1300	Biochemistry, Genetics and Molecular Biology
-19700174937	2700	Medicine
 19700174938	1300	Biochemistry, Genetics and Molecular Biology
 19700174938	2700	Medicine
 19700174939	2700	Medicine
@@ -58250,7 +58277,6 @@ scopus_id	asjc_code	asjc_description
 19700175065	2700	Medicine
 19700175066	2400	Immunology and Microbiology
 19700175066	2700	Medicine
-19700175067	2700	Medicine
 19700175068	2700	Medicine
 19700175069	2700	Medicine
 19700175070	2700	Medicine
@@ -58267,7 +58293,6 @@ scopus_id	asjc_code	asjc_description
 19700175075	2700	Medicine
 19700175076	2700	Medicine
 19700175077	2700	Medicine
-19700175078	2700	Medicine
 19700175079	2400	Immunology and Microbiology
 19700175079	2700	Medicine
 19700175080	2400	Immunology and Microbiology
@@ -58395,7 +58420,6 @@ scopus_id	asjc_code	asjc_description
 19700175170	2200	Engineering
 19700175171	1900	Earth and Planetary Sciences
 19700175171	3100	Physics and Astronomy
-19700175172	2700	Medicine
 19700175173	2000	Economics, Econometrics and Finance
 19700175174	1400	Business, Management and Accounting
 19700175174	2000	Economics, Econometrics and Finance
@@ -58686,8 +58710,6 @@ scopus_id	asjc_code	asjc_description
 19700175478	1700	Computer Science
 19700175478	2200	Engineering
 19700175478	2500	Materials Science
-19700175479	1300	Biochemistry, Genetics and Molecular Biology
-19700175479	2700	Medicine
 19700175480	2700	Medicine
 19700175481	1900	Earth and Planetary Sciences
 19700175482	1100	Agricultural and Biological Sciences
@@ -58837,7 +58859,7 @@ scopus_id	asjc_code	asjc_description
 19700175753	2700	Medicine
 19700175753	3600	Health Professions
 19700175754	1700	Computer Science
-19700175755	1000	General
+19700175755	1000	Multidisciplinary
 19700175755	2200	Engineering
 19700175757	2200	Engineering
 19700175758	3000	Pharmacology, Toxicology and Pharmaceutics
@@ -58865,7 +58887,6 @@ scopus_id	asjc_code	asjc_description
 19700175774	1700	Computer Science
 19700175775	1700	Computer Science
 19700175778	3000	Pharmacology, Toxicology and Pharmaceutics
-19700175779	2700	Medicine
 19700175781	2800	Neuroscience
 19700175781	3200	Psychology
 19700175782	2700	Medicine
@@ -58956,12 +58977,8 @@ scopus_id	asjc_code	asjc_description
 19700175853	2300	Environmental Science
 19700175854	1200	Arts and Humanities
 19700175855	2700	Medicine
-19700175856	2200	Engineering
-19700175856	2700	Medicine
-19700175856	3600	Health Professions
 19700175857	2700	Medicine
 19700175858	3000	Pharmacology, Toxicology and Pharmaceutics
-19700175859	2700	Medicine
 19700175861	2400	Immunology and Microbiology
 19700175861	2700	Medicine
 19700175862	2500	Materials Science
@@ -59685,6 +59702,7 @@ scopus_id	asjc_code	asjc_description
 19700180777	1300	Biochemistry, Genetics and Molecular Biology
 19700180778	2700	Medicine
 19700180778	3200	Psychology
+19700180779	2200	Engineering
 19700180780	1900	Earth and Planetary Sciences
 19700180781	1600	Chemistry
 19700180781	3000	Pharmacology, Toxicology and Pharmaceutics
@@ -61063,7 +61081,7 @@ scopus_id	asjc_code	asjc_description
 19700185200	1600	Chemistry
 19700185200	2700	Medicine
 19700185200	3000	Pharmacology, Toxicology and Pharmaceutics
-19700185300	1000	General
+19700185300	1000	Multidisciplinary
 19700185400	2700	Medicine
 19700186001	2700	Medicine
 19700186004	2700	Medicine
@@ -61072,6 +61090,7 @@ scopus_id	asjc_code	asjc_description
 19700186021	2700	Medicine
 19700186022	2700	Medicine
 19700186026	2700	Medicine
+19700186028	2700	Medicine
 19700186029	2700	Medicine
 19700186032	2700	Medicine
 19700186033	2700	Medicine
@@ -61311,8 +61330,6 @@ scopus_id	asjc_code	asjc_description
 19700186860	2200	Engineering
 19700186860	2600	Mathematics
 19700186861	2200	Engineering
-19700186862	2200	Engineering
-19700186862	3100	Physics and Astronomy
 19700186863	2100	Energy
 19700186863	2300	Environmental Science
 19700186864	2200	Engineering
@@ -61599,7 +61616,7 @@ scopus_id	asjc_code	asjc_description
 19700187501	1500	Chemical Engineering
 19700187502	2300	Environmental Science
 19700187503	3300	Social Sciences
-19700187504	1000	General
+19700187504	1000	Multidisciplinary
 19700187505	3300	Social Sciences
 19700187506	1400	Business, Management and Accounting
 19700187506	1800	Decision Sciences
@@ -62050,7 +62067,6 @@ scopus_id	asjc_code	asjc_description
 19700188379	3300	Social Sciences
 19700188389	1300	Biochemistry, Genetics and Molecular Biology
 19700188389	2700	Medicine
-19700188390	2700	Medicine
 19700188391	2800	Neuroscience
 19700188392	2700	Medicine
 19700188393	2700	Medicine
@@ -62413,7 +62429,7 @@ scopus_id	asjc_code	asjc_description
 19700200805	3200	Psychology
 19700200806	1700	Computer Science
 19700200806	3300	Social Sciences
-19700200807	1000	General
+19700200807	1000	Multidisciplinary
 19700200807	3300	Social Sciences
 19700200808	3300	Social Sciences
 19700200809	2200	Engineering
@@ -62487,7 +62503,6 @@ scopus_id	asjc_code	asjc_description
 19700200856	2100	Energy
 19700200857	2500	Materials Science
 19700200858	2200	Engineering
-19700200859	2700	Medicine
 19700200860	3000	Pharmacology, Toxicology and Pharmaceutics
 19700200861	3000	Pharmacology, Toxicology and Pharmaceutics
 19700200862	1300	Biochemistry, Genetics and Molecular Biology
@@ -62574,7 +62589,6 @@ scopus_id	asjc_code	asjc_description
 19700201140	3000	Pharmacology, Toxicology and Pharmaceutics
 19700201141	2700	Medicine
 19700201141	3000	Pharmacology, Toxicology and Pharmaceutics
-19700201142	2700	Medicine
 19700201143	2700	Medicine
 19700201144	1300	Biochemistry, Genetics and Molecular Biology
 19700201144	1500	Chemical Engineering
@@ -62755,7 +62769,6 @@ scopus_id	asjc_code	asjc_description
 19700201438	1200	Arts and Humanities
 19700201438	3300	Social Sciences
 19700201439	3300	Social Sciences
-19700201440	2700	Medicine
 19700201441	2200	Engineering
 19700201441	2700	Medicine
 19700201442	2200	Engineering
@@ -62960,7 +62973,7 @@ scopus_id	asjc_code	asjc_description
 19700201670	1600	Chemistry
 19700201670	2200	Engineering
 19700201671	2200	Engineering
-19700201672	1000	General
+19700201672	1000	Multidisciplinary
 19700201673	2700	Medicine
 19700201674	2200	Engineering
 19700201675	3300	Social Sciences
@@ -63172,12 +63185,16 @@ scopus_id	asjc_code	asjc_description
 19900188114	3300	Social Sciences
 19900188955	3300	Social Sciences
 19900189737	3300	Social Sciences
+19900190213	3300	Social Sciences
 19900190985	3300	Social Sciences
 19900191347	2500	Materials Science
 19900191348	3300	Social Sciences
 19900191349	3300	Social Sciences
 19900191350	2700	Medicine
 19900191350	3000	Pharmacology, Toxicology and Pharmaceutics
+19900191410	1200	Arts and Humanities
+19900191410	3300	Social Sciences
+19900191425	3300	Social Sciences
 19900191484	3300	Social Sciences
 19900191537	1200	Arts and Humanities
 19900191537	3300	Social Sciences
@@ -63201,7 +63218,7 @@ scopus_id	asjc_code	asjc_description
 19900191608	1700	Computer Science
 19900191609	1900	Earth and Planetary Sciences
 19900191610	2600	Mathematics
-19900191611	1000	General
+19900191611	1000	Multidisciplinary
 19900191612	2200	Engineering
 19900191613	2700	Medicine
 19900191613	2800	Neuroscience
@@ -63307,7 +63324,6 @@ scopus_id	asjc_code	asjc_description
 19900191751	1100	Agricultural and Biological Sciences
 19900191752	2700	Medicine
 19900191752	3600	Health Professions
-19900191753	1200	Arts and Humanities
 19900191754	2700	Medicine
 19900191754	3300	Social Sciences
 19900191755	1700	Computer Science
@@ -63431,7 +63447,7 @@ scopus_id	asjc_code	asjc_description
 19900191880	2600	Mathematics
 19900191880	3300	Social Sciences
 19900191881	2700	Medicine
-19900191882	1000	General
+19900191882	1000	Multidisciplinary
 19900191883	2000	Economics, Econometrics and Finance
 19900191884	2000	Economics, Econometrics and Finance
 19900191885	2000	Economics, Econometrics and Finance
@@ -65271,7 +65287,7 @@ scopus_id	asjc_code	asjc_description
 20300195071	1200	Arts and Humanities
 20300195072	1100	Agricultural and Biological Sciences
 20300195073	3200	Psychology
-20300195074	1000	General
+20300195074	1000	Multidisciplinary
 20300195075	2300	Environmental Science
 20300195076	1200	Arts and Humanities
 20400195001	1700	Computer Science
@@ -65512,7 +65528,7 @@ scopus_id	asjc_code	asjc_description
 20500195143	1500	Chemical Engineering
 20500195144	1200	Arts and Humanities
 20500195145	1700	Computer Science
-20500195146	1000	General
+20500195146	1000	Multidisciplinary
 20500195201	2100	Energy
 20500195202	1200	Arts and Humanities
 20500195202	3300	Social Sciences
@@ -65732,6 +65748,7 @@ scopus_id	asjc_code	asjc_description
 20700195023	1700	Computer Science
 20700195024	1300	Biochemistry, Genetics and Molecular Biology
 20700195025	2700	Medicine
+20700195026	3000	Pharmacology, Toxicology and Pharmaceutics
 20700195027	1700	Computer Science
 20700195028	1800	Decision Sciences
 20700195028	2200	Engineering
@@ -66961,7 +66978,7 @@ scopus_id	asjc_code	asjc_description
 21100199520	1200	Arts and Humanities
 21100199520	3300	Social Sciences
 21100199521	1700	Computer Science
-21100199522	1000	General
+21100199522	1000	Multidisciplinary
 21100199523	1800	Decision Sciences
 21100199524	1200	Arts and Humanities
 21100199525	1700	Computer Science
@@ -67377,6 +67394,8 @@ scopus_id	asjc_code	asjc_description
 21100200621	3300	Social Sciences
 21100200622	1200	Arts and Humanities
 21100200622	3300	Social Sciences
+21100200623	2200	Engineering
+21100200623	3300	Social Sciences
 21100200624	1200	Arts and Humanities
 21100200624	3300	Social Sciences
 21100200626	1200	Arts and Humanities
@@ -67405,7 +67424,7 @@ scopus_id	asjc_code	asjc_description
 21100200803	3300	Social Sciences
 21100200804	1400	Business, Management and Accounting
 21100200804	1700	Computer Science
-21100200805	1000	General
+21100200805	1000	Multidisciplinary
 21100200806	1300	Biochemistry, Genetics and Molecular Biology
 21100200806	2700	Medicine
 21100200807	2000	Economics, Econometrics and Finance
@@ -67525,10 +67544,10 @@ scopus_id	asjc_code	asjc_description
 21100201058	2100	Energy
 21100201060	1900	Earth and Planetary Sciences
 21100201061	1900	Earth and Planetary Sciences
-21100201062	1000	General
+21100201062	1000	Multidisciplinary
 21100201063	2200	Engineering
 21100201064	1100	Agricultural and Biological Sciences
-21100201065	1000	General
+21100201065	1000	Multidisciplinary
 21100201065	1700	Computer Science
 21100201066	2200	Engineering
 21100201067	1900	Earth and Planetary Sciences
@@ -67609,7 +67628,7 @@ scopus_id	asjc_code	asjc_description
 21100201519	1700	Computer Science
 21100201520	2700	Medicine
 21100201521	2200	Engineering
-21100201522	1000	General
+21100201522	1000	Multidisciplinary
 21100201523	3300	Social Sciences
 21100201524	1200	Arts and Humanities
 21100201525	1100	Agricultural and Biological Sciences
@@ -67850,7 +67869,7 @@ scopus_id	asjc_code	asjc_description
 21100201969	1700	Computer Science
 21100201970	1700	Computer Science
 21100201970	2200	Engineering
-21100201971	1000	General
+21100201971	1000	Multidisciplinary
 21100201972	1600	Chemistry
 21100201973	3100	Physics and Astronomy
 21100201974	1700	Computer Science
@@ -68045,7 +68064,7 @@ scopus_id	asjc_code	asjc_description
 21100202733	3300	Social Sciences
 21100202734	1200	Arts and Humanities
 21100202734	3300	Social Sciences
-21100202735	1000	General
+21100202735	1000	Multidisciplinary
 21100202736	1200	Arts and Humanities
 21100202737	3300	Social Sciences
 21100202738	1200	Arts and Humanities
@@ -68663,12 +68682,9 @@ scopus_id	asjc_code	asjc_description
 21100205961	2100	Energy
 21100205961	3300	Social Sciences
 21100205962	1200	Arts and Humanities
-21100205963	2700	Medicine
-21100205963	3600	Health Professions
 21100205964	2400	Immunology and Microbiology
 21100205964	2700	Medicine
 21100205965	2500	Materials Science
-21100205966	2700	Medicine
 21100205967	2700	Medicine
 21100205968	1700	Computer Science
 21100205969	1700	Computer Science
@@ -69059,6 +69075,7 @@ scopus_id	asjc_code	asjc_description
 21100208100	2200	Engineering
 21100208101	2200	Engineering
 21100208102	2200	Engineering
+21100208103	1100	Agricultural and Biological Sciences
 21100208301	1700	Computer Science
 21100208302	1500	Chemical Engineering
 21100208303	1700	Computer Science
@@ -69969,7 +69986,7 @@ scopus_id	asjc_code	asjc_description
 21100217210	1100	Agricultural and Biological Sciences
 21100217210	1900	Earth and Planetary Sciences
 21100217211	2200	Engineering
-21100217212	1000	General
+21100217212	1000	Multidisciplinary
 21100217213	3300	Social Sciences
 21100217214	1700	Computer Science
 21100217214	2600	Mathematics
@@ -71635,7 +71652,6 @@ scopus_id	asjc_code	asjc_description
 21100225839	1100	Agricultural and Biological Sciences
 21100225840	2100	Energy
 21100225841	2100	Energy
-21100225842	2200	Engineering
 21100225843	1100	Agricultural and Biological Sciences
 21100225844	2100	Energy
 21100225845	1700	Computer Science
@@ -71702,8 +71718,6 @@ scopus_id	asjc_code	asjc_description
 21100226436	2500	Materials Science
 21100226437	1700	Computer Science
 21100226437	2200	Engineering
-21100226438	1500	Chemical Engineering
-21100226438	2500	Materials Science
 21100226439	1700	Computer Science
 21100226440	1400	Business, Management and Accounting
 21100226440	2000	Economics, Econometrics and Finance
@@ -72147,7 +72161,7 @@ scopus_id	asjc_code	asjc_description
 21100228568	1100	Agricultural and Biological Sciences
 21100228568	2300	Environmental Science
 21100228568	3300	Social Sciences
-21100228569	1000	General
+21100228569	1000	Multidisciplinary
 21100228570	2100	Energy
 21100228570	3100	Physics and Astronomy
 21100228571	2700	Medicine
@@ -72944,7 +72958,6 @@ scopus_id	asjc_code	asjc_description
 21100236616	2900	Nursing
 21100236616	3300	Social Sciences
 21100236617	1700	Computer Science
-21100236618	2100	Energy
 21100236801	1700	Computer Science
 21100236802	1700	Computer Science
 21100236802	3300	Social Sciences
@@ -73941,7 +73954,6 @@ scopus_id	asjc_code	asjc_description
 21100242611	3300	Social Sciences
 21100242612	2100	Energy
 21100242613	1700	Computer Science
-21100242614	2100	Energy
 21100242615	2200	Engineering
 21100242616	2700	Medicine
 21100242616	2800	Neuroscience
@@ -74168,8 +74180,6 @@ scopus_id	asjc_code	asjc_description
 21100244648	2800	Neuroscience
 21100244649	2200	Engineering
 21100244650	2100	Energy
-21100244651	2100	Energy
-21100244652	2100	Energy
 21100244653	2700	Medicine
 21100244654	1700	Computer Science
 21100244655	2600	Mathematics
@@ -74929,7 +74939,7 @@ scopus_id	asjc_code	asjc_description
 21100253032	1400	Business, Management and Accounting
 21100253032	1700	Computer Science
 21100253044	1500	Chemical Engineering
-21100253049	1000	General
+21100253049	1000	Multidisciplinary
 21100253060	2700	Medicine
 21100253082	2700	Medicine
 21100253082	3500	Dentistry
@@ -75517,8 +75527,6 @@ scopus_id	asjc_code	asjc_description
 21100256117	1700	Computer Science
 21100256118	1700	Computer Science
 21100256119	2600	Mathematics
-21100256120	2700	Medicine
-21100256120	2800	Neuroscience
 21100256121	2200	Engineering
 21100256121	3600	Health Professions
 21100256122	2600	Mathematics
@@ -75693,7 +75701,7 @@ scopus_id	asjc_code	asjc_description
 21100258399	3100	Physics and Astronomy
 21100258400	2700	Medicine
 21100258401	1200	Arts and Humanities
-21100258402	1000	General
+21100258402	1000	Multidisciplinary
 21100258403	1200	Arts and Humanities
 21100258403	3300	Social Sciences
 21100258404	1700	Computer Science
@@ -75804,6 +75812,8 @@ scopus_id	asjc_code	asjc_description
 21100258755	1100	Agricultural and Biological Sciences
 21100258756	1700	Computer Science
 21100258756	2100	Energy
+21100258757	3200	Psychology
+21100258757	3300	Social Sciences
 21100258758	2000	Economics, Econometrics and Finance
 21100258759	1300	Biochemistry, Genetics and Molecular Biology
 21100258760	2000	Economics, Econometrics and Finance
@@ -76882,7 +76892,7 @@ scopus_id	asjc_code	asjc_description
 21100268422	1700	Computer Science
 21100268423	1700	Computer Science
 21100268423	2200	Engineering
-21100268424	1000	General
+21100268424	1000	Multidisciplinary
 21100268425	1700	Computer Science
 21100268425	2200	Engineering
 21100268426	1100	Agricultural and Biological Sciences
@@ -76961,8 +76971,6 @@ scopus_id	asjc_code	asjc_description
 21100269642	2200	Engineering
 21100269643	1700	Computer Science
 21100269648	1900	Earth and Planetary Sciences
-21100269649	2100	Energy
-21100270000	1200	Arts and Humanities
 21100270200	1200	Arts and Humanities
 21100272901	2200	Engineering
 21100272902	1700	Computer Science
@@ -80140,7 +80148,6 @@ scopus_id	asjc_code	asjc_description
 21100317005	1200	Arts and Humanities
 21100317006	1200	Arts and Humanities
 21100317201	2700	Medicine
-21100317202	2700	Medicine
 21100317203	1300	Biochemistry, Genetics and Molecular Biology
 21100317204	2700	Medicine
 21100317205	2700	Medicine
@@ -80661,6 +80668,8 @@ scopus_id	asjc_code	asjc_description
 21100323400	2300	Environmental Science
 21100323400	2700	Medicine
 21100323400	3300	Social Sciences
+21100323800	1300	Biochemistry, Genetics and Molecular Biology
+21100323800	3000	Pharmacology, Toxicology and Pharmaceutics
 21100324054	1700	Computer Science
 21100324055	2200	Engineering
 21100324056	3100	Physics and Astronomy
@@ -80750,7 +80759,7 @@ scopus_id	asjc_code	asjc_description
 21100324697	1700	Computer Science
 21100324698	1700	Computer Science
 21100324699	1700	Computer Science
-21100324700	1000	General
+21100324700	1000	Multidisciplinary
 21100324701	2100	Energy
 21100324702	2200	Engineering
 21100324703	1700	Computer Science
@@ -80839,7 +80848,6 @@ scopus_id	asjc_code	asjc_description
 21100325072	1700	Computer Science
 21100325073	2200	Engineering
 21100325074	3100	Physics and Astronomy
-21100325075	1200	Arts and Humanities
 21100325076	1700	Computer Science
 21100325077	1700	Computer Science
 21100325078	1200	Arts and Humanities
@@ -81473,8 +81481,6 @@ scopus_id	asjc_code	asjc_description
 21100333806	1700	Computer Science
 21100333807	2400	Immunology and Microbiology
 21100333807	2700	Medicine
-21100333808	1300	Biochemistry, Genetics and Molecular Biology
-21100333808	2700	Medicine
 21100333809	1700	Computer Science
 21100333810	2700	Medicine
 21100333811	3100	Physics and Astronomy
@@ -81686,9 +81692,6 @@ scopus_id	asjc_code	asjc_description
 21100337504	2700	Medicine
 21100337505	2700	Medicine
 21100337701	3300	Social Sciences
-21100337702	2700	Medicine
-21100337703	1300	Biochemistry, Genetics and Molecular Biology
-21100337703	2700	Medicine
 21100337901	1700	Computer Science
 21100337901	2200	Engineering
 21100337901	3100	Physics and Astronomy
@@ -83504,7 +83507,7 @@ scopus_id	asjc_code	asjc_description
 21100372726	2200	Engineering
 21100372826	1200	Arts and Humanities
 21100372826	1900	Earth and Planetary Sciences
-21100372856	1000	General
+21100372856	1000	Multidisciplinary
 21100372856	3300	Social Sciences
 21100373222	2200	Engineering
 21100373222	2300	Environmental Science
@@ -84345,7 +84348,6 @@ scopus_id	asjc_code	asjc_description
 21100383742	2500	Materials Science
 21100383743	2200	Engineering
 21100383744	1700	Computer Science
-21100383745	1700	Computer Science
 21100383746	1700	Computer Science
 21100383747	1700	Computer Science
 21100384001	2100	Energy
@@ -84821,7 +84823,6 @@ scopus_id	asjc_code	asjc_description
 21100390113	1200	Arts and Humanities
 21100390114	1700	Computer Science
 21100390114	2200	Engineering
-21100390156	1300	Biochemistry, Genetics and Molecular Biology
 21100390157	1700	Computer Science
 21100390158	2200	Engineering
 21100390158	3300	Social Sciences
@@ -84956,7 +84957,6 @@ scopus_id	asjc_code	asjc_description
 21100390415	2700	Medicine
 21100390416	2700	Medicine
 21100390417	2700	Medicine
-21100390418	2700	Medicine
 21100390419	2200	Engineering
 21100390419	2700	Medicine
 21100390419	3100	Physics and Astronomy
@@ -85019,7 +85019,6 @@ scopus_id	asjc_code	asjc_description
 21100394094	2700	Medicine
 21100394095	1300	Biochemistry, Genetics and Molecular Biology
 21100394095	2700	Medicine
-21100394096	2700	Medicine
 21100394097	3000	Pharmacology, Toxicology and Pharmaceutics
 21100394098	1300	Biochemistry, Genetics and Molecular Biology
 21100394099	1800	Decision Sciences
@@ -85033,7 +85032,6 @@ scopus_id	asjc_code	asjc_description
 21100394195	1200	Arts and Humanities
 21100394230	1100	Agricultural and Biological Sciences
 21100394256	2700	Medicine
-21100394257	1300	Biochemistry, Genetics and Molecular Biology
 21100394258	2700	Medicine
 21100394259	1200	Arts and Humanities
 21100394259	3300	Social Sciences
@@ -85200,7 +85198,6 @@ scopus_id	asjc_code	asjc_description
 21100396570	3300	Social Sciences
 21100396628	1200	Arts and Humanities
 21100396628	3300	Social Sciences
-21100396629	2700	Medicine
 21100396632	1700	Computer Science
 21100396634	3200	Psychology
 21100396634	3300	Social Sciences
@@ -85784,8 +85781,6 @@ scopus_id	asjc_code	asjc_description
 21100401234	3300	Social Sciences
 21100401254	2700	Medicine
 21100403110	2700	Medicine
-21100403122	1200	Arts and Humanities
-21100403122	3300	Social Sciences
 21100403124	2200	Engineering
 21100403126	3300	Social Sciences
 21100403130	3300	Social Sciences
@@ -85845,7 +85840,7 @@ scopus_id	asjc_code	asjc_description
 21100404585	2700	Medicine
 21100404962	1200	Arts and Humanities
 21100404962	3300	Social Sciences
-21100405003	1000	General
+21100405003	1000	Multidisciplinary
 21100405022	1900	Earth and Planetary Sciences
 21100405051	1600	Chemistry
 21100405051	2500	Materials Science
@@ -85867,12 +85862,15 @@ scopus_id	asjc_code	asjc_description
 21100405571	3300	Social Sciences
 21100405582	3300	Social Sciences
 21100405619	2700	Medicine
+21100405645	2300	Environmental Science
+21100405645	3300	Social Sciences
 21100405646	2000	Economics, Econometrics and Finance
 21100405663	1200	Arts and Humanities
 21100405663	3300	Social Sciences
 21100405698	3300	Social Sciences
 21100405702	1700	Computer Science
 21100405704	3300	Social Sciences
+21100405707	3300	Social Sciences
 21100405738	1200	Arts and Humanities
 21100405740	1200	Arts and Humanities
 21100405740	3300	Social Sciences
@@ -85912,7 +85910,10 @@ scopus_id	asjc_code	asjc_description
 21100406802	1200	Arts and Humanities
 21100406802	3300	Social Sciences
 21100406810	1200	Arts and Humanities
+21100406811	1200	Arts and Humanities
+21100406811	3300	Social Sciences
 21100406813	1200	Arts and Humanities
+21100406816	1200	Arts and Humanities
 21100406819	1200	Arts and Humanities
 21100406821	1200	Arts and Humanities
 21100406821	3300	Social Sciences
@@ -85955,6 +85956,7 @@ scopus_id	asjc_code	asjc_description
 21100406922	3300	Social Sciences
 21100406926	1200	Arts and Humanities
 21100406926	3300	Social Sciences
+21100406929	3300	Social Sciences
 21100406931	1100	Agricultural and Biological Sciences
 21100406932	1200	Arts and Humanities
 21100406932	3300	Social Sciences
@@ -85968,6 +85970,182 @@ scopus_id	asjc_code	asjc_description
 21100406946	3300	Social Sciences
 21100406988	1200	Arts and Humanities
 21100406988	3300	Social Sciences
+21100407115	1200	Arts and Humanities
+21100407119	1200	Arts and Humanities
+21100407120	1200	Arts and Humanities
+21100407127	3300	Social Sciences
+21100407142	1100	Agricultural and Biological Sciences
+21100407145	2900	Nursing
+21100407149	1200	Arts and Humanities
+21100407149	3300	Social Sciences
+21100407150	1200	Arts and Humanities
+21100407150	3300	Social Sciences
+21100407152	1900	Earth and Planetary Sciences
+21100407160	1200	Arts and Humanities
+21100407160	3300	Social Sciences
+21100407161	1100	Agricultural and Biological Sciences
+21100407161	3200	Psychology
+21100407161	3300	Social Sciences
+21100407162	3300	Social Sciences
+21100407168	1200	Arts and Humanities
+21100407168	2700	Medicine
+21100407174	2500	Materials Science
+21100407174	3100	Physics and Astronomy
+21100407177	1200	Arts and Humanities
+21100407177	3300	Social Sciences
+21100407187	1200	Arts and Humanities
+21100407187	3300	Social Sciences
+21100407195	2500	Materials Science
+21100407195	3100	Physics and Astronomy
+21100407200	1200	Arts and Humanities
+21100407201	3300	Social Sciences
+21100407203	1200	Arts and Humanities
+21100407207	1200	Arts and Humanities
+21100407207	3300	Social Sciences
+21100407209	1100	Agricultural and Biological Sciences
+21100407209	2300	Environmental Science
+21100407215	2300	Environmental Science
+21100407215	3300	Social Sciences
+21100407216	1200	Arts and Humanities
+21100407217	1200	Arts and Humanities
+21100407217	3300	Social Sciences
+21100407218	1200	Arts and Humanities
+21100407226	1200	Arts and Humanities
+21100407226	3300	Social Sciences
+21100407234	1200	Arts and Humanities
+21100407234	3300	Social Sciences
+21100407241	1400	Business, Management and Accounting
+21100407264	1200	Arts and Humanities
+21100407264	3300	Social Sciences
+21100407265	3300	Social Sciences
+21100407278	1200	Arts and Humanities
+21100407278	3300	Social Sciences
+21100407280	1200	Arts and Humanities
+21100407280	3300	Social Sciences
+21100407281	1600	Chemistry
+21100407281	2500	Materials Science
+21100407281	3100	Physics and Astronomy
+21100407282	1200	Arts and Humanities
+21100407282	3300	Social Sciences
+21100407285	1200	Arts and Humanities
+21100407285	3300	Social Sciences
+21100407292	1100	Agricultural and Biological Sciences
+21100407305	3300	Social Sciences
+21100407317	1200	Arts and Humanities
+21100407317	3300	Social Sciences
+21100407333	3300	Social Sciences
+21100407361	1200	Arts and Humanities
+21100407361	3300	Social Sciences
+21100407370	2200	Engineering
+21100407370	2700	Medicine
+21100407370	3000	Pharmacology, Toxicology and Pharmaceutics
+21100407373	1200	Arts and Humanities
+21100407373	3300	Social Sciences
+21100407408	1200	Arts and Humanities
+21100407408	3300	Social Sciences
+21100407421	1200	Arts and Humanities
+21100407477	1200	Arts and Humanities
+21100407477	3300	Social Sciences
+21100407545	3300	Social Sciences
+21100407556	3300	Social Sciences
+21100407560	1200	Arts and Humanities
+21100407560	3300	Social Sciences
+21100407601	2200	Engineering
+21100407601	3100	Physics and Astronomy
+21100407602	1200	Arts and Humanities
+21100407602	1300	Biochemistry, Genetics and Molecular Biology
+21100407604	1200	Arts and Humanities
+21100407604	2000	Economics, Econometrics and Finance
+21100407604	3300	Social Sciences
+21100407605	1200	Arts and Humanities
+21100407607	1800	Decision Sciences
+21100407607	2600	Mathematics
+21100407608	1200	Arts and Humanities
+21100407608	2900	Nursing
+21100407608	3300	Social Sciences
+21100407609	1200	Arts and Humanities
+21100407610	3300	Social Sciences
+21100407611	3300	Social Sciences
+21100407612	1200	Arts and Humanities
+21100407612	2000	Economics, Econometrics and Finance
+21100407613	3300	Social Sciences
+21100407615	1200	Arts and Humanities
+21100407615	3300	Social Sciences
+21100407616	1100	Agricultural and Biological Sciences
+21100407616	2300	Environmental Science
+21100407618	1200	Arts and Humanities
+21100407618	3300	Social Sciences
+21100407629	1400	Business, Management and Accounting
+21100407629	2000	Economics, Econometrics and Finance
+21100407655	2000	Economics, Econometrics and Finance
+21100407659	1200	Arts and Humanities
+21100407659	3300	Social Sciences
+21100407671	3300	Social Sciences
+21100407673	1200	Arts and Humanities
+21100407684	1200	Arts and Humanities
+21100407719	1200	Arts and Humanities
+21100407719	3300	Social Sciences
+21100407746	1200	Arts and Humanities
+21100407747	3300	Social Sciences
+21100407758	1200	Arts and Humanities
+21100407758	3300	Social Sciences
+21100407766	3300	Social Sciences
+21100407809	3300	Social Sciences
+21100407831	1200	Arts and Humanities
+21100407836	3300	Social Sciences
+21100407919	1200	Arts and Humanities
+21100407919	3300	Social Sciences
+21100407950	2500	Materials Science
+21100407950	3100	Physics and Astronomy
+21100407965	1200	Arts and Humanities
+21100407965	3300	Social Sciences
+21100407997	1200	Arts and Humanities
+21100407997	3300	Social Sciences
+21100408135	1200	Arts and Humanities
+21100408148	1200	Arts and Humanities
+21100408160	1200	Arts and Humanities
+21100408176	2700	Medicine
+21100408192	1400	Business, Management and Accounting
+21100408200	2000	Economics, Econometrics and Finance
+21100408844	1200	Arts and Humanities
+21100408844	3300	Social Sciences
+21100408983	1800	Decision Sciences
+21100408983	2000	Economics, Econometrics and Finance
+21100409130	1700	Computer Science
+21100409130	2200	Engineering
+21100409212	1200	Arts and Humanities
+21100409212	3300	Social Sciences
+21100409256	1200	Arts and Humanities
+21100409294	1200	Arts and Humanities
+21100409309	2700	Medicine
+21100409310	2700	Medicine
+21100409310	3600	Health Professions
+21100409311	1700	Computer Science
+21100409313	2700	Medicine
+21100409314	2700	Medicine
+21100409365	1400	Business, Management and Accounting
+21100409365	2000	Economics, Econometrics and Finance
+21100409368	1000	Multidisciplinary
+21100409378	1200	Arts and Humanities
+21100409378	3300	Social Sciences
+21100409404	1200	Arts and Humanities
+21100409404	3300	Social Sciences
+21100409406	1400	Business, Management and Accounting
+21100409406	2000	Economics, Econometrics and Finance
+21100409410	2300	Environmental Science
+21100409410	3300	Social Sciences
+21100409430	1200	Arts and Humanities
+21100409430	3300	Social Sciences
+21100409442	1600	Chemistry
+21100409442	2500	Materials Science
+21100409442	3100	Physics and Astronomy
+21100409533	2700	Medicine
+21100409576	1200	Arts and Humanities
+21100409601	1200	Arts and Humanities
+21100409617	2600	Mathematics
+21100409642	1400	Business, Management and Accounting
+21100409809	3300	Social Sciences
+21100409888	3200	Psychology
 21100409900	1600	Chemistry
 21100409900	2500	Materials Science
 21100410000	1200	Arts and Humanities
@@ -85975,5 +86153,1468 @@ scopus_id	asjc_code	asjc_description
 21100410200	2600	Mathematics
 21100410300	1200	Arts and Humanities
 21100410300	3300	Social Sciences
+21100410629	1400	Business, Management and Accounting
+21100410629	2000	Economics, Econometrics and Finance
+21100411274	1200	Arts and Humanities
+21100411274	3300	Social Sciences
+21100411340	2700	Medicine
+21100411349	1100	Agricultural and Biological Sciences
+21100411363	2700	Medicine
+21100411547	1200	Arts and Humanities
+21100411629	1700	Computer Science
+21100411756	1000	Multidisciplinary
+21100412095	2700	Medicine
+21100412095	3600	Health Professions
+21100413715	3200	Psychology
+21100413715	3600	Health Professions
+21100413740	2700	Medicine
+21100413740	2900	Nursing
+21100413803	1100	Agricultural and Biological Sciences
+21100413803	1900	Earth and Planetary Sciences
+21100413803	2300	Environmental Science
+21100413834	2200	Engineering
+21100413834	3300	Social Sciences
+21100413835	3500	Dentistry
+21100413836	2300	Environmental Science
+21100413836	3300	Social Sciences
 21100413900	1100	Agricultural and Biological Sciences
 21100413900	1300	Biochemistry, Genetics and Molecular Biology
+21100414365	2300	Environmental Science
+21100414384	1100	Agricultural and Biological Sciences
+21100414801	2700	Medicine
+21100414802	1300	Biochemistry, Genetics and Molecular Biology
+21100414802	2700	Medicine
+21100414954	2700	Medicine
+21100415019	1200	Arts and Humanities
+21100415019	3300	Social Sciences
+21100415026	1100	Agricultural and Biological Sciences
+21100415027	2700	Medicine
+21100415047	2700	Medicine
+21100415050	1400	Business, Management and Accounting
+21100415050	2000	Economics, Econometrics and Finance
+21100415501	2300	Environmental Science
+21100415501	3300	Social Sciences
+21100415502	1100	Agricultural and Biological Sciences
+21100415502	2700	Medicine
+21100415545	2600	Mathematics
+21100415615	1300	Biochemistry, Genetics and Molecular Biology
+21100415615	1500	Chemical Engineering
+21100415615	2400	Immunology and Microbiology
+21100415616	1100	Agricultural and Biological Sciences
+21100415705	2700	Medicine
+21100415801	1200	Arts and Humanities
+21100415801	3300	Social Sciences
+21100415927	2900	Nursing
+21100415932	1100	Agricultural and Biological Sciences
+21100415932	2700	Medicine
+21100415932	2900	Nursing
+21100415950	2700	Medicine
+21100416035	2700	Medicine
+21100416071	1900	Earth and Planetary Sciences
+21100416071	3300	Social Sciences
+21100416079	2300	Environmental Science
+21100416081	2100	Energy
+21100416081	2200	Engineering
+21100416081	2300	Environmental Science
+21100416086	1100	Agricultural and Biological Sciences
+21100416086	2900	Nursing
+21100416114	2800	Neuroscience
+21100416121	1100	Agricultural and Biological Sciences
+21100416140	1600	Chemistry
+21100416140	2500	Materials Science
+21100416140	3100	Physics and Astronomy
+21100416147	1300	Biochemistry, Genetics and Molecular Biology
+21100416147	2700	Medicine
+21100416147	3300	Social Sciences
+21100416172	2700	Medicine
+21100416194	3200	Psychology
+21100416283	1200	Arts and Humanities
+21100416283	3300	Social Sciences
+21100416319	1200	Arts and Humanities
+21100416319	3300	Social Sciences
+21100416483	3300	Social Sciences
+21100416511	1100	Agricultural and Biological Sciences
+21100416511	2300	Environmental Science
+21100416511	3300	Social Sciences
+21100416600	2700	Medicine
+21100416600	3600	Health Professions
+21100416601	2700	Medicine
+21100416601	2900	Nursing
+21100416607	2700	Medicine
+21100416607	2900	Nursing
+21100416801	2200	Engineering
+21100416802	2700	Medicine
+21100417003	2700	Medicine
+21100417003	3600	Health Professions
+21100417004	2700	Medicine
+21100417256	3300	Social Sciences
+21100417267	2700	Medicine
+21100417364	1400	Business, Management and Accounting
+21100417465	2500	Materials Science
+21100417501	1400	Business, Management and Accounting
+21100417772	1200	Arts and Humanities
+21100418935	1200	Arts and Humanities
+21100418935	3300	Social Sciences
+21100419021	2700	Medicine
+21100419360	1200	Arts and Humanities
+21100419360	3300	Social Sciences
+21100420104	3300	Social Sciences
+21100420109	1700	Computer Science
+21100420109	2200	Engineering
+21100420111	1200	Arts and Humanities
+21100420111	3300	Social Sciences
+21100420112	1200	Arts and Humanities
+21100420314	2100	Energy
+21100420314	2500	Materials Science
+21100420316	2500	Materials Science
+21100420317	1300	Biochemistry, Genetics and Molecular Biology
+21100420330	2100	Energy
+21100420583	2700	Medicine
+21100420802	1700	Computer Science
+21100420802	2700	Medicine
+21100420803	2200	Engineering
+21100421501	2700	Medicine
+21100421501	3300	Social Sciences
+21100421502	2200	Engineering
+21100421502	2700	Medicine
+21100421502	3000	Pharmacology, Toxicology and Pharmaceutics
+21100421701	2500	Materials Science
+21100421816	2700	Medicine
+21100421895	1200	Arts and Humanities
+21100421900	1400	Business, Management and Accounting
+21100421900	1700	Computer Science
+21100421900	1800	Decision Sciences
+21100421902	3300	Social Sciences
+21100422029	1200	Arts and Humanities
+21100422055	3500	Dentistry
+21100422060	2700	Medicine
+21100422121	1300	Biochemistry, Genetics and Molecular Biology
+21100422125	1200	Arts and Humanities
+21100422125	2200	Engineering
+21100422125	3300	Social Sciences
+21100422153	1700	Computer Science
+21100422173	3300	Social Sciences
+21100422916	1200	Arts and Humanities
+21100422916	3300	Social Sciences
+21100422918	2700	Medicine
+21100423127	3300	Social Sciences
+21100423216	1900	Earth and Planetary Sciences
+21100423216	2200	Engineering
+21100423216	2500	Materials Science
+21100423216	3100	Physics and Astronomy
+21100423330	1200	Arts and Humanities
+21100423330	3300	Social Sciences
+21100423705	3300	Social Sciences
+21100423723	1400	Business, Management and Accounting
+21100423723	1700	Computer Science
+21100423919	2100	Energy
+21100423920	1700	Computer Science
+21100423921	2700	Medicine
+21100423922	1700	Computer Science
+21100425310	1200	Arts and Humanities
+21100425312	1200	Arts and Humanities
+21100425312	3300	Social Sciences
+21100425316	1200	Arts and Humanities
+21100425316	3300	Social Sciences
+21100425318	1200	Arts and Humanities
+21100425322	1200	Arts and Humanities
+21100425322	2000	Economics, Econometrics and Finance
+21100425322	3300	Social Sciences
+21100425324	1200	Arts and Humanities
+21100425326	1200	Arts and Humanities
+21100425711	3100	Physics and Astronomy
+21100425745	1200	Arts and Humanities
+21100425762	1200	Arts and Humanities
+21100425766	1200	Arts and Humanities
+21100425802	1200	Arts and Humanities
+21100425845	1200	Arts and Humanities
+21100425845	3300	Social Sciences
+21100425874	1200	Arts and Humanities
+21100425898	2900	Nursing
+21100425898	3200	Psychology
+21100425898	3300	Social Sciences
+21100425902	3300	Social Sciences
+21100426011	1500	Chemical Engineering
+21100426011	2200	Engineering
+21100426011	2700	Medicine
+21100426011	3000	Pharmacology, Toxicology and Pharmaceutics
+21100426042	1200	Arts and Humanities
+21100426086	1200	Arts and Humanities
+21100426086	3300	Social Sciences
+21100426107	1200	Arts and Humanities
+21100426107	2000	Economics, Econometrics and Finance
+21100426136	1200	Arts and Humanities
+21100426136	3300	Social Sciences
+21100426212	2700	Medicine
+21100426212	2800	Neuroscience
+21100426615	3300	Social Sciences
+21100426619	2400	Immunology and Microbiology
+21100426619	2700	Medicine
+21100426620	1200	Arts and Humanities
+21100426620	3300	Social Sciences
+21100426622	3300	Social Sciences
+21100426623	3300	Social Sciences
+21100426624	1200	Arts and Humanities
+21100426624	3300	Social Sciences
+21100426625	2700	Medicine
+21100426625	2800	Neuroscience
+21100426626	1200	Arts and Humanities
+21100426626	3300	Social Sciences
+21100426627	1200	Arts and Humanities
+21100426628	1100	Agricultural and Biological Sciences
+21100427033	1200	Arts and Humanities
+21100427053	1200	Arts and Humanities
+21100427071	1200	Arts and Humanities
+21100427071	3300	Social Sciences
+21100427143	1200	Arts and Humanities
+21100427143	3300	Social Sciences
+21100427145	1200	Arts and Humanities
+21100427148	1900	Earth and Planetary Sciences
+21100427159	1200	Arts and Humanities
+21100427159	3300	Social Sciences
+21100427160	1200	Arts and Humanities
+21100427160	2000	Economics, Econometrics and Finance
+21100427160	3300	Social Sciences
+21100427164	1200	Arts and Humanities
+21100427174	1200	Arts and Humanities
+21100427174	3300	Social Sciences
+21100427175	1200	Arts and Humanities
+21100427175	3300	Social Sciences
+21100427186	1200	Arts and Humanities
+21100427186	3300	Social Sciences
+21100427192	1600	Chemistry
+21100427192	2500	Materials Science
+21100427192	3100	Physics and Astronomy
+21100427195	2700	Medicine
+21100427196	3500	Dentistry
+21100427197	1200	Arts and Humanities
+21100427197	3300	Social Sciences
+21100427199	2300	Environmental Science
+21100427205	1200	Arts and Humanities
+21100427205	3300	Social Sciences
+21100427221	1400	Business, Management and Accounting
+21100427221	2000	Economics, Econometrics and Finance
+21100427224	2700	Medicine
+21100427224	3300	Social Sciences
+21100427224	3600	Health Professions
+21100427270	1200	Arts and Humanities
+21100427626	2200	Engineering
+21100427626	3300	Social Sciences
+21100427639	1900	Earth and Planetary Sciences
+21100427639	3300	Social Sciences
+21100427648	1200	Arts and Humanities
+21100427648	3300	Social Sciences
+21100427651	1200	Arts and Humanities
+21100427651	3300	Social Sciences
+21100427658	1200	Arts and Humanities
+21100427709	1200	Arts and Humanities
+21100427734	1900	Earth and Planetary Sciences
+21100427821	1200	Arts and Humanities
+21100427821	3300	Social Sciences
+21100427836	1100	Agricultural and Biological Sciences
+21100427841	1200	Arts and Humanities
+21100427853	3300	Social Sciences
+21100427879	1200	Arts and Humanities
+21100427879	3300	Social Sciences
+21100427890	1100	Agricultural and Biological Sciences
+21100427890	1400	Business, Management and Accounting
+21100427890	2200	Engineering
+21100427891	2200	Engineering
+21100427903	1200	Arts and Humanities
+21100427905	1200	Arts and Humanities
+21100427905	3300	Social Sciences
+21100427908	1200	Arts and Humanities
+21100427908	3300	Social Sciences
+21100428109	3500	Dentistry
+21100428161	3300	Social Sciences
+21100428207	2700	Medicine
+21100428281	2400	Immunology and Microbiology
+21100428281	2700	Medicine
+21100428299	1200	Arts and Humanities
+21100428299	3300	Social Sciences
+21100428337	1200	Arts and Humanities
+21100428360	1200	Arts and Humanities
+21100428360	3300	Social Sciences
+21100428376	1100	Agricultural and Biological Sciences
+21100428408	1200	Arts and Humanities
+21100428408	3300	Social Sciences
+21100428409	2700	Medicine
+21100428801	3300	Social Sciences
+21100428802	1200	Arts and Humanities
+21100428802	1400	Business, Management and Accounting
+21100428802	3300	Social Sciences
+21100428803	1400	Business, Management and Accounting
+21100428803	3300	Social Sciences
+21100428804	3300	Social Sciences
+21100429007	2600	Mathematics
+21100429007	3100	Physics and Astronomy
+21100429007	3300	Social Sciences
+21100429175	1400	Business, Management and Accounting
+21100429175	3300	Social Sciences
+21100429261	2200	Engineering
+21100429261	2500	Materials Science
+21100429284	2200	Engineering
+21100429284	3300	Social Sciences
+21100429293	2200	Engineering
+21100429293	2500	Materials Science
+21100429296	3300	Social Sciences
+21100429297	1200	Arts and Humanities
+21100429297	3300	Social Sciences
+21100429298	3300	Social Sciences
+21100429299	3300	Social Sciences
+21100429300	1200	Arts and Humanities
+21100429300	3300	Social Sciences
+21100429302	1200	Arts and Humanities
+21100429302	3300	Social Sciences
+21100429303	1200	Arts and Humanities
+21100429303	3300	Social Sciences
+21100429304	1200	Arts and Humanities
+21100429502	1400	Business, Management and Accounting
+21100429502	1700	Computer Science
+21100429502	1800	Decision Sciences
+21100429738	1500	Chemical Engineering
+21100429738	2100	Energy
+21100429738	2200	Engineering
+21100430117	1200	Arts and Humanities
+21100430117	3300	Social Sciences
+21100430551	1200	Arts and Humanities
+21100430551	3300	Social Sciences
+21100430595	3300	Social Sciences
+21100430613	1400	Business, Management and Accounting
+21100430692	1200	Arts and Humanities
+21100430692	3300	Social Sciences
+21100430764	1200	Arts and Humanities
+21100430776	1200	Arts and Humanities
+21100430776	3300	Social Sciences
+21100430798	1200	Arts and Humanities
+21100430799	1500	Chemical Engineering
+21100430799	2500	Materials Science
+21100430801	3300	Social Sciences
+21100430802	1600	Chemistry
+21100430984	2600	Mathematics
+21100431105	1900	Earth and Planetary Sciences
+21100431105	3100	Physics and Astronomy
+21100431158	2300	Environmental Science
+21100431169	1400	Business, Management and Accounting
+21100431169	2000	Economics, Econometrics and Finance
+21100431307	1100	Agricultural and Biological Sciences
+21100431307	2700	Medicine
+21100431307	2900	Nursing
+21100431307	3300	Social Sciences
+21100431308	2300	Environmental Science
+21100431310	2200	Engineering
+21100431311	1500	Chemical Engineering
+21100431311	2200	Engineering
+21100431313	1400	Business, Management and Accounting
+21100431313	1700	Computer Science
+21100431313	1800	Decision Sciences
+21100431319	1100	Agricultural and Biological Sciences
+21100431319	1300	Biochemistry, Genetics and Molecular Biology
+21100431535	3100	Physics and Astronomy
+21100431830	1100	Agricultural and Biological Sciences
+21100431860	2200	Engineering
+21100431860	2500	Materials Science
+21100431882	2700	Medicine
+21100431907	2200	Engineering
+21100431993	1200	Arts and Humanities
+21100431993	3300	Social Sciences
+21100431994	2300	Environmental Science
+21100431994	3300	Social Sciences
+21100431995	1500	Chemical Engineering
+21100431995	1600	Chemistry
+21100431995	2200	Engineering
+21100431995	2500	Materials Science
+21100431995	3100	Physics and Astronomy
+21100431996	1400	Business, Management and Accounting
+21100431997	3300	Social Sciences
+21100431998	2600	Mathematics
+21100432005	1300	Biochemistry, Genetics and Molecular Biology
+21100432005	2800	Neuroscience
+21100432006	3100	Physics and Astronomy
+21100432011	2200	Engineering
+21100432037	1400	Business, Management and Accounting
+21100432047	1700	Computer Science
+21100432047	1900	Earth and Planetary Sciences
+21100432051	1200	Arts and Humanities
+21100432051	3300	Social Sciences
+21100432118	1200	Arts and Humanities
+21100432118	3300	Social Sciences
+21100432126	3300	Social Sciences
+21100432141	3300	Social Sciences
+21100432148	1900	Earth and Planetary Sciences
+21100432148	2200	Engineering
+21100432208	1200	Arts and Humanities
+21100432248	1200	Arts and Humanities
+21100432248	2000	Economics, Econometrics and Finance
+21100432248	3300	Social Sciences
+21100432349	1200	Arts and Humanities
+21100432349	2300	Environmental Science
+21100432349	3300	Social Sciences
+21100432435	2700	Medicine
+21100432435	2800	Neuroscience
+21100432436	2700	Medicine
+21100432437	2700	Medicine
+21100432450	3100	Physics and Astronomy
+21100432452	2500	Materials Science
+21100432467	1100	Agricultural and Biological Sciences
+21100432478	1200	Arts and Humanities
+21100432483	1700	Computer Science
+21100432483	2200	Engineering
+21100432496	3300	Social Sciences
+21100432519	1900	Earth and Planetary Sciences
+21100432519	2100	Energy
+21100432520	1200	Arts and Humanities
+21100432543	1100	Agricultural and Biological Sciences
+21100432584	1100	Agricultural and Biological Sciences
+21100432613	3300	Social Sciences
+21100432792	1700	Computer Science
+21100432792	2200	Engineering
+21100432868	1300	Biochemistry, Genetics and Molecular Biology
+21100432868	2700	Medicine
+21100432868	2800	Neuroscience
+21100433106	1100	Agricultural and Biological Sciences
+21100433106	2300	Environmental Science
+21100433120	1300	Biochemistry, Genetics and Molecular Biology
+21100433120	2300	Environmental Science
+21100433120	2400	Immunology and Microbiology
+21100433120	2700	Medicine
+21100433204	2700	Medicine
+21100433296	1100	Agricultural and Biological Sciences
+21100433296	2200	Engineering
+21100433298	2700	Medicine
+21100433298	3300	Social Sciences
+21100433341	3500	Dentistry
+21100433648	1400	Business, Management and Accounting
+21100433649	1400	Business, Management and Accounting
+21100433649	3300	Social Sciences
+21100433805	3200	Psychology
+21100433805	3300	Social Sciences
+21100434052	2300	Environmental Science
+21100434052	2500	Materials Science
+21100434068	2100	Energy
+21100434068	3100	Physics and Astronomy
+21100434602	1300	Biochemistry, Genetics and Molecular Biology
+21100434603	2700	Medicine
+21100434604	2700	Medicine
+21100434605	1500	Chemical Engineering
+21100434605	2200	Engineering
+21100434606	2700	Medicine
+21100434606	2800	Neuroscience
+21100434607	2300	Environmental Science
+21100434608	2700	Medicine
+21100434609	3300	Social Sciences
+21100434610	1700	Computer Science
+21100434610	1800	Decision Sciences
+21100434611	1100	Agricultural and Biological Sciences
+21100434810	2700	Medicine
+21100435142	2700	Medicine
+21100435183	3300	Social Sciences
+21100435208	1400	Business, Management and Accounting
+21100435208	2000	Economics, Econometrics and Finance
+21100435271	3300	Social Sciences
+21100435282	2200	Engineering
+21100435282	2300	Environmental Science
+21100435282	3300	Social Sciences
+21100435440	3200	Psychology
+21100435440	3300	Social Sciences
+21100435441	1100	Agricultural and Biological Sciences
+21100435512	3300	Social Sciences
+21100435520	2300	Environmental Science
+21100435520	3300	Social Sciences
+21100435543	1400	Business, Management and Accounting
+21100435543	2000	Economics, Econometrics and Finance
+21100435556	2300	Environmental Science
+21100435556	3300	Social Sciences
+21100435589	1200	Arts and Humanities
+21100435894	3300	Social Sciences
+21100435898	1200	Arts and Humanities
+21100435898	3300	Social Sciences
+21100435972	1400	Business, Management and Accounting
+21100435972	3300	Social Sciences
+21100436104	2300	Environmental Science
+21100436104	3300	Social Sciences
+21100436105	3300	Social Sciences
+21100436106	1200	Arts and Humanities
+21100436107	1200	Arts and Humanities
+21100437107	2000	Economics, Econometrics and Finance
+21100437623	2700	Medicine
+21100437624	1300	Biochemistry, Genetics and Molecular Biology
+21100437628	1400	Business, Management and Accounting
+21100437632	1200	Arts and Humanities
+21100437743	1200	Arts and Humanities
+21100437743	3300	Social Sciences
+21100437751	3300	Social Sciences
+21100437945	1900	Earth and Planetary Sciences
+21100437958	1500	Chemical Engineering
+21100437958	1700	Computer Science
+21100437958	1900	Earth and Planetary Sciences
+21100437958	2100	Energy
+21100437958	2200	Engineering
+21100437958	2300	Environmental Science
+21100438049	2700	Medicine
+21100438049	2800	Neuroscience
+21100438059	2200	Engineering
+21100438059	2500	Materials Science
+21100438074	1400	Business, Management and Accounting
+21100438074	1800	Decision Sciences
+21100438078	1200	Arts and Humanities
+21100438078	3300	Social Sciences
+21100438180	2500	Materials Science
+21100438182	1400	Business, Management and Accounting
+21100438182	1700	Computer Science
+21100438182	1800	Decision Sciences
+21100438182	2600	Mathematics
+21100438184	2200	Engineering
+21100438184	3300	Social Sciences
+21100438188	1500	Chemical Engineering
+21100438188	2500	Materials Science
+21100438192	1200	Arts and Humanities
+21100438194	3400	veterinary
+21100438195	1200	Arts and Humanities
+21100438195	3300	Social Sciences
+21100438196	2200	Engineering
+21100438196	2500	Materials Science
+21100438328	2300	Environmental Science
+21100438328	2700	Medicine
+21100438328	3300	Social Sciences
+21100438596	2700	Medicine
+21100438723	3300	Social Sciences
+21100438724	1300	Biochemistry, Genetics and Molecular Biology
+21100438724	1600	Chemistry
+21100438724	2400	Immunology and Microbiology
+21100438725	1100	Agricultural and Biological Sciences
+21100438726	1700	Computer Science
+21100438726	2200	Engineering
+21100438727	1100	Agricultural and Biological Sciences
+21100438728	1100	Agricultural and Biological Sciences
+21100438729	1100	Agricultural and Biological Sciences
+21100438730	2300	Environmental Science
+21100438731	1900	Earth and Planetary Sciences
+21100438732	1100	Agricultural and Biological Sciences
+21100438733	1100	Agricultural and Biological Sciences
+21100438733	1300	Biochemistry, Genetics and Molecular Biology
+21100438734	1100	Agricultural and Biological Sciences
+21100438734	1400	Business, Management and Accounting
+21100438734	2200	Engineering
+21100438735	1100	Agricultural and Biological Sciences
+21100438737	3300	Social Sciences
+21100439337	1100	Agricultural and Biological Sciences
+21100439340	3300	Social Sciences
+21100439340	3600	Health Professions
+21100439341	1100	Agricultural and Biological Sciences
+21100440501	1300	Biochemistry, Genetics and Molecular Biology
+21100440501	2700	Medicine
+21100440502	2700	Medicine
+21100440503	2700	Medicine
+21100440512	2700	Medicine
+21100440512	2900	Nursing
+21100440513	3300	Social Sciences
+21100440516	1400	Business, Management and Accounting
+21100440516	1700	Computer Science
+21100440520	2200	Engineering
+21100440520	2700	Medicine
+21100440520	3100	Physics and Astronomy
+21100440523	1700	Computer Science
+21100440523	2200	Engineering
+21100440524	1200	Arts and Humanities
+21100440525	1100	Agricultural and Biological Sciences
+21100440525	1300	Biochemistry, Genetics and Molecular Biology
+21100440607	2700	Medicine
+21100441382	2600	Mathematics
+21100441383	2600	Mathematics
+21100441385	3100	Physics and Astronomy
+21100441452	3300	Social Sciences
+21100441819	2700	Medicine
+21100442012	2600	Mathematics
+21100442068	1200	Arts and Humanities
+21100442094	3200	Psychology
+21100442094	3300	Social Sciences
+21100442185	1200	Arts and Humanities
+21100442189	1200	Arts and Humanities
+21100442189	1700	Computer Science
+21100442189	3300	Social Sciences
+21100442224	1200	Arts and Humanities
+21100442224	3300	Social Sciences
+21100442232	1200	Arts and Humanities
+21100442376	2100	Energy
+21100442376	2200	Engineering
+21100442376	2300	Environmental Science
+21100442376	2500	Materials Science
+21100443320	1500	Chemical Engineering
+21100443320	1600	Chemistry
+21100443320	2500	Materials Science
+21100443321	2600	Mathematics
+21100443325	1200	Arts and Humanities
+21100443325	3300	Social Sciences
+21100443326	1600	Chemistry
+21100443326	1900	Earth and Planetary Sciences
+21100443326	3100	Physics and Astronomy
+21100443329	3300	Social Sciences
+21100443703	1100	Agricultural and Biological Sciences
+21100443787	2700	Medicine
+21100443787	3300	Social Sciences
+21100443880	1200	Arts and Humanities
+21100443880	3300	Social Sciences
+21100443918	3300	Social Sciences
+21100444312	1100	Agricultural and Biological Sciences
+21100444312	1300	Biochemistry, Genetics and Molecular Biology
+21100444313	2300	Environmental Science
+21100444313	3000	Pharmacology, Toxicology and Pharmaceutics
+21100444325	1200	Arts and Humanities
+21100444325	3300	Social Sciences
+21100444326	3300	Social Sciences
+21100444329	2000	Economics, Econometrics and Finance
+21100444329	3300	Social Sciences
+21100444341	2200	Engineering
+21100444341	2500	Materials Science
+21100444341	3100	Physics and Astronomy
+21100444383	1200	Arts and Humanities
+21100444383	3300	Social Sciences
+21100444451	1800	Decision Sciences
+21100444451	2600	Mathematics
+21100445637	2700	Medicine
+21100445637	2900	Nursing
+21100445638	2700	Medicine
+21100445638	2900	Nursing
+21100445639	2700	Medicine
+21100445639	2800	Neuroscience
+21100445640	1300	Biochemistry, Genetics and Molecular Biology
+21100445640	2700	Medicine
+21100445641	2600	Mathematics
+21100445642	2700	Medicine
+21100445643	1100	Agricultural and Biological Sciences
+21100445643	2400	Immunology and Microbiology
+21100445643	2700	Medicine
+21100445644	1300	Biochemistry, Genetics and Molecular Biology
+21100445819	2700	Medicine
+21100445825	1200	Arts and Humanities
+21100445825	3300	Social Sciences
+21100446014	1000	Multidisciplinary
+21100446217	1400	Business, Management and Accounting
+21100446217	3300	Social Sciences
+21100446411	1200	Arts and Humanities
+21100446411	3300	Social Sciences
+21100446418	2700	Medicine
+21100446418	3000	Pharmacology, Toxicology and Pharmaceutics
+21100446420	2700	Medicine
+21100446420	2900	Nursing
+21100446421	2700	Medicine
+21100446423	1100	Agricultural and Biological Sciences
+21100446423	1300	Biochemistry, Genetics and Molecular Biology
+21100446425	3300	Social Sciences
+21100446484	2600	Mathematics
+21100446485	1200	Arts and Humanities
+21100446486	2100	Energy
+21100446486	2300	Environmental Science
+21100446487	3200	Psychology
+21100446487	3300	Social Sciences
+21100446488	1100	Agricultural and Biological Sciences
+21100446489	2700	Medicine
+21100446489	3600	Health Professions
+21100446490	1100	Agricultural and Biological Sciences
+21100446490	1900	Earth and Planetary Sciences
+21100446490	2300	Environmental Science
+21100446490	2700	Medicine
+21100446491	3300	Social Sciences
+21100446492	3300	Social Sciences
+21100446493	1600	Chemistry
+21100446494	1100	Agricultural and Biological Sciences
+21100446496	1800	Decision Sciences
+21100446496	2600	Mathematics
+21100446497	1100	Agricultural and Biological Sciences
+21100446498	2100	Energy
+21100446498	2300	Environmental Science
+21100446499	3300	Social Sciences
+21100446500	1100	Agricultural and Biological Sciences
+21100446501	1800	Decision Sciences
+21100446501	2600	Mathematics
+21100446502	2700	Medicine
+21100446502	3600	Health Professions
+21100446503	2300	Environmental Science
+21100446504	1100	Agricultural and Biological Sciences
+21100446505	1200	Arts and Humanities
+21100446505	1400	Business, Management and Accounting
+21100446505	3300	Social Sciences
+21100446506	1200	Arts and Humanities
+21100446506	3300	Social Sciences
+21100446507	1200	Arts and Humanities
+21100446507	3300	Social Sciences
+21100446508	3300	Social Sciences
+21100446509	1900	Earth and Planetary Sciences
+21100446510	1400	Business, Management and Accounting
+21100446510	1800	Decision Sciences
+21100446512	1400	Business, Management and Accounting
+21100446515	1400	Business, Management and Accounting
+21100446517	1400	Business, Management and Accounting
+21100446518	1300	Biochemistry, Genetics and Molecular Biology
+21100446518	2700	Medicine
+21100446523	3300	Social Sciences
+21100446524	1400	Business, Management and Accounting
+21100446524	3300	Social Sciences
+21100446527	3300	Social Sciences
+21100446528	1400	Business, Management and Accounting
+21100446528	3300	Social Sciences
+21100446531	1400	Business, Management and Accounting
+21100446532	3300	Social Sciences
+21100446929	1800	Decision Sciences
+21100446929	2000	Economics, Econometrics and Finance
+21100446929	2600	Mathematics
+21100446931	2600	Mathematics
+21100446963	2100	Energy
+21100446963	2500	Materials Science
+21100446969	1400	Business, Management and Accounting
+21100446999	1400	Business, Management and Accounting
+21100447114	1200	Arts and Humanities
+21100447114	3300	Social Sciences
+21100447115	3300	Social Sciences
+21100447118	1100	Agricultural and Biological Sciences
+21100447121	1700	Computer Science
+21100447122	1200	Arts and Humanities
+21100447125	2700	Medicine
+21100447125	3000	Pharmacology, Toxicology and Pharmaceutics
+21100447128	1100	Agricultural and Biological Sciences
+21100447128	1300	Biochemistry, Genetics and Molecular Biology
+21100447128	2300	Environmental Science
+21100447130	1300	Biochemistry, Genetics and Molecular Biology
+21100447130	1500	Chemical Engineering
+21100447130	1700	Computer Science
+21100447130	2200	Engineering
+21100447130	2600	Mathematics
+21100447132	2800	Neuroscience
+21100447132	3200	Psychology
+21100447132	3300	Social Sciences
+21100447802	3300	Social Sciences
+21100447809	2600	Mathematics
+21100447810	3300	Social Sciences
+21100447811	1100	Agricultural and Biological Sciences
+21100447813	2600	Mathematics
+21100447815	1500	Chemical Engineering
+21100447815	2200	Engineering
+21100447815	3300	Social Sciences
+21100447818	1200	Arts and Humanities
+21100447818	3300	Social Sciences
+21100447819	1200	Arts and Humanities
+21100447819	1900	Earth and Planetary Sciences
+21100447819	3300	Social Sciences
+21100447821	3300	Social Sciences
+21100447823	1200	Arts and Humanities
+21100447823	3300	Social Sciences
+21100448003	3300	Social Sciences
+21100448010	2700	Medicine
+21100448012	3300	Social Sciences
+21100448016	1200	Arts and Humanities
+21100448016	3300	Social Sciences
+21100448060	1200	Arts and Humanities
+21100448060	3300	Social Sciences
+21100448080	3300	Social Sciences
+21100448230	2300	Environmental Science
+21100448230	3300	Social Sciences
+21100448239	2700	Medicine
+21100448240	1400	Business, Management and Accounting
+21100448317	1200	Arts and Humanities
+21100448317	3300	Social Sciences
+21100448506	2600	Mathematics
+21100448506	3600	Health Professions
+21100448513	1400	Business, Management and Accounting
+21100448513	2700	Medicine
+21100448513	2900	Nursing
+21100448516	1700	Computer Science
+21100448516	3300	Social Sciences
+21100448524	2700	Medicine
+21100448550	2200	Engineering
+21100448554	2600	Mathematics
+21100448563	2700	Medicine
+21100448563	2900	Nursing
+21100448564	1400	Business, Management and Accounting
+21100448565	1700	Computer Science
+21100448565	2200	Engineering
+21100448566	3300	Social Sciences
+21100448901	2200	Engineering
+21100448901	2700	Medicine
+21100448905	2700	Medicine
+21100448929	1400	Business, Management and Accounting
+21100448930	2700	Medicine
+21100448939	3300	Social Sciences
+21100448964	1700	Computer Science
+21100448964	2500	Materials Science
+21100448964	3100	Physics and Astronomy
+21100449002	1200	Arts and Humanities
+21100449002	2000	Economics, Econometrics and Finance
+21100449106	2200	Engineering
+21100449106	3000	Pharmacology, Toxicology and Pharmaceutics
+21100449118	1200	Arts and Humanities
+21100449118	2200	Engineering
+21100449118	3300	Social Sciences
+21100449122	2200	Engineering
+21100449122	3300	Social Sciences
+21100449123	1200	Arts and Humanities
+21100449123	3300	Social Sciences
+21100449126	1200	Arts and Humanities
+21100449126	2300	Environmental Science
+21100449127	1200	Arts and Humanities
+21100449131	1200	Arts and Humanities
+21100449131	3300	Social Sciences
+21100450083	1400	Business, Management and Accounting
+21100450083	1700	Computer Science
+21100450083	2100	Energy
+21100450083	2200	Engineering
+21100450083	2600	Mathematics
+21100450117	1400	Business, Management and Accounting
+21100450117	1800	Decision Sciences
+21100450131	1700	Computer Science
+21100450131	3300	Social Sciences
+21100450146	1200	Arts and Humanities
+21100450146	3300	Social Sciences
+21100450247	1200	Arts and Humanities
+21100450247	3300	Social Sciences
+21100450368	2200	Engineering
+21100450368	3300	Social Sciences
+21100451148	3200	Psychology
+21100451148	3300	Social Sciences
+21100451188	3200	Psychology
+21100451188	3300	Social Sciences
+21100451188	3600	Health Professions
+21100451190	2600	Mathematics
+21100451196	3300	Social Sciences
+21100451199	1200	Arts and Humanities
+21100451199	2000	Economics, Econometrics and Finance
+21100451311	2200	Engineering
+21100451311	3300	Social Sciences
+21100451314	3300	Social Sciences
+21100451321	1700	Computer Science
+21100451321	1800	Decision Sciences
+21100451321	2600	Mathematics
+21100451321	3300	Social Sciences
+21100451355	1200	Arts and Humanities
+21100451375	1300	Biochemistry, Genetics and Molecular Biology
+21100451398	2700	Medicine
+21100451405	2700	Medicine
+21100451405	3000	Pharmacology, Toxicology and Pharmaceutics
+21100451439	1200	Arts and Humanities
+21100451439	3300	Social Sciences
+21100451501	3300	Social Sciences
+21100451564	2700	Medicine
+21100451575	1200	Arts and Humanities
+21100451575	3300	Social Sciences
+21100451643	1200	Arts and Humanities
+21100451649	3200	Psychology
+21100451659	2400	Immunology and Microbiology
+21100451659	2700	Medicine
+21100451666	1200	Arts and Humanities
+21100451688	2200	Engineering
+21100451751	2700	Medicine
+21100453510	3300	Social Sciences
+21100453515	1200	Arts and Humanities
+21100453515	3300	Social Sciences
+21100453516	3200	Psychology
+21100453516	3300	Social Sciences
+21100453520	2700	Medicine
+21100453523	1900	Earth and Planetary Sciences
+21100453530	2700	Medicine
+21100453533	1300	Biochemistry, Genetics and Molecular Biology
+21100453533	2700	Medicine
+21100453539	1200	Arts and Humanities
+21100453539	3300	Social Sciences
+21100453544	1200	Arts and Humanities
+21100453544	3300	Social Sciences
+21100453545	1200	Arts and Humanities
+21100453545	3300	Social Sciences
+21100453548	3300	Social Sciences
+21100453600	1900	Earth and Planetary Sciences
+21100453600	2100	Energy
+21100453800	1300	Biochemistry, Genetics and Molecular Biology
+21100453800	2600	Mathematics
+21100453900	1200	Arts and Humanities
+21100454431	3300	Social Sciences
+21100454434	3300	Social Sciences
+21100454915	1200	Arts and Humanities
+21100454915	2600	Mathematics
+21100454915	3300	Social Sciences
+21100454916	2700	Medicine
+21100454916	3600	Health Professions
+21100454936	1900	Earth and Planetary Sciences
+21100454936	3300	Social Sciences
+21100454943	1300	Biochemistry, Genetics and Molecular Biology
+21100454943	2700	Medicine
+21100454953	1900	Earth and Planetary Sciences
+21100454953	3300	Social Sciences
+21100454957	1100	Agricultural and Biological Sciences
+21100454972	2700	Medicine
+21100454974	1200	Arts and Humanities
+21100454974	3300	Social Sciences
+21100454975	2000	Economics, Econometrics and Finance
+21100454975	3300	Social Sciences
+21100454976	1700	Computer Science
+21100454976	2200	Engineering
+21100455134	1200	Arts and Humanities
+21100455134	3300	Social Sciences
+21100455208	2700	Medicine
+21100455209	1200	Arts and Humanities
+21100455209	3300	Social Sciences
+21100455212	1300	Biochemistry, Genetics and Molecular Biology
+21100455212	2700	Medicine
+21100455212	2800	Neuroscience
+21100455212	3000	Pharmacology, Toxicology and Pharmaceutics
+21100455214	1200	Arts and Humanities
+21100455214	3300	Social Sciences
+21100455415	1800	Decision Sciences
+21100455415	2000	Economics, Econometrics and Finance
+21100455415	2600	Mathematics
+21100455424	2700	Medicine
+21100455424	3200	Psychology
+21100455427	1200	Arts and Humanities
+21100455427	3300	Social Sciences
+21100455428	2200	Engineering
+21100455428	2600	Mathematics
+21100455430	1300	Biochemistry, Genetics and Molecular Biology
+21100455430	2700	Medicine
+21100455449	3200	Psychology
+21100455449	3300	Social Sciences
+21100455458	1500	Chemical Engineering
+21100455458	1700	Computer Science
+21100455458	2200	Engineering
+21100455458	2600	Mathematics
+21100455460	1200	Arts and Humanities
+21100455460	1400	Business, Management and Accounting
+21100455461	3300	Social Sciences
+21100455533	1200	Arts and Humanities
+21100455546	2200	Engineering
+21100455546	2500	Materials Science
+21100455554	2100	Energy
+21100455554	2200	Engineering
+21100455558	1200	Arts and Humanities
+21100455558	2200	Engineering
+21100455561	1700	Computer Science
+21100455561	2200	Engineering
+21100455561	2500	Materials Science
+21100455564	3300	Social Sciences
+21100455574	3300	Social Sciences
+21100455621	2600	Mathematics
+21100455625	2700	Medicine
+21100455629	2700	Medicine
+21100455650	1700	Computer Science
+21100455650	2000	Economics, Econometrics and Finance
+21100455650	2200	Engineering
+21100455650	3300	Social Sciences
+21100455657	1200	Arts and Humanities
+21100455666	1200	Arts and Humanities
+21100455681	3300	Social Sciences
+21100455731	1200	Arts and Humanities
+21100455731	3300	Social Sciences
+21100455734	1200	Arts and Humanities
+21100455734	3300	Social Sciences
+21100455735	3300	Social Sciences
+21100455736	1200	Arts and Humanities
+21100455736	3300	Social Sciences
+21100455922	3500	Dentistry
+21100455923	1700	Computer Science
+21100456125	3200	Psychology
+21100456142	1100	Agricultural and Biological Sciences
+21100456142	2300	Environmental Science
+21100456158	2200	Engineering
+21100456160	2700	Medicine
+21100456161	1200	Arts and Humanities
+21100456161	3300	Social Sciences
+21100456162	1500	Chemical Engineering
+21100456162	2600	Mathematics
+21100456164	1200	Arts and Humanities
+21100456164	2700	Medicine
+21100456164	2900	Nursing
+21100456179	2200	Engineering
+21100456179	2300	Environmental Science
+21100456179	3300	Social Sciences
+21100456180	1300	Biochemistry, Genetics and Molecular Biology
+21100456180	1500	Chemical Engineering
+21100456180	2200	Engineering
+21100456180	2700	Medicine
+21100456184	2100	Energy
+21100456187	2200	Engineering
+21100456187	3300	Social Sciences
+21100456188	1200	Arts and Humanities
+21100456188	3300	Social Sciences
+21100456194	1200	Arts and Humanities
+21100456194	3300	Social Sciences
+21100456195	2700	Medicine
+21100456196	2200	Engineering
+21100456197	3300	Social Sciences
+21100456198	2700	Medicine
+21100456199	2300	Environmental Science
+21100456199	3300	Social Sciences
+21100456200	2700	Medicine
+21100456200	2900	Nursing
+21100456201	1300	Biochemistry, Genetics and Molecular Biology
+21100456201	2700	Medicine
+21100456202	1300	Biochemistry, Genetics and Molecular Biology
+21100456202	2700	Medicine
+21100456601	3000	Pharmacology, Toxicology and Pharmaceutics
+21100456639	1100	Agricultural and Biological Sciences
+21100456639	1900	Earth and Planetary Sciences
+21100456639	2300	Environmental Science
+21100456703	1200	Arts and Humanities
+21100456706	1200	Arts and Humanities
+21100456706	3300	Social Sciences
+21100456707	1200	Arts and Humanities
+21100456711	2700	Medicine
+21100456724	1300	Biochemistry, Genetics and Molecular Biology
+21100456724	2700	Medicine
+21100456735	1200	Arts and Humanities
+21100456735	1900	Earth and Planetary Sciences
+21100456735	3300	Social Sciences
+21100456758	2700	Medicine
+21100456759	2700	Medicine
+21100456774	1200	Arts and Humanities
+21100456777	2000	Economics, Econometrics and Finance
+21100456777	3300	Social Sciences
+21100456788	1100	Agricultural and Biological Sciences
+21100456788	1400	Business, Management and Accounting
+21100456788	1800	Decision Sciences
+21100456788	2000	Economics, Econometrics and Finance
+21100456788	2300	Environmental Science
+21100456788	3300	Social Sciences
+21100456790	1100	Agricultural and Biological Sciences
+21100456792	1200	Arts and Humanities
+21100456792	2000	Economics, Econometrics and Finance
+21100456792	3300	Social Sciences
+21100456834	3200	Psychology
+21100456838	1300	Biochemistry, Genetics and Molecular Biology
+21100456838	2700	Medicine
+21100456838	3000	Pharmacology, Toxicology and Pharmaceutics
+21100456853	1200	Arts and Humanities
+21100456854	3300	Social Sciences
+21100456855	2300	Environmental Science
+21100456855	3300	Social Sciences
+21100456856	2200	Engineering
+21100456856	2600	Mathematics
+21100456858	3300	Social Sciences
+21100456864	3300	Social Sciences
+21100456867	1300	Biochemistry, Genetics and Molecular Biology
+21100456867	2700	Medicine
+21100457028	2700	Medicine
+21100457056	2700	Medicine
+21100457058	1400	Business, Management and Accounting
+21100457058	1800	Decision Sciences
+21100457058	2200	Engineering
+21100457059	3300	Social Sciences
+21100457062	2300	Environmental Science
+21100457062	3300	Social Sciences
+21100457074	1200	Arts and Humanities
+21100457101	3300	Social Sciences
+21100457103	1200	Arts and Humanities
+21100457103	3300	Social Sciences
+21100457106	1300	Biochemistry, Genetics and Molecular Biology
+21100457106	2700	Medicine
+21100457107	2700	Medicine
+21100457108	2200	Engineering
+21100457108	2500	Materials Science
+21100457109	1500	Chemical Engineering
+21100457109	2200	Engineering
+21100457109	2300	Environmental Science
+21100457110	2700	Medicine
+21100457111	2700	Medicine
+21100457325	3300	Social Sciences
+21100457327	1200	Arts and Humanities
+21100457408	1200	Arts and Humanities
+21100457418	1200	Arts and Humanities
+21100457421	1200	Arts and Humanities
+21100457423	1200	Arts and Humanities
+21100457428	2700	Medicine
+21100457428	2800	Neuroscience
+21100457428	3200	Psychology
+21100457432	2200	Engineering
+21100457432	2500	Materials Science
+21100457432	3100	Physics and Astronomy
+21100457433	1200	Arts and Humanities
+21100459104	1300	Biochemistry, Genetics and Molecular Biology
+21100459104	2700	Medicine
+21100459267	2700	Medicine
+21100461324	3300	Social Sciences
+21100461329	1800	Decision Sciences
+21100461329	2000	Economics, Econometrics and Finance
+21100461332	1400	Business, Management and Accounting
+21100461332	2300	Environmental Science
+21100461340	1400	Business, Management and Accounting
+21100461344	1400	Business, Management and Accounting
+21100461405	3300	Social Sciences
+21100461423	3300	Social Sciences
+21100461424	3300	Social Sciences
+21100461902	2700	Medicine
+21100461912	2700	Medicine
+21100461912	3500	Dentistry
+21100461914	2700	Medicine
+21100461918	2700	Medicine
+21100461927	2200	Engineering
+21100461927	2500	Materials Science
+21100461936	2200	Engineering
+21100461936	2500	Materials Science
+21100461944	1400	Business, Management and Accounting
+21100461944	3200	Psychology
+21100461944	3300	Social Sciences
+21100461949	1200	Arts and Humanities
+21100461949	3300	Social Sciences
+21100461974	1300	Biochemistry, Genetics and Molecular Biology
+21100461974	2700	Medicine
+21100461983	1600	Chemistry
+21100461998	1200	Arts and Humanities
+21100462020	2700	Medicine
+21100462819	3300	Social Sciences
+21100462869	1200	Arts and Humanities
+21100462869	3300	Social Sciences
+21100462919	3300	Social Sciences
+21100462963	2700	Medicine
+21100463052	2200	Engineering
+21100463052	2500	Materials Science
+21100463052	2700	Medicine
+21100463052	3300	Social Sciences
+21100463067	1300	Biochemistry, Genetics and Molecular Biology
+21100463068	1100	Agricultural and Biological Sciences
+21100463068	1700	Computer Science
+21100463068	2200	Engineering
+21100463075	3300	Social Sciences
+21100463090	1200	Arts and Humanities
+21100463093	2300	Environmental Science
+21100463093	3300	Social Sciences
+21100463095	1100	Agricultural and Biological Sciences
+21100463097	2700	Medicine
+21100463098	1300	Biochemistry, Genetics and Molecular Biology
+21100463098	2400	Immunology and Microbiology
+21100463101	2700	Medicine
+21100463102	2200	Engineering
+21100463102	2600	Mathematics
+21100463103	2700	Medicine
+21100463105	1200	Arts and Humanities
+21100463105	3300	Social Sciences
+21100463107	2900	Nursing
+21100463109	2700	Medicine
+21100463110	3300	Social Sciences
+21100463164	3300	Social Sciences
+21100463174	1200	Arts and Humanities
+21100463174	3300	Social Sciences
+21100463175	1200	Arts and Humanities
+21100463175	3300	Social Sciences
+21100463178	1200	Arts and Humanities
+21100463529	1200	Arts and Humanities
+21100463529	3300	Social Sciences
+21100463542	1200	Arts and Humanities
+21100463542	3300	Social Sciences
+21100463549	3100	Physics and Astronomy
+21100463586	1200	Arts and Humanities
+21100463586	3300	Social Sciences
+21100463801	1900	Earth and Planetary Sciences
+21100463801	3300	Social Sciences
+21100463803	2000	Economics, Econometrics and Finance
+21100463803	3300	Social Sciences
+21100463829	2300	Environmental Science
+21100463829	3000	Pharmacology, Toxicology and Pharmaceutics
+21100463829	3300	Social Sciences
+21100463830	1400	Business, Management and Accounting
+21100463830	1700	Computer Science
+21100463830	1800	Decision Sciences
+21100463830	2200	Engineering
+21100463834	3300	Social Sciences
+21100463842	1900	Earth and Planetary Sciences
+21100463842	2300	Environmental Science
+21100463845	2700	Medicine
+21100463861	1200	Arts and Humanities
+21100463861	3300	Social Sciences
+21100463862	2400	Immunology and Microbiology
+21100463862	2700	Medicine
+21100463869	2500	Materials Science
+21100463872	2200	Engineering
+21100463872	3100	Physics and Astronomy
+21100463889	1900	Earth and Planetary Sciences
+21100463893	2000	Economics, Econometrics and Finance
+21100463893	3300	Social Sciences
+21100463928	2700	Medicine
+21100463928	2900	Nursing
+21100463931	2700	Medicine
+21100463939	1700	Computer Science
+21100463939	2100	Energy
+21100463939	2200	Engineering
+21100464312	1000	Multidisciplinary
+21100464312	1200	Arts and Humanities
+21100464314	1400	Business, Management and Accounting
+21100464314	1800	Decision Sciences
+21100464314	2200	Engineering
+21100464514	1500	Chemical Engineering
+21100464514	2200	Engineering
+21100464514	3300	Social Sciences
+21100464540	1200	Arts and Humanities
+21100464557	1100	Agricultural and Biological Sciences
+21100464566	3500	Dentistry
+21100464567	2500	Materials Science
+21100464627	1400	Business, Management and Accounting
+21100464632	1200	Arts and Humanities
+21100464632	3300	Social Sciences
+21100464634	1600	Chemistry
+21100464636	2700	Medicine
+21100464637	2700	Medicine
+21100464638	2700	Medicine
+21100464658	2700	Medicine
+21100464683	3200	Psychology
+21100464690	3400	veterinary
+21100464708	2000	Economics, Econometrics and Finance
+21100464738	2700	Medicine
+21100464746	2300	Environmental Science
+21100464746	3300	Social Sciences
+21100464750	3300	Social Sciences
+21100464757	2700	Medicine
+21100464761	1400	Business, Management and Accounting
+21100464761	2000	Economics, Econometrics and Finance
+21100464772	3200	Psychology
+21100464772	3300	Social Sciences
+21100464774	1400	Business, Management and Accounting
+21100464774	2000	Economics, Econometrics and Finance
+21100464775	1400	Business, Management and Accounting
+21100464775	3300	Social Sciences
+21100464776	1700	Computer Science
+21100464776	1800	Decision Sciences
+21100464776	2600	Mathematics
+21100464777	3400	veterinary
+21100464778	2700	Medicine
+21100464901	2700	Medicine
+21100464901	2800	Neuroscience
+21100464901	3600	Health Professions
+21100464902	2300	Environmental Science
+21100464902	3300	Social Sciences
+21100464913	1200	Arts and Humanities
+21100464913	3300	Social Sciences
+21100464917	1700	Computer Science
+21100464917	2000	Economics, Econometrics and Finance
+21100464917	2600	Mathematics
+21100464918	1100	Agricultural and Biological Sciences
+21100464918	2300	Environmental Science
+21100464920	1200	Arts and Humanities
+21100464920	3300	Social Sciences
+21100464929	3300	Social Sciences
+21100464933	1200	Arts and Humanities
+21100464933	2700	Medicine
+21100464933	3300	Social Sciences
+21100464956	2300	Environmental Science
+21100464956	2700	Medicine
+21100464981	3300	Social Sciences
+21100465007	3000	Pharmacology, Toxicology and Pharmaceutics
+21100465064	2000	Economics, Econometrics and Finance
+21100465064	2700	Medicine
+21100465083	1200	Arts and Humanities
+21100465083	3300	Social Sciences
+21100465104	2700	Medicine
+21100465128	2700	Medicine
+21100465146	1200	Arts and Humanities
+21100465146	3300	Social Sciences
+21100465147	3300	Social Sciences
+21100465194	1200	Arts and Humanities
+21100465194	1700	Computer Science
+21100465194	3300	Social Sciences
+21100465205	1400	Business, Management and Accounting
+21100465205	2000	Economics, Econometrics and Finance
+21100465408	2700	Medicine
+21100465416	1500	Chemical Engineering
+21100465416	1700	Computer Science
+21100465416	2200	Engineering
+21100465416	2600	Mathematics
+21100465420	2200	Engineering
+21100465420	2600	Mathematics
+21100465421	1200	Arts and Humanities
+21100465421	3300	Social Sciences
+21100465422	3300	Social Sciences
+21100465423	1100	Agricultural and Biological Sciences
+21100465423	2900	Nursing
+21100465444	1200	Arts and Humanities
+21100466201	1400	Business, Management and Accounting
+21100466201	2000	Economics, Econometrics and Finance
+21100466202	2700	Medicine
+21100466213	1100	Agricultural and Biological Sciences
+21100466219	1700	Computer Science
+21100466223	2200	Engineering
+21100466229	2300	Environmental Science
+21100466229	3300	Social Sciences
+21100466246	3400	veterinary
+21100466401	2700	Medicine
+21100466403	1100	Agricultural and Biological Sciences
+21100466404	1500	Chemical Engineering
+21100466404	1700	Computer Science
+21100466404	2200	Engineering
+21100466413	1200	Arts and Humanities
+21100466413	1300	Biochemistry, Genetics and Molecular Biology
+21100466413	2300	Environmental Science
+21100466423	2600	Mathematics
+21100466426	2600	Mathematics
+21100466428	1600	Chemistry
+21100466428	1700	Computer Science
+21100466428	2200	Engineering
+21100466428	2600	Mathematics
+21100466428	3100	Physics and Astronomy
+21100466455	2600	Mathematics
+21100466461	2200	Engineering
+21100466461	2500	Materials Science
+21100466462	3200	Psychology
+21100466465	1700	Computer Science
+21100466465	2000	Economics, Econometrics and Finance
+21100466465	2600	Mathematics
+21100466539	2700	Medicine
+21100466714	1700	Computer Science
+21100466714	3300	Social Sciences
+21100466737	1300	Biochemistry, Genetics and Molecular Biology
+21100466737	1600	Chemistry
+21100466737	2200	Engineering
+21100466737	2700	Medicine
+21100466753	2700	Medicine
+21100466760	1500	Chemical Engineering
+21100466760	2200	Engineering
+21100466760	2600	Mathematics
+21100466764	1300	Biochemistry, Genetics and Molecular Biology
+21100466764	1600	Chemistry
+21100466791	1300	Biochemistry, Genetics and Molecular Biology
+21100466791	2700	Medicine
+21100466796	2700	Medicine
+21100466809	3300	Social Sciences
+21100466828	1200	Arts and Humanities
+21100466834	2000	Economics, Econometrics and Finance
+21100466834	2600	Mathematics
+21100466851	2100	Energy
+21100466855	2700	Medicine
+21100466855	2800	Neuroscience
+21100466856	2700	Medicine
+21100466857	2700	Medicine
+21100466864	1300	Biochemistry, Genetics and Molecular Biology
+21100466864	2400	Immunology and Microbiology
+21100466864	2700	Medicine
+21100466864	3000	Pharmacology, Toxicology and Pharmaceutics
+21100466865	2700	Medicine
+21100466866	2700	Medicine
+21100466869	1200	Arts and Humanities
+21100466869	2200	Engineering
+21100466869	3300	Social Sciences
+21100466871	2700	Medicine
+21100466871	2800	Neuroscience
+21100466874	2700	Medicine
+21100466891	2700	Medicine
+21100466901	2700	Medicine
+21100467322	2700	Medicine
+21100467353	1200	Arts and Humanities
+21100467353	3300	Social Sciences
+21100467354	2700	Medicine
+21100467355	1200	Arts and Humanities
+21100467355	3300	Social Sciences
+21100467356	1300	Biochemistry, Genetics and Molecular Biology
+21100467356	2700	Medicine
+21100467423	2700	Medicine
+21100467801	1300	Biochemistry, Genetics and Molecular Biology
+21100467801	2700	Medicine
+21100467802	2300	Environmental Science
+21100467803	3000	Pharmacology, Toxicology and Pharmaceutics
+21100467832	1200	Arts and Humanities
+21100467838	2700	Medicine
+21100468501	2700	Medicine
+21100468669	3300	Social Sciences
+21100468670	2200	Engineering
+21100468806	1100	Agricultural and Biological Sciences
+21100468817	2300	Environmental Science
+21100468817	2500	Materials Science
+21100468861	1200	Arts and Humanities
+21100468861	3300	Social Sciences
+21100468901	2700	Medicine
+21100468901	3300	Social Sciences
+21100468901	3600	Health Professions
+21100468931	1100	Agricultural and Biological Sciences
+21100468963	2300	Environmental Science
+21100468964	1200	Arts and Humanities
+21100468968	1200	Arts and Humanities
+21100468968	3300	Social Sciences
+21100468970	3300	Social Sciences
+21100468972	1700	Computer Science
+21100468978	2700	Medicine
+21100468984	1500	Chemical Engineering
+21100468984	2200	Engineering
+21100468984	2700	Medicine
+21100468984	3200	Psychology
+21100469071	2700	Medicine
+21100469072	2700	Medicine
+21100469363	2700	Medicine
+21100469364	1500	Chemical Engineering
+21100469364	2500	Materials Science
+21100469364	3100	Physics and Astronomy
+21100469365	2700	Medicine
+21100469366	1100	Agricultural and Biological Sciences
+21100469375	2700	Medicine
+21100469397	2700	Medicine
+21100469450	1700	Computer Science
+21100469450	3300	Social Sciences
+21100469452	2800	Neuroscience
+21100469452	3200	Psychology
+21100469513	3300	Social Sciences
+21100469599	1100	Agricultural and Biological Sciences
+21100469602	2200	Engineering
+21100469612	2800	Neuroscience
+21100469612	3200	Psychology
+21100469612	3300	Social Sciences
+21100469613	1100	Agricultural and Biological Sciences
+21100469641	2700	Medicine
+21100469656	2700	Medicine
+21100469656	3100	Physics and Astronomy
+21100469658	1700	Computer Science
+21100469658	1900	Earth and Planetary Sciences
+21100469659	1900	Earth and Planetary Sciences
+21100469663	3200	Psychology
+21100469668	2200	Engineering
+21100469668	2500	Materials Science
+21100469669	2700	Medicine
+21100469670	1300	Biochemistry, Genetics and Molecular Biology
+21100469670	2400	Immunology and Microbiology
+21100469670	2700	Medicine
+21100469670	3000	Pharmacology, Toxicology and Pharmaceutics
+21100469671	2700	Medicine
+21100469675	1700	Computer Science
+21100469675	2600	Mathematics
+21100469696	1200	Arts and Humanities
+21100469696	3200	Psychology
+21100469711	1900	Earth and Planetary Sciences
+21100469749	2900	Nursing
+21100469942	2700	Medicine
+21100469943	1700	Computer Science
+21100469944	2700	Medicine
+21100470126	2200	Engineering
+21100470165	1300	Biochemistry, Genetics and Molecular Biology
+21100470165	1500	Chemical Engineering
+21100470165	2200	Engineering
+21100470165	2500	Materials Science
+21100470165	2700	Medicine
+21100470165	3100	Physics and Astronomy
+21100470510	3000	Pharmacology, Toxicology and Pharmaceutics
+21100470629	1600	Chemistry
+21100470629	2100	Energy
+21100470629	2200	Engineering
+21100470629	2500	Materials Science
+21100470629	3100	Physics and Astronomy
+21100470662	2700	Medicine
+21100470767	1300	Biochemistry, Genetics and Molecular Biology
+21100470767	2700	Medicine
+21100470815	2700	Medicine
+21100476125	2700	Medicine
+21100508691	2200	Engineering
+21100509737	2200	Engineering
+21100509737	2600	Mathematics
+21100773022	1200	Arts and Humanities
+21100773703	1700	Computer Science
+21100778814	2800	Neuroscience
+21100778824	2700	Medicine
+21100778825	2700	Medicine
+21100778827	1300	Biochemistry, Genetics and Molecular Biology
+21100778828	1100	Agricultural and Biological Sciences
+21100778828	2000	Economics, Econometrics and Finance
+21100778830	2700	Medicine
+21100778840	1300	Biochemistry, Genetics and Molecular Biology
+21100778840	2700	Medicine
+21100778840	2900	Nursing
+21100778843	3200	Psychology
+21100778844	1700	Computer Science
+21100778845	1700	Computer Science
+21100778845	2200	Engineering
+21100778846	3300	Social Sciences
+21100778847	2700	Medicine
+21100778849	3300	Social Sciences
+21100779404	1600	Chemistry
+21100779404	2500	Materials Science
+21100780107	1300	Biochemistry, Genetics and Molecular Biology
+21100780798	2200	Engineering
+21100780799	2300	Environmental Science
