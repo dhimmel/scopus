@@ -1,6 +1,6 @@
 # Tidying and mapping Scopus and Journal Metrics data
 
-This repository creates user-friendly (tidy) TSVs of data from [Scopus](https://www.elsevier.com/solutions/scopus/content) and [Journal Metrics](http://www.journalmetrics.com/values.php) and converts data to NLM journal IDs for PubMed integration. Data pulled from Scopus include journal subject areas and open access status. Data pulled from Journal Metrics include journal three measures (`SNIP`, `IPP`, `SJR`) of journal prestige and a Scopus–ISSN mapping.
+This repository creates user-friendly (tidy) TSVs of data from [Scopus](https://www.elsevier.com/solutions/scopus/content) and [Journal Metrics](http://www.journalmetrics.com/values.php) and converts data to NLM journal IDs for PubMed integration. Data pulled from Scopus include journal subject areas and open access status. Data pulled from Journal Metrics include journal three measures (`CiteScore`, `SJR`, `SNIP`) of journal prestige and a Scopus–ISSN mapping.
 
 Execution is performed by running notebooks in the following order:
 
