@@ -4,9 +4,9 @@ This repository creates user-friendly (tidy) TSVs of data from [Scopus](https://
 
 Execution is performed by running notebooks in the following order:
 
-1. [`process-titles.ipynb`](process-titles.ipynb) to process the raw Scopus title list
-2. [`process-metics.ipynb`](process-metics.ipynb) to process the raw Journal Metric download
-3. [`pubmed.ipynb`](pubmed.ipynb) to convert Scopus IDs to NLM journal IDs
++ [`1.process-titles.ipynb`](1.process-titles.ipynb) to process the raw Scopus title list
++ [`2.process-metrics.ipynb`](2.process-metrics.ipynb) to process the raw Journal Metric download
++ [`3.pubmed.ipynb`](3.pubmed.ipynb) to convert Scopus IDs to NLM journal IDs
 
 ### Scopus titles
 
