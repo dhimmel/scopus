@@ -32,10 +32,10 @@ The `data` directory contains the following tidy outputs:
 
 ## Source and version info
 
-This repository is built from the following publicly-available inputs:
+This repository is built from the following publicly-available inputs in [`download`](download):
 
 + `title_list.xlsx`: Scopus title list ([source](https://www.elsevier.com/solutions/scopus/content))
 + `SNIP_IPP_SJR_complete_1999_2014.xlsx`: Journal Metrics ([source](http://www.journalmetrics.com/values.php))
 + `pubmed-journals.tsv`: PubMed journal information ([source](https://github.com/dhimmel/delays/blob/master/data/pubmed-journals.tsv))
 
-See [`backup.sh`](backup.sh), which downloads local copies of the inputs, for versioned links.
+See [`download.sh`](download/download.sh), which downloads local copies of the inputs, for the source URLs.
