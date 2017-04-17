@@ -39,3 +39,14 @@ This repository is built from the following publicly-available inputs in [`downl
 + `pubmed-journals.tsv`: PubMed journal information ([source](https://github.com/dhimmel/delays/blob/master/data/pubmed-journals.tsv))
 
 See [`download.sh`](download/download.sh), which downloads local copies of the inputs, for the source URLs.
+
+## Environment
+
+This repository uses [conda](http://conda.pydata.org/docs/) to manage its environment as specified in [`environment.yml`](environment.yml).
+Install the environment with:
+
+```sh
+conda env create --file=environment.yml
+```
+
+Then use `source activate journalmetrics` and `source deactivate` to activate or deactivate the environment. On windows, use `activate journalmetrics` and `deactivate` instead.
