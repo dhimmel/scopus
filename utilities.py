@@ -6,6 +6,9 @@ import pandas
 def format_issn(issn):
     """
     Reformat messy ISSNs that are potentially numerically-encoded.
+
+    Returns a valid ISSN as a hyphenated string. Returns None
+    for invalid ISSNs.
     """
     if issn is None or pandas.isnull(issn):
         return None
