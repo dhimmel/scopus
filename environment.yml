@@ -6,4 +6,5 @@ dependencies:
 - notebook=5.0.0
 - pandas=0.19.2
 - python=3.6.0
+- requests=2.14.2
 - xlrd=1.0.0
