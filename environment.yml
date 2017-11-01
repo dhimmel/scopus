@@ -10,3 +10,5 @@ dependencies:
   - conda-forge::python=3.6.3
   - conda-forge::requests=2.18.4
   - conda-forge::xlrd=1.1.0
+  - pip:
+    - awesome-slugify==1.6.5
