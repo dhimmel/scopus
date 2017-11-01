@@ -50,3 +50,9 @@ conda env create --file=environment.yml
 ```
 
 Then use `source activate scopus` and `source deactivate` to activate or deactivate the environment. On windows, use `activate scopus` and `deactivate` instead.
+
+## License
+
+All original work in this repository is dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+Note that this repository incorporates publicly available datasets that were not explicitly released with a public license.
+The authors of this repository claim no ownership of this content.
