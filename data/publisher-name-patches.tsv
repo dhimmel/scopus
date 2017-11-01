@@ -2,6 +2,7 @@ scopus_main_publisher	publisher_name
 ACS	American Chemical Society
 OUP	Oxford University Press
 IEEE	Institute of Electrical and Electronics Engineers
+IEE	Institute of Electrical Engineers
 AIP	American Institute of Physics
 APS	American Physical Society
 IOP	IOP Publishing
@@ -21,4 +22,7 @@ Human Springer Nature Review	Springer Nature
 Academy of Criminal Justice Science	Academy of Criminal Justice Sciences
 Academy of Environment Biology	Academy of Environmental Biology
 ACM	Association for Computing Machinery
+SAE	Society of Automotive Engineers
+API	American Petroleum Institute
+INRA	Institut national de la recherche agronomique
 

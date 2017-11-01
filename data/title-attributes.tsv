@@ -95,7 +95,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 12115	1	0	IOS Press	Journal	Netherlands
 12116	1	0	Institute of Electrical and Electronics Engineers	Journal	United States
 12117	1	0	Taylor & Francis	Journal	United Kingdom
-12118	0	0	IEE	Journal	United Kingdom
+12118	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 12119	1	0	Taylor & Francis	Journal	United Kingdom
 12120	1	0	Taylor & Francis	Journal	United Kingdom
 12121	1	0	Elsevier	Journal	Netherlands
@@ -851,7 +851,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 13048	1	0	Springer Nature	Journal	Germany
 13049	1	1	Termedia Publishing House Ltd.	Journal	Poland
 13051	1	0	Taylor & Francis	Journal	United Kingdom
-13052	0	0	IEE	Journal	United Kingdom
+13052	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 13053	0	0	Alliance of Community Health Plans	Journal	United States
 13054	1	0	Society of Manufacturing Engineers	Journal	United States
 13055	1	0	Taylor & Francis	Journal	United Kingdom
@@ -2297,7 +2297,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 14934	1	0	Psychological Society of Ireland	Journal	Ireland
 14936	1	0	Akademia Medyczna we Wroclawiu/Wroclaw Medical University	Journal	Poland
 14940	0	0	Academic Journals	Journal	Nigeria
-14941	0	0	IEE	Journal	United Kingdom
+14941	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 14942	0	0	International Scientific Communications, Inc.	Journal	United States
 14943	1	0	Taylor & Francis	Journal	United States
 14944	1	0	Springer Nature	Journal	Netherlands
@@ -3158,7 +3158,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 16042	0	0	Springer Nature	Journal	Germany
 16043	0	0	American Society of Heating, Refrigerating and Air Conditioning Engineers	Journal	United States
 16044	1	0	Elsevier	Journal	Netherlands
-16046	0	0	IEE	Journal	United Kingdom
+16046	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 16047	1	0	Taylor & Francis	Journal	United Kingdom
 16048	0	0	Elsevier	Journal	Netherlands
 16049	0	0	Elsevier	Journal	Netherlands
@@ -3651,7 +3651,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 16677	1	0	Elsevier	Journal	Netherlands
 16678	0	0	Elsevier	Journal	Netherlands
 16679	0	0	Elsevier	Journal	Netherlands
-16680	0	0	IEE	Journal	United Kingdom
+16680	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 16681	0	0	Rancho Santa Ana Botanic Garden	Journal	United States
 16682	1	0	International Allelopathy Foundation	Journal	India
 16683	1	0	Elsevier	Journal	United States
@@ -4200,16 +4200,16 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 17409	1	0	Elsevier	Journal	Netherlands
 17410	0	0	Sexuality Information and Education Council of the U S	Journal	United States
 17411	1	0	Wiley-Blackwell	Trade Journal	United States
-17412	0	0	IEE	Journal	United Kingdom
-17413	0	0	IEE	Journal	United Kingdom
-17414	0	0	IEE	Journal	United Kingdom
-17415	0	0	IEE	Journal	United Kingdom
-17416	0	0	IEE	Journal	United Kingdom
-17418	0	0	IEE	Journal	United Kingdom
-17419	0	0	IEE	Journal	United Kingdom
-17420	0	0	IEE	Journal	United Kingdom
+17412	0	0	Institute of Electrical Engineers	Journal	United Kingdom
+17413	0	0	Institute of Electrical Engineers	Journal	United Kingdom
+17414	0	0	Institute of Electrical Engineers	Journal	United Kingdom
+17415	0	0	Institute of Electrical Engineers	Journal	United Kingdom
+17416	0	0	Institute of Electrical Engineers	Journal	United Kingdom
+17418	0	0	Institute of Electrical Engineers	Journal	United Kingdom
+17419	0	0	Institute of Electrical Engineers	Journal	United Kingdom
+17420	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 17421	1	0	Elsevier	Journal	United Kingdom
-17422	0	0	IEE	Journal	United Kingdom
+17422	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 17423	1	0	Springer Nature	Journal	Germany
 17424	1	0	Mary Ann Liebert	Journal	United States
 17425	1	0	Elsevier	Journal	Netherlands
@@ -4587,7 +4587,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 17914	1	0	Taylor & Francis	Journal	United Kingdom
 17915	1	0	Institute of Electrical and Electronics Engineers	Journal	United States
 17916	0	0	Society for the Advancement of Material and Process Engineering	Journal	United States
-17917	0	0	IEE	Journal	United Kingdom
+17917	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 17918	1	1	Taylor & Francis	Journal	United Kingdom
 17919	0	0	Institution of Engineers (India)	Journal	India
 17920	0	0	Institution of Professional Engineers New Zealand	Journal	New Zealand
@@ -4799,7 +4799,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 18168	0	0	S N Verlag Michael Steinert	Trade Journal	Germany
 18170	1	0	Lippincott & Peto	Journal	United States
 18171	1	0	Elsevier	Journal	United Kingdom
-18172	0	0	IEE	Journal	United Kingdom
+18172	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 18173	1	0	Wiley-Blackwell	Journal	United Kingdom
 18174	1	0	Elsevier	Journal	United Kingdom
 18175	0	0	Organization of the Petroleum Exporting Countries	Trade Journal	Austria
@@ -4850,7 +4850,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 18256	1	0	Asociacion Espanola de Micologia	Journal	Spain
 18258	0	0	SAGE	Journal	United States
 18259	1	1	Sociedad Medica de Santiago	Journal	Chile
-18262	0	0	IEE	Journal	United Kingdom
+18262	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 18264	1	0	Zhongguo Kuangye Daxue	Journal	China
 18265	0	0	Emap Media Ltd.	Journal	United Kingdom
 18266	0	0	Zhongnan Gongye Daxue/Central South University of Technology	Journal	China
@@ -5146,7 +5146,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 18675	1	0	SAGE	Journal	United States
 18676	1	0	Elsevier	Journal	Netherlands
 18677	1	0	Elsevier	Book Series	United States
-18678	0	0	IEE	Journal	United Kingdom
+18678	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 18679	1	0	PennWell Publishing Co.	Trade Journal	United States
 18680	0	0	PennWell Corp.	Trade Journal	United States
 18683	1	1	Polskie towarzystwo Psychiatryczne	Journal	Poland
@@ -5170,7 +5170,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 18710	1	0	Taylor & Francis	Journal	United Kingdom
 18711	1	0	Institute of Electrical and Electronics Engineers	Journal	United States
 18712	1	0	Wiley-Blackwell	Journal	United Kingdom
-18713	0	0	IEE	Journal	United Kingdom
+18713	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 18715	1	0	Brepols Publishers	Journal	Belgium
 18718	1	0	SAGE	Journal	United States
 18720	0	0	Dana Chase Publications,Inc.	Journal	United States
@@ -5255,7 +5255,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 18835	1	1	Consejo Superior De Investigaciones Cientificas	Journal	Spain
 18836	0	0	Elsevier	Journal	France
 18838	1	0	Elsevier	Journal	Netherlands
-18839	1	0	INRA	Journal	France
+18839	1	0	Institut national de la recherche agronomique	Journal	France
 18842	1	0	SAGE	Journal	United States
 18843	0	0	Taylor & Francis	Journal	United Kingdom
 18844	1	0	Springer Nature	Journal	Germany
@@ -8162,7 +8162,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 22513	1	0	Taylor & Francis	Journal	United Kingdom
 22514	1	0	Nihon Kagaku Ryoho Gakkai/Japan Society of Chemotherapy	Journal	Japan
 22516	0	0	Reseau Environment	Journal	Canada
-22518	0	0	SAE	Journal	United States
+22518	0	0	Society of Automotive Engineers	Journal	United States
 22519	1	0	Izdatel'stvo Meditsina Publishers	Journal	Russian Federation
 22520	1	0	Mediselect B.V.	Journal	Netherlands
 22521	1	0	Deutscher Fachverlag GmbH	Trade Journal	Germany
@@ -10005,7 +10005,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 24912	0	0	Tennessee Historical Society	Journal	United States
 24915	1	0	Economist Newspaper Ltd.	Journal	United Kingdom
 24916	1	0	Lindsay Society for the History of Dentistry	Journal	United Kingdom
-24918	1	0	IEE	Journal	United Kingdom
+24918	1	0	Institute of Electrical Engineers	Journal	United Kingdom
 24919	0	0	Marquette University	Journal	United States
 24920	0	0	Thomson American Health Consultants Inc.	Journal	United States
 24921	1	1	Termedia Publishing House Ltd.	Journal	Poland
@@ -10421,7 +10421,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 25452	1	0	Springer Nature	Journal	Germany
 25453	1	0	Elsevier	Journal	Netherlands
 25454	1	0	American Society of Hematology	Journal	United States
-25457	0	0	IEE	Journal	United Kingdom
+25457	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 25458	1	0	Oxford University Press	Journal	United Kingdom
 25460	0	0	Institution of Incorporated Engineers	Trade Journal	United Kingdom
 25461	1	0	IOS Press	Journal	Lithuania
@@ -13127,7 +13127,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 29080	1	0	SAGE	Journal	United States
 29082	1	0	Taylor & Francis	Journal	United Kingdom
 29083	1	0	Elsevier	Journal	Netherlands
-29084	0	0	IEE	Journal	United Kingdom
+29084	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 29085	1	0	Taylor & Francis	Journal	United Kingdom
 29086	1	1	Elsevier	Journal	Netherlands
 29087	0	0	Elsevier	Journal	Netherlands
@@ -14241,7 +14241,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 31496	0	0	International Agency for Research on Cancer	Journal	France
 31500	0	0	Advanstar Communications Inc.	Journal	United States
 31508	0	0	Thomas Telford Ltd.	Journal	United Kingdom
-31512	0	0	IEE	Journal	United Kingdom
+31512	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 31514	0	0	Institute of Electrical and Electronics Engineers	Journal	United States
 31560	0	0	Institute of Electrical and Electronics Engineers	Journal	United States
 31564	0	0	Institute of Electrical and Electronics Engineers	Journal	United States
@@ -14330,8 +14330,8 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 31880	0	0	Geological Society of America	Journal	United States
 31881	0	0	Institute of Electrical and Electronics Engineers	Journal	United States
 31882	0	0	Institute of Electrical and Electronics Engineers	Journal	United States
-31886	0	0	IEE	Journal	United Kingdom
-31890	0	0	IEE	Journal	United Kingdom
+31886	0	0	Institute of Electrical Engineers	Journal	United Kingdom
+31890	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 31896	0	0	M S P International, Inc.	Journal	United States
 31898	0	0	Taylor & Francis	Journal	United Kingdom
 31899	0	0	Australian Agricultural Economics Society	Journal	Australia
@@ -14501,7 +14501,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 32811	0	0	Water Pollution Control Federation	Journal	United States
 32816	1	1	Hindawi	Journal	Egypt
 32817	0	0	L'Expansion Scientifique Francaise	Journal	France
-32822	0	0	Institut National De La Recherche Agronomique	Journal	France
+32822	0	0	Institut national de la recherche agronomique	Journal	France
 32824	1	0	Nakladatelske Stredisko CLSJE Purkyne	Journal	Czech Republic
 32829	0	0	Zhonghua min guo ying yang xue hui	Journal	China
 32833	0	0	Polska Akademia Nauk	Journal	Poland
@@ -14639,7 +14639,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 33328	1	1	International Journal of Special Education	Journal	Canada
 33333	0	0	Medical Research Engineering	Journal	United States
 33335	1	0	Des Inst Minist Chem Ind	Journal	China
-33344	0	0	IEE	Journal	United Kingdom
+33344	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 33346	0	0	Acoustical Publications, Inc.	Journal	United States
 33349	0	0	Japanese Pharmacological Society	Journal	Japan
 33352	0	0	Royal Childrens Hospital	Journal	Australia
@@ -14828,7 +14828,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 34061	0	0	Human Sciences Press	Journal	United States
 34069	0	0	Institute of Physics	Journal	United Kingdom
 34070	0	0	Elsevier	Journal	France
-34077	0	0	SAE	Journal	United States
+34077	0	0	Society of Automotive Engineers	Journal	United States
 34089	0	0	Independent Institute	Journal	United States
 34090	0	0	Public Affairs & Information Branch of the World Food Programme	Journal	Italy
 34096	0	0	American Association On Mental Deficiency	Journal	United States
@@ -14839,7 +14839,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 34115	0	0	Wolters Kluwer Health	Journal	United States
 34118	0	0	Elsevier	Journal	France
 34123	0	0	Akademie Ved Ceske Republiky	Journal	Czech Republic
-34126	0	0	IEE	Journal	United Kingdom
+34126	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 34132	1	0	Scientific Publishers	Journal	India
 34140	0	0	Scripta Pub Co.	Journal	United States
 34143	0	0	Mary Ann Liebert	Journal	United States
@@ -15796,7 +15796,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 37910	0	0	Elsevier	Journal	United Kingdom
 37911	1	0	Springer Nature	Journal	Germany
 37917	0	0	Raven Press	Journal	United States
-37918	0	0	SAE	Journal	United States
+37918	0	0	Society of Automotive Engineers	Journal	United States
 37919	0	0	Taylor & Francis	Journal	United Kingdom
 37929	0	0	Elsevier	Journal	United Kingdom
 37934	0	0	Nauka Publishers	Journal	United States
@@ -15872,7 +15872,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 38218	0	0	Karger	Journal	Switzerland
 38220	0	0	Gebruder Borntraeger Verlagsbuchhandlung	Journal	Germany
 38226	0	0	Editura Medicala	Journal	Romania
-38235	0	0	IEE	Journal	United Kingdom
+38235	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 38242	0	0	Springer Nature	Journal	United States
 38248	0	0	Bristol John Wright And Sons	Journal	United Kingdom
 38250	0	0	Gosudarstvennyi Komitet Rossiiskoi Federatsii po Statistike	Journal	Russian Federation
@@ -15982,7 +15982,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 38650	0	0	Elsevier	Journal	Netherlands
 38656	0	0	Wiley-Blackwell	Journal	United States
 38658	0	0	Elsevier	Journal	United Kingdom
-38659	0	0	IEE	Journal	United Kingdom
+38659	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 38661	1	0	D L G Verlags GmbH	Journal	Germany
 38664	1	0	Oxford University Press	Journal	United Kingdom
 38671	0	0	Springer Nature	Journal	United States
@@ -16021,7 +16021,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 38780	0	0	B.C. Decker Inc.	Journal	Canada
 38787	1	0	Esmon Publicidad S.A.	Journal	Spain
 38788	0	0	Springer Nature	Journal	Switzerland
-38794	0	0	IEE	Journal	United Kingdom
+38794	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 38799	0	0	Taylor & Francis	Journal	United Kingdom
 38802	0	0	Australian Geological Survey Organisation	Journal	Australia
 38803	0	0	Croatian Academy of Medical Sciences	Journal	Croatia
@@ -16051,7 +16051,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 38873	0	0	Oxford University Press	Journal	United States
 38881	0	0	Chandler International Publications Ltd.	Journal	United Kingdom
 38885	0	0	RIA Group	Journal	United States
-38890	0	0	IEE	Journal	United Kingdom
+38890	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 38891	0	0	Dustri-Verlag Dr. Karl Feistle	Journal	Germany
 38900	0	0	Oxford University Press	Journal	United States
 38914	0	0	Springer Nature	Journal	Netherlands
@@ -16145,7 +16145,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 39287	1	0	HARD Pub. Co.	Journal	Poland
 39288	0	0	Taylor & Francis	Journal	United States
 39289	0	0	Wiley-Blackwell	Journal	United States
-39290	0	0	Institut National De La Recherche Agronomique	Journal	France
+39290	0	0	Institut national de la recherche agronomique	Journal	France
 39293	0	0	American Chemical Society	Journal	United States
 39295	0	0	Igaku Shoin Ltd.	Journal	Japan
 39298	0	0	Canadian Institute for Health Information	Journal	Canada
@@ -16226,7 +16226,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 39632	0	0	Karger	Journal	Switzerland
 39635	0	0	Gauthier-Villars	Journal	France
 39636	1	0	University of the West Indies	Journal	Jamaica
-39646	0	0	IEE	Journal	United Kingdom
+39646	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 39649	0	0	Springer Nature	Journal	Netherlands
 39652	0	0	Grune & Stratton	Journal	United States
 39658	0	0	US Dept. of Agriculture, Bureau of Agricultural Economics	Journal	United States
@@ -16245,7 +16245,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 39730	0	0	Office National d'Etudes et de Recherches Aerospatiales	Journal	France
 39736	1	0	Elsevier	Journal	Taiwan
 39738	0	0	Isis Medical Media Ltd.	Journal	United Kingdom
-39742	0	0	IEE	Journal	United Kingdom
+39742	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 39749	0	0	Wiley-Blackwell	Journal	Denmark
 39750	0	0	Wiley-Blackwell	Journal	United Kingdom
 39751	0	0	Elsevier	Journal	France
@@ -16669,7 +16669,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 51312	1	0	Presses Universitaires de France	Journal	France
 51313	1	0	"Klinika za infektivne bolesti ""Dr. Fran Mihaljevic"""	Journal	Croatia
 51315	0	0	Society of Manufacturing Engineers	Journal	United States
-51331	0	0	SAE	Journal	United States
+51331	0	0	Society of Automotive Engineers	Journal	United States
 51332	0	0	Wiley-Blackwell	Journal	United States
 51335	1	0	Scientific Publishers	Journal	India
 51353	0	0	Karger	Journal	Switzerland
@@ -16743,7 +16743,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 52247	0	0	Center for Studying Health System Change	Journal	United States
 52264	0	0	Akademische Verlagsgesellschaft	Journal	Germany
 52265	0	0	Texas American Heart Association	Journal	United States
-52271	0	0	IEE	Journal	United Kingdom
+52271	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 52318	0	0		Journal	
 52324	0	0	Royal Society of Chemistry	Journal	United Kingdom
 52333	0	0	Meditsina	Journal	Russian Federation
@@ -17415,7 +17415,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 60301	0	0	Izdatel'stvo Meditsina Publishers	Journal	Russian Federation
 60305	0	0	Telecom PTT	Journal	Switzerland
 60307	0	0	Pira International	Journal	United Kingdom
-60310	0	0	IEE	Journal	United Kingdom
+60310	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 60318	0	0	Taylor & Francis	Journal	United States
 60331	0	0	Izdevejs Zinatne	Journal	Latvia
 60369	0	0	Schattauer	Journal	Germany
@@ -17523,7 +17523,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 61605	0	0	Springer Nature	Journal	Germany
 61617	0	0	Banca di Roma	Journal	Italy
 61635	0	0	Gauthier-Villars	Journal	France
-61637	0	0	IEE	Journal	United Kingdom
+61637	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 61644	0	0	International Association For Enterosomal Therapy	Journal	United States
 61650	0	0	The British Psychological Society	Journal	United Kingdom
 61675	0	0	Lodz University	Journal	Poland
@@ -17670,7 +17670,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 63320	0	0	Institute of Physics	Journal	United Kingdom
 63325	0	0	Springer Nature	Journal	Germany
 63337	0	0	International Food Policy Research Institute	Journal	United States
-63342	0	0	IEE	Journal	United Kingdom
+63342	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 63372	0	0	Institute of Electrical and Electronics Engineers	Journal	United States
 63397	0	0	Centro Regional de Investigaciones Cientificas y Tecnologicas	Journal	Argentina
 63434	1	0	Logo Tip Yayinciligi	Journal	Turkey
@@ -17811,14 +17811,14 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 65131	1	0	Wiley-Blackwell	Journal	United States
 65152	0	0	Elsevier	Journal	Netherlands
 65154	0	0	Osaka Senken Ltd.	Trade Journal	Japan
-65181	0	0	API	Journal	United States
+65181	0	0	American Petroleum Institute	Journal	United States
 65195	0	0	American Society of Psychosomatic Dentistry And Medicine	Journal	United States
 65206	0	0	Association of Japanese Geographers	Journal	Japan
 65221	0	0	B. Rao for the Central Council for Research in Indian Medicine and Homoeopathy	Journal	India
 65224	0	0	Michigan Hospital Association	Journal	United States
 65235	0	0	Elsevier	Journal	France
 65240	0	0	Taylor & Francis	Journal	United Kingdom
-65263	0	0	IEE	Journal	United Kingdom
+65263	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 65264	0	0	Hemisphere Publishing Corp.	Journal	United States
 65267	0	0	Canadian Veterinary Medical Association	Journal	Canada
 65277	0	0	Reticuloendothelial Society	Journal	United States
@@ -17866,7 +17866,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 65763	1	0	Editions de I'Ecole des Hautes Etudes en Sciences Sociales	Journal	France
 65770	0	0	Population Crisis Committee	Journal	United States
 65781	0	0	SAGE	Journal	United States
-65794	0	0	API	Journal	United States
+65794	0	0	American Petroleum Institute	Journal	United States
 65806	0	0	Walter de Gruyter	Journal	Germany
 65810	0	0	Springer Nature	Trade Journal	United States
 65825	0	0	Institute of Hydrology	Journal	United Kingdom
@@ -18086,7 +18086,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 68296	0	0	Springer Nature	Journal	Germany
 68303	0	0	Stephane Batard	Journal	France
 68316	0	0	Group Communication and Innovation Studies	Journal	Netherlands
-68339	0	0	IEE	Journal	United Kingdom
+68339	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 68350	0	0	Elsevier	Journal	Netherlands
 68356	0	0	Springer Nature	Journal	Germany
 68372	0	0	University of Cambridge	Journal	United Kingdom
@@ -18292,7 +18292,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 70577	1	0	Slovak Academy of Sciences	Journal	Slovakia
 70579	0	0	Springer Nature	Journal	Germany
 70603	0	0	Nakladatelske Stredisko CLSJE Purkyne	Journal	Czech Republic
-70617	0	0	IEE	Journal	United Kingdom
+70617	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 70618	0	0	Association For Healthcare Philanthropy	Journal	United States
 70624	0	0	IPC Press	Journal	United Kingdom
 70627	0	0	Japanese Society For Therapeutic Radiology And Oncology	Journal	Japan
@@ -18756,7 +18756,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 76091	0	0	Istituto Di Igiene	Journal	Italy
 76103	0	0	Editorial Board of Acta Metallurgica Sinica	Journal	China
 76104	0	0	Springer Nature	Journal	Germany
-76111	0	0	IEE	Journal	United Kingdom
+76111	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 76123	0	0	Mining Research Development	Journal	China
 76141	0	0	Barth Verlagsgesllschaft Mbh	Journal	Germany
 76145	0	0	Gustav Fischer Verlag	Journal	Germany
@@ -19271,7 +19271,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 82255	0	0	Inst of Wood Science	Journal	United Kingdom
 82270	0	0	Wilmington Business Publications	Journal	United States
 82272	0	0	Rila Publications Ltd	Journal	United Kingdom
-82277	0	0	IEE	Journal	United Kingdom
+82277	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 82279	0	0	Australian College of Midwives	Journal	Australia
 82306	0	0	Bristol John Wright And Sons	Journal	United Kingdom
 82312	1	0	Minami Osaka Hospital	Journal	Japan
@@ -19536,7 +19536,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 85831	0	0	R. Lopasic	Journal	Croatia
 85850	0	0	Medical Research Council	Journal	South Africa
 85858	0	0	Wiley-Blackwell	Journal	United States
-85885	0	0	IEE	Journal	United Kingdom
+85885	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 85891	0	0	Medical Society of Virginia	Journal	United States
 85898	0	0	Rila Publications Ltd	Journal	United Kingdom
 85899	0	0	Polymer Society of Korea	Journal	South Korea
@@ -20404,7 +20404,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 95974	0	0	Ethnikos Syndesmos Diplomatouchon Hellenidon Nosokomon	Journal	Greece
 95996	0	0	Piccin Editore	Journal	Italy
 95998	0	0	J.F. Bergmann	Journal	Germany
-96001	0	0	API	Journal	United States
+96001	0	0	American Petroleum Institute	Journal	United States
 96006	0	0	Taylor & Francis	Journal	United States
 96050	0	0	National Conference of Catholic Charities	Journal	United States
 96056	0	0	Nordiska Odontologiska Foreningen	Journal	Sweden
@@ -20442,7 +20442,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 96395	1	1	M T T Agrifood Research Finland	Journal	Finland
 96403	0	0	Bergbau-Berufsgenossenschaft	Journal	Germany
 96418	0	0	Taylor & Francis	Journal	United Kingdom
-96433	0	0	IEE	Journal	United Kingdom
+96433	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 96454	0	0	Headley Bros. Ltd.	Journal	United Kingdom
 96457	0	0	Wolters Kluwer Health	Journal	United States
 96460	0	0	Microelectronics & Computer	Journal	China
@@ -20467,7 +20467,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 96677	0	0	Urban Und Schwarzenberg	Journal	United States
 96692	0	0	Western Illinois University	Journal	United States
 96698	0	0	Sao Paulo Universidade De Sao Paulo	Journal	Brazil
-96725	0	0	IEE	Journal	United Kingdom
+96725	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 96726	0	0	Chilton Publications	Trade Journal	United States
 96769	0	0	Springer Nature	Journal	Netherlands
 96771	0	0	Johns Hopkins University Press	Journal	United States
@@ -20823,14 +20823,14 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 101074	0	0	Capital Publications, Inc.	Journal	United States
 101093	0	0	Sairaanhoitajien Koulutussaatio	Journal	Finland
 101142	0	0	Thieme	Journal	Germany
-101151	0	0	IEE	Journal	United Kingdom
+101151	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 101154	0	0	Chubu University	Journal	Japan
 101166	0	0	Seksuaalinen Tasavertaisuusry	Journal	Finland
 101170	0	0	Elsevier	Journal	United States
 101223	0	0	Springer Nature	Journal	United States
 101228	0	0	Oficyna Wydawnicza Politechniki Warszawskiej	Journal	Poland
 101232	0	0	Academic Royale de Medecine de Belgique	Journal	Belgium
-101236	0	0	IEE	Journal	United Kingdom
+101236	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 101243	0	0	Edizioni Minerva Medica	Journal	Italy
 101253	0	0	Elsevier	Journal	United Kingdom
 101271	0	0	University of New Mexico	Journal	United States
@@ -20889,7 +20889,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 110015	1	0	Bohn Stafleu van Loghum B.V	Journal	Netherlands
 110018	1	0	Gulf Publishing Co.	Trade Journal	United States
 110020	0	0	Society for In Vitro Biology	Journal	United States
-110022	0	0	IEE	Journal	United Kingdom
+110022	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 110024	0	0	Med Publishing	Journal	United States
 110031	1	0	Elsevier	Journal	United Kingdom
 110035	0	0	Elsevier	Journal	United States
@@ -21047,7 +21047,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 110382	0	0	Editrice Compositori srl	Journal	Italy
 110486	1	0	Elsevier	Journal	Netherlands
 110607	1	0	Cambridge University Press	Journal	United Kingdom
-110619	0	0	IEE	Journal	United Kingdom
+110619	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 120000	0	0	Oxford University Press	Journal	United States
 120002	0	0	Izdatel'stvo Meditsina Publishers	Journal	Russian Federation
 120003	0	0	Physica-Verlag Gmbh und Co.	Journal	Germany
@@ -21215,7 +21215,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 130185	1	0	Elsevier	Journal	Netherlands
 130187	1	0	Humboldt Field Research Institute	Journal	United States
 130241	0	0	Cold Spring Harbor Laboratory Press	Journal	United States
-130245	0	0	SAE	Journal	United States
+130245	0	0	Society of Automotive Engineers	Journal	United States
 130251	0	0	Elsevier	Journal	United States
 130262	1	0	Japan Society of Applied Physics	Journal	Japan
 131365	0	0	Eular Publishers	Journal	Switzerland
@@ -22247,7 +22247,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 4000149708	1	0	Inderscience	Journal	United Kingdom
 4000150001	1	0	Hindawi	Journal	Egypt
 4000150002	1	1	Hindawi	Journal	Egypt
-4000150311	0	0	IEE	Journal	United Kingdom
+4000150311	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 4000150312	0	0	Springer Nature	Journal	United Kingdom
 4000150313	0	0	Elsevier	Journal	Netherlands
 4000150314	1	0	Wiley-Blackwell	Journal	United Kingdom
@@ -22571,7 +22571,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 4500151541	0	0	Spanish Publishers Associates	Journal	Spain
 4500151542	1	0	IGI Global	Journal	United States
 4500151544	0	0	Elsevier	Book Series	Netherlands
-4500151545	1	0	IEE	Journal	United Kingdom
+4500151545	1	0	Institute of Electrical Engineers	Journal	United Kingdom
 4500151552	1	0	Elsevier	Journal	Netherlands
 4500151601	0	0		Trade Journal	United States
 4600151401	1	0	Sociedad Espanola de Ceramica y Vidrio	Journal	Spain
@@ -23510,7 +23510,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 5300152613	1	0	Cambridge University Press	Journal	United Kingdom
 5300152614	0	0	Beijing Linye Daxue/Beijing Forestry University	Journal	China
 5300152615	1	0	Springer Nature	Journal	Switzerland
-5300152701	1	0	SAE	Journal	United States
+5300152701	1	0	Society of Automotive Engineers	Journal	United States
 5300152702	0	0	Pensiero Scientifico Editore srl	Journal	Italy
 5300152703	0	0	Tecniche Nuove SpA	Journal	Italy
 5300152704	1	0	Wolters Kluwer Health	Journal	United States
@@ -23553,7 +23553,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 5400152643	1	1	Centro de Pesquisas Florestais	Journal	Brazil
 5400152644	1	0	Mayo Ediciones	Journal	Spain
 5400152645	1	0	Springer Nature	Journal	Germany
-5400152646	1	0	IEE	Journal	United Kingdom
+5400152646	1	0	Institute of Electrical Engineers	Journal	United Kingdom
 5400152649	1	0	Springer Nature	Journal	Germany
 5400152651	1	0	Karger	Journal	Switzerland
 5400152652	1	0	Inderscience	Journal	United Kingdom
@@ -25308,7 +25308,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 8600153121	0	0	Emerald	Book Series	United Kingdom
 8600153122	1	1	Universidade Federal do Parana	Journal	Brazil
 8700153101	0	0	Institute of Physics	Journal	United Kingdom
-8700153102	0	0	IEE	Journal	United Kingdom
+8700153102	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 8700153103	0	0	Institute of Physics	Journal	United Kingdom
 8700153204	0	0	Institute of Physics	Journal	United Kingdom
 8700153205	0	0	Elsevier	Journal	United Kingdom
@@ -25341,7 +25341,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 9400153140	0	0	Taylor & Francis	Journal	United Kingdom
 9400153141	1	0	"Instituto ""San Jose de Calasanz"" de Pedagogia. Consejo Superior de Investigaciones Cientificas"	Journal	Spain
 9500153900	0	0	Elsevier	Journal	Italy
-9500153902	0	0	IEE	Journal	United Kingdom
+9500153902	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 9500153903	1	0	Wiley-Blackwell	Journal	United States
 9500153904	0	0	Anales Otorrinolaringologicos Ibero-Americanos	Journal	Spain
 9500153905	0	0	Consultants Bureau	Journal	United States
@@ -26375,7 +26375,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 12400154727	1	0	Taylor & Francis	Journal	United States
 12400154728	1	0	Scientific Bulgarian Communication	Journal	Bulgaria
 12400154740	1	1	Universidad De Antioquia	Journal	Colombia
-12400154742	0	0	SAE	Journal	United States
+12400154742	0	0	Society of Automotive Engineers	Journal	United States
 12400154743	0	0	Taylor & Francis	Journal	United Kingdom
 12400154744	1	0	In House Publications	Journal	South Africa
 12400154745	1	0	Industrial Fabrics Association International	Journal	United States
@@ -29080,10 +29080,10 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 19700174658	1	0	The Organisation for Professionals in Regulatory Affairs	Trade Journal	United Kingdom
 19700174659	1	0	Health Quality Ontario	Journal	Canada
 19700174662	1	0	Jagiellonian University Press	Journal	Poland
-19700174664	1	0	SAE	Journal	United States
+19700174664	1	0	Society of Automotive Engineers	Journal	United States
 19700174665	1	1	Turk Patoloji Dernegi	Journal	Turkey
-19700174666	1	0	SAE	Journal	United States
-19700174667	1	0	SAE	Journal	United States
+19700174666	1	0	Society of Automotive Engineers	Journal	United States
+19700174667	1	0	Society of Automotive Engineers	Journal	United States
 19700174668	1	0	The Interactive Media Institute (IMI)	Journal	United States
 19700174677	1	0	American Association for the Advancement of Science	Journal	United States
 19700174679	1	0	Range Management Society of India (RMSI)	Journal	India
@@ -29096,16 +29096,16 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 19700174688	1	1	Taylor & Francis	Journal	United Kingdom
 19700174698	1	1	Avicenna Research Institute	Journal	Iran, Islamic Republic of
 19700174704	1	1	Asociacion Interprofesional Desarrollo Agario	Journal	Spain
-19700174710	1	0	SAE	Journal	United States
-19700174711	1	0	SAE	Journal	United States
-19700174712	1	0	SAE	Journal	United States
+19700174710	1	0	Society of Automotive Engineers	Journal	United States
+19700174711	1	0	Society of Automotive Engineers	Journal	United States
+19700174712	1	0	Society of Automotive Engineers	Journal	United States
 19700174713	1	0	Elsevier	Journal	France
 19700174716	1	0	AVES Ibrahim Kara	Journal	Turkey
 19700174717	1	0	SAGE	Journal	United States
 19700174718	1	0	Quintessence Publishing Company	Journal	United States
 19700174720	1	0	Editora Guadalupe Ltda.	Journal	Colombia
 19700174722	1	0	Emerald	Journal	United Kingdom
-19700174723	1	0	SAE	Journal	United States
+19700174723	1	0	Society of Automotive Engineers	Journal	United States
 19700174724	1	0	Emerald	Journal	United Kingdom
 19700174725	1	1	Hrvatsko Filolosko Drustvo/Croatian Philological Society	Journal	Croatia
 19700174727	1	0	Massimo Morgante	Journal	Italy
@@ -33006,7 +33006,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100239255	1	1	EuroMediterranean Biomedical Journal	Journal	Italy
 21100239256	1	1	PeerJ	Journal	United States
 21100239257	1	0	European Mathematical Society Publishing House	Journal	Switzerland
-21100239259	1	0	SAE	Journal	United States
+21100239259	1	0	Society of Automotive Engineers	Journal	United States
 21100239260	1	0	Masarykova Universita	Journal	Czech Republic
 21100239261	1	0	Elsevier	Journal	United States
 21100239262	1	0	Elsevier	Journal	United Kingdom
@@ -33216,7 +33216,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100244812	0	0	Nova Science Publishers, Inc.	Journal	United States
 21100244816	0	0	Nova Science Publishers, Inc.	Journal	United States
 21100244818	1	0	IOS Press	Journal	Netherlands
-21100244831	1	0	SAE	Journal	United States
+21100244831	1	0	Society of Automotive Engineers	Journal	United States
 21100244834	1	0	Common Ground Research Networks	Journal	United States
 21100244835	1	0	Pushpa Publishing House	Journal	India
 21100244836	1	0	Elsevier	Journal	Netherlands
@@ -33284,7 +33284,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100247072	1	0	Royal Society of Chemistry	Journal	United Kingdom
 21100247075	1	1	Stefan cel Mare University of Suceava	Journal	Romania
 21100247092	1	0	American Scientific Publishers	Journal	United States
-21100247096	1	0	SAE	Journal	United States
+21100247096	1	0	Society of Automotive Engineers	Journal	United States
 21100247800	1	0	Wiley-Blackwell	Journal	United States
 21100248002	0	0	Omics Publishing Group	Journal	India
 21100248003	1	0	Science Press	Journal	China
