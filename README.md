@@ -49,4 +49,4 @@ Install the environment with:
 conda env create --file=environment.yml
 ```
 
-Then use `source activate journalmetrics` and `source deactivate` to activate or deactivate the environment. On windows, use `activate journalmetrics` and `deactivate` instead.
+Then use `source activate scopus` and `source deactivate` to activate or deactivate the environment. On windows, use `activate scopus` and `deactivate` instead.

@@ -1,10 +1,12 @@
-name: journalmetrics
+name: scopus
+channels:
+- conda-forge
 dependencies:
-- conda-forge::nb_conda_kernels=2.0.0
-- ipykernel=4.5.2
-- nbconvert=5.1.1
-- notebook=5.0.0
-- pandas=0.19.2
-- python=3.6.0
-- requests=2.14.2
-- xlrd=1.0.0
+- conda-forge::ipykernel=4.6.1
+- conda-forge::nb_conda_kernels=2.1.0
+- conda-forge::nbconvert=5.3.1
+- conda-forge::notebook=5.2.0
+- conda-forge::pandas=0.21.0
+- conda-forge::python=3.6.3
+- conda-forge::requests=2.18.4
+- conda-forge::xlrd=1.1.0
