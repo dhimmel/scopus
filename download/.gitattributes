@@ -1,2 +1,1 @@
-SNIP_IPP_SJR_complete_1999_2014.xlsx filter=lfs diff=lfs merge=lfs -text
-title_list.xlsx filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
