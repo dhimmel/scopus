@@ -1,12 +1,12 @@
 name: scopus
 channels:
-- conda-forge
+  - conda-forge
 dependencies:
-- conda-forge::ipykernel=4.6.1
-- conda-forge::nb_conda_kernels=2.1.0
-- conda-forge::nbconvert=5.3.1
-- conda-forge::notebook=5.2.0
-- conda-forge::pandas=0.21.0
-- conda-forge::python=3.6.3
-- conda-forge::requests=2.18.4
-- conda-forge::xlrd=1.1.0
+  - conda-forge::ipykernel=4.6.1
+  - conda-forge::nb_conda_kernels=2.1.0
+  - conda-forge::nbconvert=5.3.1
+  - conda-forge::notebook=5.2.0
+  - conda-forge::pandas=0.21.0
+  - conda-forge::python=3.6.3
+  - conda-forge::requests=2.18.4
+  - conda-forge::xlrd=1.1.0
