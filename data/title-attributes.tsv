@@ -39,7 +39,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 12045	1	1	Nucleo de Comunicacao, Fundacao UNI	Journal	Brazil
 12046	0	0	Welding Research Council	Journal	United States
 12047	0	0	Welding Research Council	Journal	United States
-12048	0	0	DMG world Media Ltd	Journal	United Kingdom
+12048	0	0	DMG World Media Ltd	Journal	United Kingdom
 12049	1	0	Japan Welding Society/Yosetsu Gakkai	Journal	Japan
 12051	0	0	Katholieke Universiteit Leuven	Journal	Belgium
 12053	1	0	Taylor & Francis	Journal	United Kingdom
@@ -361,7 +361,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 12444	1	0	Cambridge University Press	Journal	United Kingdom
 12445	1	0	Thieme	Journal	Germany
 12446	0	0	Elsevier	Journal	Netherlands
-12448	0	0	Deutscher Aerzte-Verlag GmbH	Journal	Germany
+12448	0	0	Deutscher Arzte-Verlag GmbH	Journal	Germany
 12450	1	0	American Institute of Aeronautics and Astronautics	Trade Journal	United States
 12452	0	0	Carl Heymanns Verlag KG	Journal	Germany
 12453	1	0	Akademiai Kiado	Journal	Hungary
@@ -499,7 +499,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 12625	0	0	Primed -X Press Publishing Ltd	Journal	Hungary
 12626	1	0	Nakladatelske Stredisko CLSJE Purkyne	Journal	Czech Republic
 12628	1	0	Elsevier	Journal	United Kingdom
-12629	0	0	Izdatel'stvo Nauka	Journal	Russian Federation
+12629	0	0	Izdatel'stva Nauka	Journal	Russian Federation
 12630	0	0	Russkoe Geograficheskoe Obshchestvo	Journal	Russian Federation
 12633	1	0	Emerald	Journal	United Kingdom
 12634	1	0	Brill	Journal	Netherlands
@@ -785,7 +785,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 12966	1	1	Zhonghua Minguo Wuli Xuehui	Journal	Taiwan
 12968	1	0	Sichuan Daxue	Journal	China
 12969	1	0	Zhejiang Daxue	Journal	China
-12970	0	0	Izdatel'stvo Nauka	Journal	Russian Federation
+12970	0	0	Izdatel'stva Nauka	Journal	Russian Federation
 12971	1	0	Canadian Acoustical Association	Journal	Canada
 12974	1	0	University of Cincinnati, College of Law	Journal	United States
 12975	1	0	Elsevier	Journal	Netherlands
@@ -986,7 +986,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 13221	1	1	Springer Nature	Journal	United Kingdom
 13222	1	0	Wiley-Blackwell	Journal	United States
 13223	1	1	Verduci Editore srl	Journal	Italy
-13224	1	0	DMG world Media Ltd	Trade Journal	United Kingdom
+13224	1	0	DMG World Media Ltd	Trade Journal	United Kingdom
 13225	1	0	Xi'an Gaoya Dianqi Yanjiusuo	Journal	China
 13227	1	0	Business News Publishing Co.	Journal	United States
 13228	1	0	Complete Circulation and Marketing	Journal	United Kingdom
@@ -1094,7 +1094,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 13372	0	0	World Textile Publications Ltd	Journal	United Kingdom
 13373	1	0	World Trades Publishing	Trade Journal	United Kingdom
 13374	1	0	Wolters Kluwer Health	Journal	United States
-13375	1	1	Universitat de Valencia	Journal	Spain
+13375	1	1	Universidad de Valencia	Journal	Spain
 13377	1	0	Springer Nature	Journal	Netherlands
 13378	1	1	Colegio Oficial de Psicologos	Journal	Spain
 13380	1	0	SAGE	Journal	United States
@@ -1419,7 +1419,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 13793	1	1	International Centre for Eye Health	Journal	United Kingdom
 13794	1	0	Elsevier	Journal	Netherlands
 13795	1	0	Elsevier	Journal	Netherlands
-13796	0	0	Society of Bird Research and Springer Nature Conservation	Journal	Slovenia
+13796	0	0	Society of Bird Research and Nature Conservation	Journal	Slovenia
 13797	0	0	Libra Publishing Ltd.	Journal	United States
 13798	1	0	American Speech-Language-Hearing Association	Journal	United States
 13799	1	0	Maik Nauka/Interperiodica Publishing	Journal	Russian Federation
@@ -1544,7 +1544,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 13956	1	0	Wiley-Blackwell	Journal	United States
 13957	0	0	Librairie Droz S.A.	Journal	Switzerland
 13958	1	0	Elsevier	Journal	Netherlands
-13959	0	0	DMG world Media Ltd	Trade Journal	United Kingdom
+13959	0	0	DMG World Media Ltd	Trade Journal	United Kingdom
 13961	1	0	Micropaleontology Press	Journal	United States
 13963	1	0	Societe Francaise d'Histoire de la Medecine	Journal	France
 13964	1	0	Oxford University Press	Journal	United Kingdom
@@ -2055,7 +2055,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 14619	1	0	Elsevier	Journal	France
 14621	1	0	Annual Reviews, inc.	Journal	United States
 14622	1	0	Taylor & Francis	Journal	United States
-14623	1	1	University degli Studi di Milano	Journal	Italy
+14623	1	1	Universita degli Studi di Milano	Journal	Italy
 14624	0	0	Ceska Geologicka Sluzba/Czech Geological Survey	Journal	Czech Republic
 14627	0	0	Mediaconcept, Inc.	Journal	Canada
 14628	0	0	Pennsylvania State University	Journal	United States
@@ -2606,7 +2606,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 15350	0	0	Expansion Scientifique Francaise	Journal	France
 15351	1	0	Elsevier	Journal	France
 15352	1	0	Wiley-Blackwell	Journal	United Kingdom
-15353	0	0	Editions E S K A	Journal	France
+15353	0	0	Editions ESKA	Journal	France
 15355	1	0	Presses Universitaires de France	Journal	France
 15356	1	0	International Medical Sciences Academy	Journal	India
 15357	1	0	Elsevier	Journal	Netherlands
@@ -2827,7 +2827,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 15615	0	0	Wiley-Blackwell	Journal	United States
 15616	1	0	Engineering News-Record	Journal	United States
 15617	0	0	University of Calgary Press	Journal	Canada
-15618	0	0	V D E Verlag GmbH	Trade Journal	Germany
+15618	0	0	VDE Verlag GmbH	Trade Journal	Germany
 15619	1	0	SAGE	Journal	United States
 15620	1	0	Wiley-Blackwell	Journal	United States
 15621	0	0	Eindhoven University of Technology	Journal	Netherlands
@@ -2917,7 +2917,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 15723	0	0	Mary Ann Liebert	Journal	United States
 15724	1	0	Human Kinetics Publishers Inc.	Journal	United States
 15725	1	0	Springer Nature	Journal	United States
-15726	1	0	V S - Verlag fur Sozialwissenschaften	Journal	Germany
+15726	1	0	VS Verlag fur Sozialwissenschaften	Journal	Germany
 15728	1	0	Hrvatsko Drustvo Gradevinskih Inzenjera	Trade Journal	Croatia
 15729	0	0	Emap Media Ltd.	Trade Journal	United Kingdom
 15730	0	0	Thomas Telford Ltd.	Journal	United Kingdom
@@ -3133,7 +3133,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 16006	0	0	Wiley-Blackwell	Journal	United Kingdom
 16007	1	1	Japanese Society of Smooth Muscle Research	Journal	Japan
 16008	0	0	International District Energy Association	Journal	United States
-16009	0	0	I T S Publishing	Journal	Switzerland
+16009	0	0	ITS Publishing	Journal	Switzerland
 16011	1	0	Business News Publishing Co.	Trade Journal	United States
 16014	1	0	Association of Guilds of Weavers Spinners & Dyers	Journal	United Kingdom
 16015	1	0	SAGE	Journal	United States
@@ -3305,7 +3305,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 16224	1	0	Gefen Publishing House Ltd.	Journal	Israel
 16225	0	0	Cleveland State University	Journal	United States
 16226	0	0	Casa Editrice Idelson Gnocchi	Journal	Italy
-16227	1	0	Lawbook Co.	Journal	Australia
+16227	1	0	Law Book Co.	Journal	Australia
 16228	0	0	Asian Agri-History Foundation	Journal	India
 16230	1	0	Elsevier	Journal	Netherlands
 16232	1	0	Cambridge University Press	Journal	United Kingdom
@@ -3706,7 +3706,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 16751	1	0	Dietrich Steinkopff Verlag	Journal	Germany
 16752	0	0	Monash University	Journal	Australia
 16753	1	1	Polskie Towarzystwo Biochemiczne	Journal	Poland
-16754	1	0	Chinese Academy of Science	Journal	China
+16754	1	0	Chinese Academy of Sciences	Journal	China
 16755	1	0	Federacion Bioquimica de la Provincia de Buenos Aires	Journal	Argentina
 16756	1	0	Elsevier	Journal	Germany
 16757	1	0	BMJ	Journal	United Kingdom
@@ -3949,7 +3949,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 17069	1	0	Elsevier	Journal	United Kingdom
 17071	1	0	Fondation universitaire	Journal	Belgium
 17072	1	0	Jan Dhondt Stichting	Journal	Belgium
-17075	1	0	Editons Belin	Journal	France
+17075	1	0	Editions Belin	Journal	France
 17077	1	1	Springer Nature	Journal	United Kingdom
 17079	0	0	Danske Dyrlaegeforening/Danish Veterinary Association	Journal	Denmark
 17080	1	1	Estonian Academy Publishers	Journal	Estonia
@@ -4428,7 +4428,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 17681	1	0	SAGE	Journal	United States
 17683	1	0	Elsevier	Journal	Netherlands
 17685	1	0	Australian Small Animal Veterinary Association	Journal	Australia
-17686	0	0	Izdatel'stvo Nauka	Journal	Russian Federation
+17686	0	0	Izdatel'stva Nauka	Journal	Russian Federation
 17687	1	0	American Association of Avian Pathologists Inc.	Journal	United States
 17689	1	0	Taylor & Francis	Journal	United Kingdom
 17690	1	0	Taylor & Francis	Trade Journal	United States
@@ -4531,7 +4531,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 17837	1	0	Australasian Medical Publishing Company	Journal	Australia
 17838	1	0	Malaysian Medical Association	Journal	Malaysia
 17839	1	0	Department of Conservation and Land Management	Journal	South Africa
-17840	1	1	Teheran University of Medical Sciences	Journal	Iran, Islamic Republic of
+17840	1	1	Tehran University of Medical Sciences	Journal	Iran, Islamic Republic of
 17841	1	0	Izdatel'stva Nauka	Journal	Russian Federation
 17843	1	0	Radiological Society of North America, Inc.	Journal	United States
 17844	1	0	Springer Nature	Journal	Germany
@@ -4573,7 +4573,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 17892	1	1	The Resilience Alliance	Journal	Canada
 17893	1	0	Thieme	Journal	United States
 17894	1	0	Elsevier	Journal	United Kingdom
-17895	1	0	British Association of Springer Nature Conservationists	Journal	United Kingdom
+17895	1	0	British Association of Nature Conservationists	Journal	United Kingdom
 17896	1	0	Elsevier	Journal	United Kingdom
 17899	1	0	Elsevier	Journal	United Kingdom
 17903	1	0	Maik Nauka/Interperiodica Publishing	Journal	Russian Federation
@@ -4591,7 +4591,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 17918	1	1	Taylor & Francis	Journal	United Kingdom
 17919	0	0	Institution of Engineers (India)	Journal	India
 17920	0	0	Institution of Professional Engineers New Zealand	Journal	New Zealand
-17921	0	0	Museum National d'Histoire Springer Naturelle	Journal	France
+17921	0	0	Museum National d'Histoire Naturelle	Journal	France
 17922	1	0	A.D.A.C.	Journal	France
 17923	0	0	Science Press	Journal	China
 17924	1	0	Elsevier	Journal	Netherlands
@@ -5200,7 +5200,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 18753	0	0	Australian Water Association	Journal	Australia
 18754	1	0	Johns Hopkins University Press	Journal	United States
 18755	1	0	Scientific Publishers	Journal	India
-18756	0	0	D M G World Media Ltd.	Journal	United Kingdom
+18756	0	0	DMG World Media Ltd	Journal	United Kingdom
 18757	0	0	Lead Media Ltd.	Trade Journal	United Kingdom
 18761	1	0	World Scientific	Journal	Singapore
 18766	1	0	Maik Nauka/Interperiodica Publishing	Journal	Russian Federation
@@ -5670,7 +5670,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 19375	1	1	Water Research Commission	Journal	South Africa
 19376	1	0	IWA Publishing	Book Series	United Kingdom
 19377	1	0	IWA Publishing	Book Series	United Kingdom
-19378	0	0	DMG world Media Ltd	Trade Journal	United Kingdom
+19378	0	0	DMG World Media Ltd	Trade Journal	United Kingdom
 19379	1	0	Brooke Pattrick Publications	Trade Journal	South Africa
 19380	1	0	Elsevier	Journal	United Kingdom
 19381	1	0	Colegio de Farmaceuticos de la Provincia de Buenos Aires	Journal	Argentina
@@ -5992,7 +5992,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 19783	1	0	Elsevier	Journal	United Kingdom
 19784	0	0	Helmers Publishing Inc.	Trade Journal	United States
 19786	1	0	Elsevier	Journal	United Kingdom
-19787	0	0	V D E Verlag GmbH	Book Series	Germany
+19787	0	0	VDE Verlag GmbH	Book Series	Germany
 19788	0	0	Technishce Vereinigung der Grosskraftwerksbetreiber EV	Journal	Germany
 19789	0	0	Brazilian Society of Mechanical Sciences and Engineering	Journal	Brazil
 19790	1	0	Wiley-Blackwell	Journal	United Kingdom
@@ -6011,7 +6011,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 19805	1	0	Canadian Society for Mechanical Engineering	Journal	Canada
 19806	1	0	China Machine Press	Journal	China
 19807	0	0	Agencja Reklamowo-Wydawnicza Foto Kurier	Journal	Poland
-19808	1	1	Museum National d'Histoire Springer Naturelle	Journal	France
+19808	1	1	Museum National d'Histoire Naturelle	Journal	France
 19809	1	0	Springer Nature	Journal	Germany
 19811	1	0	Entomological Society of America	Journal	United States
 19812	1	0	Federacion Espanola De Medicina Del Deporte	Journal	Spain
@@ -6102,7 +6102,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 19909	1	0	Nihon Tenkan Gakkai/Japan Epilepsy Society	Journal	Japan
 19911	1	0	Taylor & Francis	Journal	United Kingdom
 19912	1	0	Elsevier	Journal	United States
-19913	1	0	Chinese Academy of Science	Journal	China
+19913	1	0	Chinese Academy of Sciences	Journal	China
 19915	1	0	Taylor & Francis	Journal	United Kingdom
 19916	1	0	Taylor & Francis	Journal	United Kingdom
 19917	1	1	Redprint Editora Ltda.	Journal	Brazil
@@ -6298,7 +6298,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 20158	1	0	Polskie Towarzystwo Alergoloiczne	Journal	Poland
 20159	0	0	TIGIS Spol. s.r.o.	Journal	Czech Republic
 20160	0	0	Telecommunications Association	Journal	Japan
-20161	0	0	V D E Verlag GmbH	Trade Journal	Germany
+20161	0	0	VDE Verlag GmbH	Trade Journal	Germany
 20164	0	0	Communications Media for Education,Inc	Journal	United States
 20165	1	0	Tohoku University	Journal	Japan
 20166	0	0	Sanidad y Ediciones (SANED)	Journal	Spain
@@ -6591,7 +6591,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 20531	1	0	SAGE	Journal	United States
 20532	1	0	Elsevier	Journal	United Kingdom
 20533	1	0	Les Laboratoires Servier	Journal	France
-20534	0	0	Editrice Kurtis srl	Journal	Italy
+20534	0	0	Editrice Kurtis s.r.l.	Journal	Italy
 20535	1	0	Springer Nature	Journal	Germany
 20536	1	0	Taylor & Francis	Journal	United Kingdom
 20537	1	0	Wiley-Blackwell	Journal	United States
@@ -6872,7 +6872,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 20887	1	0	Springer Nature	Journal	Netherlands
 20888	1	0	Elsevier	Journal	Netherlands
 20889	1	0	Izdatel'stvo Meditsina Publishers	Journal	Russian Federation
-20890	1	0	Chinese Academy of Science	Journal	China
+20890	1	0	Chinese Academy of Sciences	Journal	China
 20891	1	0	Elsevier	Journal	United Kingdom
 20892	1	0	Elsevier	Journal	United Kingdom
 20893	1	0	Elsevier	Journal	United Kingdom
@@ -6924,7 +6924,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 20954	1	0	Elsevier	Journal	United Kingdom
 20956	1	0	Drustvo za Opazovanje in Proucevanje Ptic Slovenije/Bird Watching and Bird Study Association of Slovenia	Journal	Slovenia
 20957	1	0	Polska Akademia Nauk	Journal	Poland
-20958	1	0	Museum National d'Histoire Springer Naturelle	Journal	France
+20958	1	0	Museum National d'Histoire Naturelle	Journal	France
 20959	0	0	Skaanes Ornitologiska Foerening	Journal	Sweden
 20960	1	0	Oxford University Press	Journal	United Kingdom
 20961	1	0	Guilford Press	Journal	United States
@@ -6998,7 +6998,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21045	0	0	Surgical Care Publications, Inc	Journal	United States
 21046	1	0	Science Press	Journal	China
 21047	1	0	Xinghua University Press	Journal	China
-21048	1	0	Goellar Verlag GmbH	Trade Journal	Germany
+21048	1	0	Goeller Verlag GmbH	Trade Journal	Germany
 21049	1	0	Chongging Yibiao Cailiao Yanjiusuo/Chongqing Instrument Materials Research Institute	Journal	China
 21051	0	0	Izdevejs Zinatne	Journal	Latvia
 21052	1	0	Elsevier	Journal	Netherlands
@@ -7419,7 +7419,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21576	1	0	Springer Nature	Journal	Netherlands
 21578	1	0	Taylor & Francis	Journal	United Kingdom
 21579	1	0	Taylor & Francis	Journal	United Kingdom
-21580	0	0	DMG world Media Ltd	Trade Journal	United Kingdom
+21580	0	0	DMG World Media Ltd	Trade Journal	United Kingdom
 21581	1	0	Vereinigte Fachverlage GmbH	Journal	Germany
 21582	1	0	Springer Nature	Journal	Netherlands
 21583	0	0	Techniche Nuove SpA	Journal	Italy
@@ -7443,7 +7443,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21604	0	0	Wiley-Blackwell	Journal	United States
 21605	0	0	Ashlee Publishing Co., Inc.	Journal	United States
 21606	1	0	Springer Nature	Journal	Netherlands
-21607	1	0	DMG world Media Ltd	Journal	United Kingdom
+21607	1	0	DMG World Media Ltd	Journal	United Kingdom
 21608	1	0	Evolutionary Ecology Ltd.	Journal	United States
 21609	1	0	Taylor & Francis	Journal	United States
 21611	1	0	Springer Nature	Journal	India
@@ -8178,7 +8178,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 22531	1	0	Cambridge University Press	Journal	United Kingdom
 22532	1	0	Walter de Gruyter	Journal	Germany
 22533	1	0	Taylor & Francis	Journal	United Kingdom
-22534	1	0	M R A Publications, Inc.	Journal	United States
+22534	1	0	MRA Publications, Inc.	Journal	United States
 22535	0	0	Rila Publications Ltd	Journal	United Kingdom
 22536	1	0	Wiley-Blackwell	Journal	United Kingdom
 22538	1	0	SAGE	Journal	United States
@@ -8695,7 +8695,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 23207	1	0	Royal Irish Academy	Journal	Ireland
 23208	0	0	Laser Pages Publishing Ltd.	Journal	Israel
 23209	1	0	Cluj University Press	Journal	Romania
-23211	1	1	Museum National d'Histoire Springer Naturelle	Journal	France
+23211	1	1	Museum National d'Histoire Naturelle	Journal	France
 23212	1	0	Institute of Mathematical Statistics	Journal	Netherlands
 23213	1	0	Springer Nature	Journal	Netherlands
 23214	0	0	C I C Edizioni International srl	Journal	Italy
@@ -8916,7 +8916,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 23478	1	0	Wiley-Blackwell	Journal	United Kingdom
 23479	1	1	Polish Physiological Society	Journal	Poland
 23481	1	0	IOS Press	Journal	Netherlands
-23482	1	0	V S - Verlag fur Sozialwissenschaften	Journal	Germany
+23482	1	0	VS Verlag fur Sozialwissenschaften	Journal	Germany
 23483	1	0	Elsevier	Journal	Netherlands
 23484	1	0	Springer Nature	Journal	United States
 23486	1	0	Springer Nature	Journal	Germany
@@ -9118,7 +9118,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 23774	1	0	Elsevier	Journal	Netherlands
 23775	1	0	Walter de Gruyter	Journal	Germany
 23776	1	0	Association of Canadian Archivists	Journal	Canada
-23777	0	0	Izdatel'stvo Nauka	Journal	Russian Federation
+23777	0	0	Izdatel'stva Nauka	Journal	Russian Federation
 23779	0	0	Taylor & Francis	Journal	United Kingdom
 23780	0	0	C E P I - Centro Editoriale Pubblicitario Italiano s.r.l.	Journal	Italy
 23784	0	0	Editorial Mapfre	Journal	Spain
@@ -9175,7 +9175,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 23853	1	0	Wiley-Blackwell	Journal	United States
 23854	0	0	Isis Medical Media Ltd.	Journal	United Kingdom
 23855	1	0	Elsevier	Journal	United States
-23857	1	0	Museum d'Histoire Springer Naturelle de Geneve	Journal	Switzerland
+23857	1	0	Museum d'Histoire Naturelle de Geneve	Journal	Switzerland
 23858	1	1	Anadolu University	Journal	Turkey
 23859	1	0	Springer Nature	Journal	Netherlands
 23860	1	0	Elsevier	Journal	Netherlands
@@ -9363,7 +9363,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 24079	1	0	Museum and Institute of Zoology PAS	Journal	Poland
 24080	1	0	Walter de Gruyter	Journal	Germany
 24081	1	0	Zhejiang Daxue	Journal	China
-24082	1	0	Chinese Academy of Science	Journal	China
+24082	1	0	Chinese Academy of Sciences	Journal	China
 24083	1	0	Springer Nature	Journal	Netherlands
 24084	0	0	Science Press	Journal	China
 24085	1	0	Elsevier	Journal	Netherlands
@@ -9420,7 +9420,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 24145	1	0	Springer Nature	Journal	Netherlands
 24149	0	0	West Virginia dental Association	Journal	United States
 24150	1	0	Cambridge University Press	Journal	United Kingdom
-24152	1	0	Chinese Academy of Science	Journal	China
+24152	1	0	Chinese Academy of Sciences	Journal	China
 24153	0	0	Chemical Industry and Engineering Society of China	Journal	China
 24154	1	0	Elsevier	Journal	Netherlands
 24155	1	0	Springer Nature	Journal	Netherlands
@@ -9446,7 +9446,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 24182	1	0	Elsevier	Journal	United Kingdom
 24184	1	0	Zhongguo Dianzi Xuehui	Journal	China
 24185	1	0	Wiley-Blackwell	Journal	United Kingdom
-24186	0	0	U P MEdia Group, Inc.	Trade Journal	United States
+24186	0	0	UP Media Group, Inc.	Trade Journal	United States
 24187	1	0	Springer Nature	Journal	Netherlands
 24188	0	0	American Humanist Association	Journal	United States
 24190	0	0	Wiley-Blackwell	Journal	United Kingdom
@@ -10021,14 +10021,14 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 24937	1	0	Nihon Shika Riko Gakkai/Japanese Society for Dental Materials and Devices	Journal	Japan
 24940	1	1	Asociacion Argentina de Dermatologia	Journal	Argentina
 24941	0	0	A.E. Morgan Publications Ltd.	Journal	United Kingdom
-24942	0	0	Buisness Information Group	Journal	Canada
+24942	0	0	Business Information Group	Journal	Canada
 24943	1	0	Elsevier	Journal	United Kingdom
 24944	1	0	Wolters Kluwer Health	Journal	United States
 24946	1	0	BMJ	Journal	United Kingdom
 24947	1	0	Elsevier	Journal	United Kingdom
 24949	1	0	University of Manitoba	Journal	Canada
 24950	1	0	Maik Nauka/Interperiodica Publishing	Journal	Russian Federation
-24951	0	0	Izdatel'stvo Nauka	Journal	Russian Federation
+24951	0	0	Izdatel'stva Nauka	Journal	Russian Federation
 24953	0	0	Izdatel'stvo Mashinostroenie	Journal	Russian Federation
 24954	1	0	Osaka University	Journal	Japan
 24956	1	0	Wiley-Blackwell	Journal	United Kingdom
@@ -10108,7 +10108,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 25069	1	0	Collegio Ingegneri Ferroviari Italiani	Journal	Italy
 25070	1	0	SAGE	Journal	United States
 25071	0	0	Cygnus Business Media Inc.	Trade Journal	United States
-25072	1	1	Museum National d'Histoire Springer Naturelle	Journal	France
+25072	1	1	Museum National d'Histoire Naturelle	Journal	France
 25073	1	0	Wiley-Blackwell	Journal	United States
 25074	1	0	University of Hawaii Press	Journal	United States
 25075	1	0	Springer Nature	Journal	Netherlands
@@ -10279,7 +10279,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 25278	0	0	Aids Policy Research Group and Pro Bono Medica Medica Publishers Ltd	Journal	South Africa
 25279	1	0	Universidad Nacional Autónoma de México, Universidad Autónoma de México, Universidad Autónoma de Tlaxcala, Universidad de Veracruzana	Journal	Mexico
 25280	1	0	Springer Nature	Journal	Germany
-25281	1	0	Societe Nationale de Protection de la Springer Nature	Journal	France
+25281	1	0	Societe Nationale de Protection de la Nature	Journal	France
 25282	1	0	Springer Nature	Journal	United States
 25283	1	0	Elsevier	Journal	Netherlands
 25284	0	0	The National Interest Inc	Journal	United States
@@ -10438,7 +10438,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 25476	1	0	Taylor & Francis	Journal	United Kingdom
 25477	1	0	Wiley-Blackwell	Journal	United States
 25479	1	0	Korean Institute of Electrical Engineers	Journal	South Korea
-25480	0	0	Angel Business Communicaations Ltd.	Journal	United Kingdom
+25480	0	0	Angel Business Communications Ltd.	Journal	United Kingdom
 25482	1	0	ACTA Press	Journal	Canada
 25487	1	0	American Diabetes Association	Journal	United States
 25488	1	0	Elsevier	Journal	France
@@ -10468,7 +10468,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 25523	1	0	Wiley-Blackwell	Journal	United States
 25524	1	0	SAGE	Journal	United States
 25525	0	0	Greater Houston Dental Society	Journal	United States
-25526	0	0	Editrice Kurtis srl	Journal	Italy
+25526	0	0	Editrice Kurtis s.r.l.	Journal	Italy
 25527	1	0	Wiley-Blackwell	Journal	United Kingdom
 25528	0	0	Paperloop	Trade Journal	United States
 25529	1	0	Wiley-Blackwell	Journal	United States
@@ -10790,7 +10790,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 25925	1	0	The Society of Polymer Science	Journal	Japan
 25927	1	0	Kobunshi Kagaku	Journal	Japan
 25928	0	0	Fuji	Journal	Japan
-25929	0	0	Chinese Academy of Science	Journal	China
+25929	0	0	Chinese Academy of Sciences	Journal	China
 25930	1	0	Springer Nature	Journal	Germany
 25931	0	0	Springer Nature	Journal	United States
 25932	1	0	Wolters Kluwer Health	Journal	United States
@@ -10884,7 +10884,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 26046	1	0	World Scientific	Journal	Singapore
 26048	1	0	Institute of Electrical and Electronics Engineers	Journal	United States
 26049	1	0	Institute of Electrical and Electronics Engineers	Journal	United States
-26050	0	0	U P MEdia Group, Inc.	Trade Journal	United States
+26050	0	0	UP Media Group, Inc.	Trade Journal	United States
 26051	1	0	Institute of Electrical and Electronics Engineers	Journal	United States
 26052	1	0	Institute of Electrical and Electronics Engineers	Journal	United States
 26053	1	0	Institute of Electrical and Electronics Engineers	Journal	United States
@@ -11917,7 +11917,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 27498	1	0	Annual Reviews, inc.	Journal	United States
 27502	1	0	Maik Nauka/Interperiodica Publishing	Journal	Russian Federation
 27505	1	0	Oxford University Press	Journal	United Kingdom
-27506	0	0	Institut Royal des Sciences Springer Naturelles de Belgique	Journal	Belgium
+27506	0	0	Institut Royal des Sciences Naturelles de Belgique	Journal	Belgium
 27507	1	1	Hindawi	Journal	Egypt
 27508	1	0	Association of Canadian Map Libraries and Archives	Journal	Canada
 27509	0	0	Alan Guttmacher Institute	Journal	United States
@@ -12102,7 +12102,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 27753	1	0	Springer Nature	Journal	Germany
 27754	0	0	Japanese Association of Forensic Toxicology	Journal	Japan
 27755	1	0	Nippon Hoi Gakkai	Journal	Japan
-27756	1	0	Editions E S K A	Journal	France
+27756	1	0	Editions ESKA	Journal	France
 27760	1	0	New Left Review Ltd.	Journal	United Kingdom
 27761	0	0	The Republic Pub.	Journal	United States
 27763	0	0	Elsevier	Journal	Netherlands
@@ -12594,7 +12594,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 28411	0	0	North American Publishing Co.	Trade Journal	United States
 28412	0	0	Innes Publishing Company	Trade Journal	United States
 28413	1	0	Verlag Stahleisen GmbH	Trade Journal	Germany
-28414	0	0	DMG world Media Ltd	Journal	United Kingdom
+28414	0	0	DMG World Media Ltd	Journal	United Kingdom
 28415	0	0	Institution of Fire Engineers	Trade Journal	United Kingdom
 28416	1	0	Elsevier	Journal	Netherlands
 28417	1	0	Rodman Publications, Inc.	Trade Journal	United States
@@ -12620,7 +12620,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 28441	1	0	Elsevier	Journal	United Kingdom
 28442	0	0	U.S. Small Business Administration	Journal	United States
 28443	1	0	Wiley-Blackwell	Journal	United States
-28444	1	0	DMG world Media Ltd	Trade Journal	United Kingdom
+28444	1	0	DMG World Media Ltd	Trade Journal	United Kingdom
 28446	0	0	Walter de Gruyter	Journal	United States
 28447	1	0	Geophysical Press	Journal	France
 28448	1	0	Springer Nature	Journal	Netherlands
@@ -12774,7 +12774,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 28612	1	0	Cambridge University Press	Journal	United Kingdom
 28615	0	0	Instrument Society of America	Journal	United States
 28616	0	0	Elsevier	Journal	France
-28617	0	0	DMG world Media Ltd	Trade Journal	United Kingdom
+28617	0	0	DMG World Media Ltd	Trade Journal	United Kingdom
 28618	1	0	Indian Assosiation of Biomedical Scientists	Journal	India
 28619	1	0	Accion Medica	Journal	Spain
 28620	1	0	Elsevier	Journal	France
@@ -13098,12 +13098,12 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 29039	0	0	Advanstar Communications Inc.	Journal	United States
 29040	1	0	Jing'en Zhou	Journal	China
 29041	0	0	Ribosome Communications	Journal	Canada
-29042	1	0	Chinese Academy of Science	Journal	China
+29042	1	0	Chinese Academy of Sciences	Journal	China
 29043	0	0	FD-Communications Inc.	Journal	Canada
 29044	1	0	Taylor & Francis	Journal	United Kingdom
 29045	1	0	Centaur Publishing Ltd.	Journal	United Kingdom
 29047	1	1	Institute of Physics	Journal	United Kingdom
-29049	1	0	Gilard Welch Ltd.	Journal	United Kingdom
+29049	1	0	Gillard Welch Ltd.	Journal	United Kingdom
 29052	1	0	World Scientific	Journal	Singapore
 29053	1	0	Springer Nature	Journal	Netherlands
 29055	1	0	World Scientific	Journal	Singapore
@@ -13213,7 +13213,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 29187	1	1	Wiley-Blackwell	Journal	United States
 29188	1	0	Medletter Associates	Journal	United States
 29189	1	0	SAGE	Journal	United States
-29190	0	0	Armond Colin Editeur	Journal	France
+29190	0	0	Armand Colin Editeur	Journal	France
 29191	1	0	Human Kinetics Publishers Inc.	Journal	United States
 29193	1	0	Taylor & Francis	Journal	United States
 29194	1	0	Elsevier	Journal	United Kingdom
@@ -13479,7 +13479,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 29528	1	0	American Foundry Society	Trade Journal	United States
 29530	0	0	Kazanskii Gosudarstvennyi Tekhjicjeskii Universitet im	Journal	Russian Federation
 29531	0	0	G D M B Informtionsgesellchaft	Journal	Germany
-29532	0	0	DMG world Media Ltd	Journal	United Kingdom
+29532	0	0	DMG World Media Ltd	Journal	United Kingdom
 29533	0	0	Walter de Gruyter	Journal	United States
 29534	0	0	Walter de Gruyter	Journal	United States
 29535	1	0	Taylor & Francis	Journal	United Kingdom
@@ -13565,7 +13565,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 29635	1	0	Oxford University Press	Journal	United Kingdom
 29637	0	0	FMJ International Publications Ltd	Journal	United Kingdom
 29638	0	0	Penton Media, Inc.	Trade Journal	United States
-29639	0	0	DMG world Media Ltd	Trade Journal	United Kingdom
+29639	0	0	DMG World Media Ltd	Trade Journal	United Kingdom
 29640	1	0	Elsevier	Journal	Netherlands
 29642	1	1	Springer Nature	Journal	India
 29643	1	0	SAGE	Journal	United States
@@ -13592,7 +13592,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 29665	1	0	Funtai Funmatsu Yakin Kyokai	Journal	Japan
 29666	1	0	Wiley-Blackwell	Journal	United Kingdom
 29667	1	0	Elsevier	Journal	United Kingdom
-29668	0	0	DMG world Media Ltd	Journal	United Kingdom
+29668	0	0	DMG World Media Ltd	Journal	United Kingdom
 29669	1	0	Zhongguo Kexueyuan	Journal	China
 29670	1	0	Eugen G. Leuze Verlag	Trade Journal	Germany
 29673	1	0	Mattioli 1885 SpA	Journal	Italy
@@ -13606,7 +13606,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 29686	1	0	Science Press	Journal	China
 29688	1	0	Wiley-Blackwell	Journal	United States
 29689	1	0	BMJ	Journal	United Kingdom
-29690	0	0	US Government Printing Office	Journal	United States
+29690	0	0	U.S. Government Printing Office	Journal	United States
 29694	1	0	Wolters Kluwer Health	Journal	United States
 29695	1	0	Yejin Gongye Chubanshe	Journal	China
 29696	1	0	Springer Nature	Journal	Germany
@@ -13640,7 +13640,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 29736	1	0	Elsevier	Journal	United Kingdom
 29738	1	0	Royal College of Nursing Publishing Co.	Journal	United Kingdom
 29739	0	0	RECLUS	Journal	France
-29740	0	0	Chinese Academy of Science	Journal	China
+29740	0	0	Chinese Academy of Sciences	Journal	China
 29741	0	0	Canadian Geographical Enterprises	Journal	Canada
 29742	1	0	Taylor & Francis	Journal	United Kingdom
 29743	0	0	Kunming Guijinshu Yanjiusuo/Kunming Institute of Precious Metals	Journal	China
@@ -13884,7 +13884,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 30064	1	0	Taylor & Francis	Journal	United States
 30065	1	0	Springer Nature	Journal	United States
 30066	1	0	Hogrefe Publishing	Journal	United States
-30068	0	0	Editions E S K A	Journal	France
+30068	0	0	Editions ESKA	Journal	France
 30069	1	0	Izdatel'stvo Meditsina Publishers	Journal	Russian Federation
 30070	1	0	Springer Nature	Journal	Netherlands
 30071	0	0	American Association of Gynecologic Laparoscopists	Journal	United States
@@ -13916,7 +13916,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 30145	0	0	Maison de la Geology	Journal	France
 30147	0	0	SP & EM	Journal	United States
 30149	0	0	Oak Ridge National Laboratory	Journal	United States
-30150	0	0	V D E Verlag GmbH	Journal	Germany
+30150	0	0	VDE Verlag GmbH	Journal	Germany
 30165	0	0	American Congress on Surveying and Mapping	Journal	United States
 30169	0	0	Suzhou Institute of Silk Textile Technology	Journal	China
 30171	0	0	Redaktsiya Zhurnala Tyazheloe Mashinostroenie	Journal	Russian Federation
@@ -13992,7 +13992,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 30489	0	0	Institution of Engineers (Australia)	Journal	Australia
 30495	0	0	Carl Hanser Verlag	Journal	Germany
 30498	0	0	Taylor & Francis	Journal	United Kingdom
-30502	0	0	Foundation for Springer Nature Research and Cultural Heritage Research	Journal	Norway
+30502	0	0	Foundation for Nature Research and Cultural Heritage Research	Journal	Norway
 30503	0	0	American Society of Civil Engineers	Journal	United States
 30507	0	0	FAHS Review, Inc.	Journal	United States
 30509	0	0	Federation of American Hospitals	Journal	United States
@@ -14158,7 +14158,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 31251	0	0	CDS, ATS & IRSID	Journal	France
 31253	0	0	Institut Francais d'Etudes Andines	Journal	Peru
 31254	0	0	Editions Technip	Journal	France
-31256	0	0	Museum National d'Histoire Springer Naturelle	Journal	France
+31256	0	0	Museum National d'Histoire Naturelle	Journal	France
 31257	0	0	Verl. Handelsblatt	Journal	Germany
 31261	0	0	Springer Nature	Journal	Germany
 31273	1	0	Queensland Museum	Journal	Australia
@@ -14386,7 +14386,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 32194	0	0	Vydavatel'stvo Slovenkej Akademie Vied/Veda Publishing House of the Slovak Academy of Sciences	Journal	Slovakia
 32197	0	0	University of Miami	Journal	United States
 32198	0	0	Alcatel Alsthom publ	Journal	France
-32199	0	0	I T S Publishing	Journal	Switzerland
+32199	0	0	ITS Publishing	Journal	Switzerland
 32202	0	0	Gebruder Borntraeger Verlagsbuchhandlung	Journal	Germany
 32207	0	0	Elsevier	Journal	United States
 32210	1	0	National Center for Scientific Research	Journal	Iran, Islamic Republic of
@@ -14953,7 +14953,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 34595	0	0	Karger	Journal	Switzerland
 34597	0	0	Special Interest Group on Computer Graphics, Association for Computing Machinery	Trade Journal	United States
 34612	0	0	McMahon Publication Co.	Journal	United States
-34613	0	0	Societe Vaudoise des Sciences Springer Naturelles	Journal	Switzerland
+34613	0	0	Societe Vaudoise des Sciences Naturelles	Journal	Switzerland
 34622	0	0	Wiley-Blackwell	Journal	United Kingdom
 34628	0	0	Wolters Kluwer Health	Journal	United States
 34632	0	0	Consultants Bureau	Journal	United States
@@ -14976,9 +14976,9 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 34695	0	0	Leicester Univ. Press	Journal	United States
 34696	1	0	Scientific and Technical research Council of Turkey - TUBITAK/Turkiye Bilimsel ve Teknik Arastirma Kurumu	Journal	Turkey
 34698	0	0	Akademiai Kiado	Journal	Hungary
-34699	0	0	Academiei Romane	Journal	Romania
+34699	0	0	Academia Romana	Journal	Romania
 34701	0	0	Verlag Stahleisen GmbH	Journal	Germany
-34706	0	0	Institut Royal des Sciences Springer Naturelles de Belgique	Journal	Belgium
+34706	0	0	Institut Royal des Sciences Naturelles de Belgique	Journal	Belgium
 34722	0	0	American Medical Association	Journal	United States
 34724	0	0	National Commission on Correctional Health Care	Journal	United States
 34725	1	0	Zavod Republike Slovenije za Solstvo	Journal	Slovenia
@@ -15130,7 +15130,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 35290	0	0	Metallurgical Society of AIME	Journal	United States
 35294	0	0	Elsevier	Journal	United States
 35295	0	0	Nauchno-Tekhnicheskoe Obshchestvo Neftyanoi i Gazovoi Promyshlennosti	Journal	Russian Federation
-35297	1	0	Editions E S K A	Book Series	France
+35297	1	0	Editions ESKA	Book Series	France
 35298	0	0	Heterocorporation	Journal	United States
 35299	0	0	Miller Freeman	Journal	United States
 35301	0	0	Association des Diplomes de Microbiologie	Journal	France
@@ -15304,7 +15304,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 35931	0	0	Wiley-Blackwell	Journal	United States
 35932	1	0	Wiley-Blackwell	Journal	United States
 35934	1	0	American Physiological Society	Journal	United States
-35936	0	0	Museum National d'Histoire Springer Naturelle	Journal	France
+35936	0	0	Museum National d'Histoire Naturelle	Journal	France
 35938	0	0	Japanese Pathological Society	Journal	Japan
 35941	1	0	American Society of Animal Science	Journal	United States
 35945	0	0	Societe de l'industrie Minerale	Journal	France
@@ -15695,7 +15695,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 37527	0	0	Sociedad de Biologia de Chile	Journal	Chile
 37529	0	0	Wiley-Blackwell	Journal	United Kingdom
 37536	1	0	Elsevier	Journal	Spain
-37540	1	0	Societe Vaudoise des Sciences Springer Naturelles	Journal	Switzerland
+37540	1	0	Societe Vaudoise des Sciences Naturelles	Journal	Switzerland
 37550	0	0	Hüthig	Journal	Germany
 37557	0	0	Elsevier	Journal	Netherlands
 37558	0	0	Taylor & Francis	Journal	United States
@@ -15781,7 +15781,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 37846	0	0	Gulf Publishing Co.	Journal	United States
 37851	1	0	University of the Philippines at Los Banos	Journal	Philippines
 37854	0	0	Wichtig Publishing	Journal	Italy
-37857	1	0	Hyogo Kenritsu Hito to shizen no Hakubutsukan/Museum of Springer Nature and Human Activities	Journal	Japan
+37857	1	0	Hyogo Kenritsu Hito to shizen no Hakubutsukan/Museum of Nature and Human Activities	Journal	Japan
 37858	0	0	Science and Technology Letters	Journal	United Kingdom
 37862	0	0	Dantec Electronik	Journal	Denmark
 37865	0	0	Elsevier	Journal	United Kingdom
@@ -16094,7 +16094,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 39074	0	0	School of Planning and Architecture	Journal	India
 39078	0	0	Karger	Journal	Switzerland
 39082	0	0	Canon Communications LLC	Journal	United States
-39085	0	0	DMG world Media Ltd	Journal	United Kingdom
+39085	0	0	DMG World Media Ltd	Journal	United Kingdom
 39086	0	0	McGraw Hill	Journal	United States
 39088	0	0	Allen Press	Journal	United States
 39091	0	0	Springer Nature	Journal	Germany
@@ -16349,7 +16349,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 40188	0	0	Elsevier	Journal	United Kingdom
 40204	0	0	Taylor & Francis	Journal	United States
 40209	0	0	Natural History Museum and Institute Chiba	Journal	Japan
-40211	0	0	Librarie Arnette	Journal	France
+40211	0	0	Librairie Arnette	Journal	France
 40212	0	0	Panstwowe Wydawnictwo Naukowe	Journal	Poland
 40217	0	0	Wiley-Blackwell	Journal	United States
 40224	0	0	National Association of Corrosion Engineers	Journal	United States
@@ -16881,7 +16881,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 53878	0	0	Pharmaceutical Products Press	Journal	United States
 53881	0	0	Corporation professionnelle des infirmie`res et infirmiers auxiliaires du Que bec	Journal	Canada
 53921	0	0	Wiley-Blackwell	Journal	United States
-53929	0	0	Canadian Museum of Springer Nature	Journal	Canada
+53929	0	0	Canadian Museum of Nature	Journal	Canada
 53956	0	0	Dept. of Audiovisual Instruction	Journal	United States
 53958	1	0	Taylor & Francis	Journal	United Kingdom
 53972	0	0	Elsevier	Journal	United States
@@ -16904,7 +16904,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 54222	1	1	Multidisciplinary Digital Publishing Institute (MDPI)	Journal	Switzerland
 54245	0	0	Springer Nature	Journal	Germany
 54254	0	0	Lloyd Library And Museum	Journal	United States
-54259	0	0	Societa editrici Universa	Journal	Italy
+54259	0	0	Societa Editrice Universo	Journal	Italy
 54269	0	0	American Dental Association	Journal	United States
 54288	1	0	Wiley-Blackwell	Journal	United Kingdom
 54314	0	0	Huabei Gongxueyuan	Journal	China
@@ -17218,7 +17218,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 57844	1	0	Springer Nature	Journal	Germany
 57848	0	0	Royal College of Physicians	Journal	United Kingdom
 57859	0	0	Backdraft Publications	Journal	United States
-57863	0	0	DMG world Media Ltd	Journal	United Kingdom
+57863	0	0	DMG World Media Ltd	Journal	United Kingdom
 57867	0	0	Urban Und Schwarzenberg	Journal	United States
 57870	0	0	SouthWest Critical Care	Journal	United States
 57872	0	0	J.C.B.Mohr	Journal	Germany
@@ -17226,7 +17226,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 57895	0	0	Izdatel'stva Nauka	Journal	Russian Federation
 57899	0	0	National Assn. of Home Health Agencies	Journal	United States
 57915	0	0	Springer Nature	Journal	United States
-57927	0	0	Norsk Sykepleierforbund	Journal	Norway
+57927	0	0	Norske Sykepleierforbund	Journal	Norway
 57981	0	0	Springer Nature	Journal	Netherlands
 57988	0	0	ISA Services Inc	Journal	United States
 58005	0	0	AT & T	Journal	United States
@@ -17254,7 +17254,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 58300	0	0	Elsevier	Journal	Netherlands
 58310	0	0	World Textile Publications Ltd	Journal	United Kingdom
 58311	0	0	Wheatland Journals	Journal	United Kingdom
-58333	0	0	Flammarion Editions Medicales	Journal	France
+58333	0	0	Editions Medicales Flammarion	Journal	France
 58362	1	0	Departement d'etudes anciennes et de sciences des religions, l'Universite d'Ottawa	Journal	Canada
 58366	0	0	Springer Nature	Journal	Germany
 58403	0	0	Witzstrock	Journal	Germany
@@ -17723,7 +17723,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 64011	0	0	Universidad Nacional Autonoma de Mexico	Journal	Mexico
 64015	0	0	Springer Nature	Journal	Netherlands
 64029	0	0	European Journal for the Practitioner	Journal	Switzerland
-64038	0	0	Asociacion Argentina de Geofisicos y Geodesta	Journal	Argentina
+64038	0	0	Asociacion Argentina de Geofisicos y Geodestas	Journal	Argentina
 64072	0	0	Wolters Kluwer Health	Journal	United States
 64076	0	0	Yokufukai	Journal	Japan
 64085	0	0	Nursecom Publication	Journal	United States
@@ -17731,7 +17731,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 64107	0	0	Thieme	Journal	Germany
 64154	0	0	Kokuritsu Johogaku Kenkyujo	Journal	Japan
 64163	0	0	Research Information Ltd.	Journal	United Kingdom
-64191	0	0	Norsk Sykepleierforbund	Journal	Norway
+64191	0	0	Norske Sykepleierforbund	Journal	Norway
 64228	0	0	Acta Medica Belgica	Journal	Belgium
 64252	0	0	Elsevier	Journal	United Kingdom
 64255	0	0	Elsevier	Journal	United States
@@ -17748,7 +17748,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 64375	1	0	Physiological Society of Nigeria	Journal	Nigeria
 64377	0	0	PMS Industries Inc.	Journal	United States
 64389	0	0	American Lung Association	Journal	United States
-64393	0	0	Urban And Schwarzenberg	Journal	Germany
+64393	0	0	Urban Und Schwarzenberg	Journal	Germany
 64413	0	0	Grosse Verlag GmbH	Journal	Germany
 64417	0	0	Schweizerische Gesellschaft fur Geschichte der Pharmazie/Societe suisse d'histoire de la pharmacie	Journal	Switzerland
 64451	0	0	Cygnus Business Media Inc.	Trade Journal	United States
@@ -18167,7 +18167,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 69325	0	0	Wiley-Blackwell	Journal	United Kingdom
 69333	0	0	Barth Verlagsgesllschaft Mbh	Journal	Germany
 69336	1	0	Taylor & Francis	Journal	United Kingdom
-69343	0	0	Norsk Sykepleierforbund	Journal	Norway
+69343	0	0	Norske Sykepleierforbund	Journal	Norway
 69354	0	0	Elsevier	Journal	France
 69371	0	0	Association of Pediatric Oncology Nurses	Journal	United States
 69382	0	0	University Press of New England for the Trustees of Dartmouth College	Journal	United States
@@ -18301,9 +18301,9 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 70672	0	0	Arthur L. Davis Publishing Agency Inc	Journal	United States
 70713	0	0	The Resilience Alliance	Journal	Canada
 70730	1	0	Police Geological Institute	Journal	Poland
-70751	0	0	E Q E S, Inc.	Journal	United States
+70751	0	0	EQES Inc.	Journal	United States
 70761	0	0	Ente Nazionale per la Prevenzione degli Infortuni	Journal	Italy
-70775	0	0	I T S Publishing	Trade Journal	Switzerland
+70775	0	0	ITS Publishing	Trade Journal	Switzerland
 70792	1	1	Taylor & Francis	Journal	United Kingdom
 70809	0	0	Springer Nature	Journal	Netherlands
 70827	0	0	Scientechnica Publishers	Journal	United Kingdom
@@ -18392,7 +18392,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 71701	0	0	Fischer Medical Publications	Journal	Germany
 71705	0	0	Wiley-Blackwell	Journal	United Kingdom
 71706	0	0	Vie Medicale Au Canada Francais	Journal	Canada
-71709	0	0	Internationl Rhinologic Society	Journal	Netherlands
+71709	0	0	International Rhinologic Society	Journal	Netherlands
 71722	0	0	National Academy of Social Insurance	Journal	United States
 71734	0	0	Wiley-Blackwell	Journal	United States
 71741	1	0	Cambridge University Press	Journal	United Kingdom
@@ -18491,7 +18491,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 72883	0	0	Society of Manufacturing Engineers	Journal	United States
 72888	0	0	Elsevier	Journal	Netherlands
 72896	1	0	Romanian Medical Association	Journal	Romania
-72899	0	0	Institut Royal des Sciences Springer Naturelles de Belgique	Journal	Belgium
+72899	0	0	Institut Royal des Sciences Naturelles de Belgique	Journal	Belgium
 72906	0	0	Clarendon Press	Journal	United States
 72911	1	0	Springer Nature	Journal	Germany
 72915	0	0	Pequot Publishing, Inc.	Journal	United States
@@ -18646,7 +18646,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 74739	0	0	Elsevier	Journal	Netherlands
 74795	0	0	Kingscos Medical Publishers	Journal	United Kingdom
 74796	0	0	Editorial Board of Acta Metallurgica Sinica	Journal	China
-74822	0	0	Hyogo Kenritsu Hito to shizen no Hakubutsukan/Museum of Springer Nature and Human Activities	Journal	Japan
+74822	0	0	Hyogo Kenritsu Hito to shizen no Hakubutsukan/Museum of Nature and Human Activities	Journal	Japan
 74826	1	0	Physical Therapy Association	Journal	Turkey
 74831	0	0	Hans Huber AG	Journal	Switzerland
 74853	0	0	American Media Inc.	Journal	United States
@@ -18790,7 +18790,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 76593	0	0	Springer Nature	Journal	Switzerland
 76621	0	0	Faraday Division of the Chemical Society	Journal	United Kingdom
 76627	1	1	Multidisciplinary Digital Publishing Institute (MDPI)	Journal	Switzerland
-76644	0	0	Norsk Sykepleierforbund	Journal	Norway
+76644	0	0	Norske Sykepleierforbund	Journal	Norway
 76663	0	0	Saitama Ika Daigaku Igakkai	Journal	Japan
 76668	0	0	Akademiai Kiado	Journal	Hungary
 76670	0	0	The Asian & Pacific Population Forum	Journal	United States
@@ -19608,7 +19608,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 86725	0	0	Year Book Medical Publishers	Journal	United States
 86754	0	0	Taylor & Francis	Journal	United States
 86779	0	0	Cambridge International Science Publishing	Journal	United Kingdom
-86787	1	0	Malayan Springer Nature Society	Journal	Malaysia
+86787	1	0	Malayan Nature Society	Journal	Malaysia
 86808	0	0	Oxford University Press	Journal	United States
 86811	0	0	Croatian Society of Perinatal Medicine of Croatian Medical Association	Journal	Croatia
 86830	0	0	Colorado School of Mines Press	Journal	United States
@@ -19751,7 +19751,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 88463	0	0	Slack, Inc.	Journal	United States
 88508	0	0	Elsevier	Journal	United States
 88509	1	0	Cambridge University Press	Journal	United Kingdom
-88519	0	0	Petroleo Brasilerio S.A.	Journal	Brazil
+88519	0	0	Petroleo Brasileiro S.A.	Journal	Brazil
 88530	0	0	Midwifery Today	Journal	United States
 88538	1	0	Editura Academiei Romane/Publishing House of the Romanian Academy	Journal	Romania
 88542	0	0	Taylor & Francis	Journal	United States
@@ -19802,7 +19802,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 89119	0	0	Elsevier	Journal	United States
 89120	0	0	Adams Business Media	Journal	United States
 89125	0	0	Australian Prosthodontic Society	Journal	Australia
-89126	0	0	Urban And Schwarzenberg	Journal	Germany
+89126	0	0	Urban Und Schwarzenberg	Journal	Germany
 89133	0	0	Aspen Systems Corporation	Journal	United States
 89134	0	0	Taylor & Francis	Journal	United Kingdom
 89153	0	0	Office International De Documentation De Medecine Militaire	Journal	France
@@ -19866,9 +19866,9 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 89750	0	0	Wolters Kluwer Health	Journal	United States
 89753	0	0	Akademie Verlag	Journal	Germany
 89762	1	1	Scientific and Technical research Council of Turkey - TUBITAK/Turkiye Bilimsel ve Teknik Arastirma Kurumu	Journal	Turkey
-89788	0	0	Universitat de Valencia	Journal	Spain
+89788	0	0	Universidad de Valencia	Journal	Spain
 89796	0	0	Ernst und Sohn	Journal	Germany
-89801	0	0	Editrice Kurtis srl	Journal	Italy
+89801	0	0	Editrice Kurtis s.r.l.	Journal	Italy
 89811	0	0	Karger	Journal	Switzerland
 89829	0	0	Society for the Social History of Medicine	Journal	United Kingdom
 89833	0	0	Australian and New Zealand College of Mental Health Nurses	Journal	Australia
@@ -20065,7 +20065,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 92095	0	0	U.S. G.P.O	Journal	United States
 92109	0	0	Fachverlag Hans Carl	Journal	Germany
 92125	0	0	Washington Hospital Center	Journal	United States
-92127	0	0	DMG world Media Ltd	Journal	United Kingdom
+92127	0	0	DMG World Media Ltd	Journal	United Kingdom
 92155	0	0	National'na Akademiya Nauk Ukrainy	Journal	Ukraine
 92166	1	0	Elsevier	Journal	Netherlands
 92173	0	0	Springer Nature	Journal	Germany
@@ -20122,7 +20122,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 92740	0	0	Marine Environmental Sciences Consortium of Alabama	Journal	United States
 92766	0	0	Akademiai Kiado	Journal	Hungary
 92767	0	0	Comite internationale catholique des infirmieres et assistantes medico-sociales	Journal	Belgium
-92771	0	0	Editrice Kurtis srl	Journal	Italy
+92771	0	0	Editrice Kurtis s.r.l.	Journal	Italy
 92785	0	0	Scripta Technica	Journal	United States
 92793	0	0	Taylor & Francis	Journal	United Kingdom
 92848	0	0	Academy for Health Services Research and Health Policy	Journal	United States
@@ -20350,7 +20350,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 95454	0	0	University of Riyadh	Journal	Saudi Arabia
 95457	0	0	Springer Nature	Journal	Germany
 95459	0	0	Verlag Mann	Journal	Germany
-95484	0	0	Editrice Kurtis srl	Journal	Italy
+95484	0	0	Editrice Kurtis s.r.l.	Journal	Italy
 95489	0	0	Elsevier	Journal	United Kingdom
 95498	0	0	Michigan Dental Association	Journal	United States
 95516	0	0	Elsevier	Journal	Netherlands
@@ -20461,12 +20461,12 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 96590	0	0	Hopital St Georges	Journal	Lebanon
 96592	1	0	Wiley-Blackwell	Journal	United Kingdom
 96594	1	0	Chemical Industry and Engineering Society of China	Journal	China
-96627	0	0	Chinese Academy of Science	Journal	China
+96627	0	0	Chinese Academy of Sciences	Journal	China
 96642	0	0	Trans Tech Publications Ltd	Journal	Switzerland
 96674	0	0	Wisconsin Dental Association	Journal	United States
 96677	0	0	Urban Und Schwarzenberg	Journal	United States
 96692	0	0	Western Illinois University	Journal	United States
-96698	0	0	Sao Paulo Universidade De Sao Paulo	Journal	Brazil
+96698	0	0	Universidade De Sao Paulo	Journal	Brazil
 96725	0	0	Institute of Electrical Engineers	Journal	United Kingdom
 96726	0	0	Chilton Publications	Trade Journal	United States
 96769	0	0	Springer Nature	Journal	Netherlands
@@ -20758,7 +20758,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 100256	0	0	National Council of State Boards of Nursing	Journal	United States
 100258	0	0	Elsevier	Journal	United Kingdom
 100268	0	0	Springer Nature	Journal	Germany
-100270	0	0	Editrice Kurtis srl	Journal	Italy
+100270	0	0	Editrice Kurtis s.r.l.	Journal	Italy
 100281	0	0	Korean Society for Applied Microbiology	Journal	South Korea
 100287	0	0	Asociacion Psiquiatrica de America Latina	Journal	Brazil
 100299	0	0	Elsevier	Journal	United Kingdom
@@ -20801,7 +20801,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 100874	0	0	Editions des Presses Documentaires	Journal	France
 100878	0	0	United Communications Group	Journal	United States
 100880	0	0	GEC Alsthom	Journal	France
-100881	0	0	Associacao Brasileria de Divulgacao Cientifica.	Journal	Brazil
+100881	0	0	Associacao Brasileira de Divulgacao Cientifica	Journal	Brazil
 100888	1	0	Alexandrine Press	Journal	United Kingdom
 100895	1	1	Springer Nature	Journal	United Kingdom
 100906	1	0	Taylor & Francis	Journal	United Kingdom
@@ -20941,7 +20941,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 110115	0	0	Kyushu University	Journal	Japan
 110116	0	0	Springer Nature	Journal	Netherlands
 110123	1	0	Wiley-Blackwell	Journal	United Kingdom
-110124	0	0	Nederlandse Vereniging voor Klinsche Chemie	Journal	Netherlands
+110124	0	0	Nederlandse Vereniging voor Klinische Chemie	Journal	Netherlands
 110126	0	0	Elsevier	Journal	France
 110130	0	0	Nigerian Medical Association	Journal	Nigeria
 110131	0	0	Japan Society of Mechanical Engineers/Nihon Kikai Gakkai	Journal	Japan
@@ -21416,7 +21416,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 144890	1	0	ASM International	Journal	United States
 144891	1	0	Taylor & Francis	Journal	United Kingdom
 144892	0	0	Tech Science Press	Journal	United States
-144897	1	0	Chinese Academy of Science	Journal	China
+144897	1	0	Chinese Academy of Sciences	Journal	China
 144898	0	0	Via Medica	Journal	Poland
 144906	0	0	American Society for Psychical Research	Journal	United States
 144907	1	0	Taylor & Francis	Journal	United Kingdom
@@ -22149,7 +22149,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 3900148621	0	0	Dana Press	Journal	United States
 4000148006	1	1	Icelandic Medical Association and the Medical Society of Reykjavik	Journal	Iceland
 4000148009	1	0	Mark Allen Publishing Ltd.	Journal	United Kingdom
-4000148010	1	1	Sao Paulo Universidade De Sao Paulo	Journal	Brazil
+4000148010	1	1	Universidade De Sao Paulo	Journal	Brazil
 4000148017	1	0	Springer Nature	Journal	Netherlands
 4000148018	0	0	Prime National Publishing Corp.	Journal	United States
 4000148019	1	0	Springer Nature	Journal	United States
@@ -22842,7 +22842,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 4700152714	1	1	Fundacao Carlos Chagas	Journal	Brazil
 4700152715	1	1	Universidade Federal do Rio Grande do Sul	Journal	Brazil
 4700152716	1	0	National Assn. of Social Workers	Journal	United States
-4700152717	1	1	Universitat Politecnica de Valencia	Journal	Spain
+4700152717	1	1	Universitat Politècnica de València	Journal	Spain
 4700152718	1	0	Taylor & Francis	Journal	United States
 4700152719	1	1	Universidad de Concepcion, Facultad de Medicina, Departmento de Enfermeria	Journal	Chile
 4700152720	0	0	Association for Computing Machinery	Journal	United States
@@ -23079,7 +23079,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 4800156204	1	1	Instituto Brasileiro de Economia	Journal	Brazil
 4800156205	0	0	Center for Home Care Policy and Research (U.S.)	Journal	United States
 4800156301	1	0	McKinsey & Co.	Journal	United States
-4800156303	1	1	Centre National De La Recherche Scientifique	Journal	France
+4800156303	1	1	Centre Nationale de la Recherche Scientifique	Journal	France
 4800156304	1	1	Walter de Gruyter	Journal	Germany
 4800156305	1	1	Board of Editors of the Hispanic American Review	Journal	Brazil
 4900152201	0	0	SAGE	Journal	United States
@@ -23151,7 +23151,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 4900153101	1	0	Springer Nature	Journal	United States
 4900153106	1	0	Editorial Ciencias Medicas	Journal	Cuba
 4900153107	0	0	Springer Nature	Journal	Germany
-4900153108	1	1	Sao Paulo Universidade De Sao Paulo	Journal	Brazil
+4900153108	1	1	Universidade De Sao Paulo	Journal	Brazil
 4900153201	1	0	Springer Nature	Book Series	Germany
 4900153207	1	0	Editorial Ciencias Medicas	Journal	Cuba
 4900153211	1	0	Springer Nature	Book Series	Germany
@@ -23253,7 +23253,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 5000157105	1	1	Pontificia Universidade Catolica de Sao Paulo	Journal	Brazil
 5000157106	1	0	Illuminating Engineering Institute of Japan	Journal	Japan
 5000157107	1	0	Elsevier	Journal	Netherlands
-5000157108	0	0	Associacao Brasileira de Tecnologia Sementes	Journal	Brazil
+5000157108	0	0	Associacao Brasileira de Tecnologia de Sementes	Journal	Brazil
 5000157109	1	1	Editorial Ciencias Medicas	Journal	Cuba
 5000157110	0	0	China Environmental Science Press	Journal	China
 5000157112	0	0	Elsevier	Journal	Netherlands
@@ -23551,7 +23551,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 5400152641	0	0	Elsevier	Journal	Italy
 5400152642	0	0	Elsevier	Journal	Italy
 5400152643	1	1	Centro de Pesquisas Florestais	Journal	Brazil
-5400152644	1	0	Mayo Ediciones	Journal	Spain
+5400152644	1	0	Ediciones Mayo	Journal	Spain
 5400152645	1	0	Springer Nature	Journal	Germany
 5400152646	1	0	Institute of Electrical Engineers	Journal	United Kingdom
 5400152649	1	0	Springer Nature	Journal	Germany
@@ -23825,7 +23825,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 5700152710	1	0	Presses Universitaires de France	Journal	France
 5700152725	1	0	Cambridge University Press	Journal	United Kingdom
 5700152760	1	0	Taylor & Francis	Journal	United Kingdom
-5700152785	0	0	Izdatel'stvo Nauka	Journal	Russian Federation
+5700152785	0	0	Izdatel'stva Nauka	Journal	Russian Federation
 5700152813	1	0	John Benjamins Publishing Company	Journal	Netherlands 
 5700152854	1	0	Cambridge University Press	Journal	United Kingdom
 5700152857	1	0	Taylor & Francis	Journal	United Kingdom
@@ -24487,12 +24487,12 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 5800207617	1	0	Hrvatsko Filolosko Drustvo/Croatian Philological Society	Journal	Croatia
 5800207620	0	0	Cooperativa Libraria Universitaria Editrice Bologna	Journal	Italy
 5800207621	0	0	Librairie Droz S.A.	Journal	Switzerland
-5800207625	1	1	Wydawnictwo Naukowe Uniwersytetu im. Adama Mickiewicza	Journal	Poland
+5800207625	1	1	Adam Mickiewicz University Press	Journal	Poland
 5800207635	1	1	Servicio Editorial De La Universidad Del Pais Vasco	Journal	Spain
 5800207636	1	1	Universidad de Zaragoza	Journal	Spain
 5800207639	1	1	Emakeele Selts	Book Series	Estonia
 5800207642	1	0	Arco Libros	Book Series	Spain
-5800207660	1	0	Sveuciliste Josipa Jurja Strossmayera u Osijeku	Journal	Croatia
+5800207660	1	0	Sveuciliste Josipa Jurja Strossmayera u Osijeki	Journal	Croatia
 5800207664	1	0	Oxford University Press	Book Series	United Kingdom
 5800207671	1	1	Polska Akademia Nauk	Journal	Poland
 5800207673	1	0	Cambridge University Press	Journal	United Kingdom
@@ -24673,7 +24673,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 5800228217	1	0	International Flame Research Foundation	Journal	Italy
 5800228219	1	0	St. Galler Tagblatt AG	Trade Journal	Switzerland
 5800228220	1	0	Springer Nature	Journal	Germany
-5800228221	0	0	Gaodeng Jiaoyu Chubanshu	Journal	China
+5800228221	0	0	Gaodeng Jiaoyu Chubanshe	Journal	China
 5800228222	1	0	Springer Nature	Journal	United States
 5800228226	1	0	Cambridge University Press	Journal	United Kingdom
 5900152751	1	0	Intellect Publishers	Journal	United Kingdom
@@ -24821,15 +24821,15 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 6100152903	0	0	Consultants Bureau	Journal	United States
 6100152904	0	0	Springer Nature	Journal	Germany
 6100152905	0	0	Human Sciences Press	Journal	United States
-6100153007	0	0	Gaodeng Jiaoyu Chubanshu	Journal	China
-6100153008	0	0	Gaodeng Jiaoyu Chubanshu	Journal	China
+6100153007	0	0	Gaodeng Jiaoyu Chubanshe	Journal	China
+6100153008	0	0	Gaodeng Jiaoyu Chubanshe	Journal	China
 6100153009	0	0	S N Verlag Michael Steinert	Trade Journal	Germany
 6100153013	1	1	National Cancer Institute	Journal	Egypt
 6100153017	1	0	World Scientific	Journal	United States
 6100153018	1	0	Elsevier	Journal	United States
 6100153019	1	0	Springer Nature	Journal	Germany
-6100153020	0	0	Gaodeng Jiaoyu Chubanshu	Journal	China
-6100153021	0	0	Gaodeng Jiaoyu Chubanshu	Journal	China
+6100153020	0	0	Gaodeng Jiaoyu Chubanshe	Journal	China
+6100153021	0	0	Gaodeng Jiaoyu Chubanshe	Journal	China
 6100153022	1	1	Springer Nature	Journal	Italy
 6100153023	1	0	Institution of Engineering and Technology	Journal	United Kingdom
 6100153025	0	0	Consultants Bureau	Journal	United States
@@ -24841,7 +24841,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 6100153105	0	0	Springer Nature	Journal	Netherlands
 6100153106	1	0	Institution of Engineering and Technology	Journal	United Kingdom
 6100153107	1	0	Science Press	Journal	China
-6100153108	0	0	Gaodeng Jiaoyu Chubanshu	Journal	China
+6100153108	0	0	Gaodeng Jiaoyu Chubanshe	Journal	China
 6200158425	1	0	Edinburgh University Press	Journal	United Kingdom
 6200162323	1	0	Taylor & Francis	Journal	United States
 6200171093	1	0	Brill	Journal	Netherlands
@@ -24852,7 +24852,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 6200180151	0	0	Human Sciences Press	Journal	United States
 6200180153	0	0	Springer Nature	Journal	United States
 6200180159	1	1	Wiley-Blackwell	Journal	United States
-6200180160	1	0	Gaodeng Jiaoyu Chubanshu	Journal	China
+6200180160	1	0	Gaodeng Jiaoyu Chubanshe	Journal	China
 6200180161	1	0	Elsevier	Journal	Netherlands
 6200180164	1	0	Swets & Zeitlinger	Journal	Netherlands
 6200180165	1	0	Springer Nature	Journal	Germany
@@ -25349,7 +25349,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 9500153907	0	0	Aspen Systems Corporation	Journal	United States
 9500153908	0	0	Nippon Chiri-Gakkai	Journal	Japan
 9500153910	0	0	Harper and Row	Journal	United States
-9500153911	0	0	Editrice Kurtis srl	Journal	Italy
+9500153911	0	0	Editrice Kurtis s.r.l.	Journal	Italy
 9500153912	0	0	Rila Publications Ltd	Journal	United Kingdom
 9500153913	1	1	Walter de Gruyter	Journal	Germany
 9500153914	0	0	Taylor & Francis	Trade Journal	United Kingdom
@@ -25398,7 +25398,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 9500153977	0	0	American Industrial Hygiene Association	Journal	United States
 9500153979	1	0	Wolters Kluwer Health	Journal	United States
 9500153982	0	0	Chartered Institution of Water and Environmental Management	Journal	United Kingdom
-9500153984	0	0	Museum National d'Histoire Springer Naturelle	Journal	France
+9500153984	0	0	Museum National d'Histoire Naturelle	Journal	France
 9500153985	0	0	Societe Medicale d'Afrique Noire de Langue Francaise	Journal	Senegal
 9500153986	0	0	Springer Nature	Journal	New Zealand
 9500153987	0	0	Potato Association of America	Journal	United States
@@ -25856,7 +25856,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 11600153487	1	1	Universidad Complutense De Madrid	Journal	Spain
 11600153566	1	0	Asociacion Espanola de Ciencia politica y de la Administracion	Journal	Spain
 11600153582	1	0	Taylor & Francis	Journal	United Kingdom
-11600153627	1	0	National Research University, Higher School of Economics	Journal	Russian Federation
+11600153627	1	0	National Research University Higher School of Economics	Journal	Russian Federation
 11600153630	1	1	Universidad Nacional De Colombia	Journal	Colombia
 11600153637	1	0	Chung Yuan Christian University	Journal	Taiwan
 11600153638	0	0	University of Maryland	Journal	United States
@@ -26020,7 +26020,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 11800154542	1	0	Agora University	Journal	Romania
 11800154543	1	0	Shiraz University	Journal	Iran, Islamic Republic of
 11800154544	0	0	Ferrata Storti Foundation	Journal	Italy
-11800154545	0	0	DMG world Media Ltd	Journal	United Kingdom
+11800154545	0	0	DMG World Media Ltd	Journal	United Kingdom
 11800154546	1	0	ANI Publishing	Journal	Turkey
 11800154572	1	1	Universidade De Sao Paulo	Journal	Brazil
 11800154585	1	0	Taylor & Francis	Journal	United States
@@ -26349,7 +26349,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 12300154723	1	0	Chulalongkorn University	Journal	Thailand
 12300154727	0	0	Medwell	Journal	Pakistan
 12300154905	1	0	Sociedad Mexicana de Fitogenetica	Journal	Mexico
-12300154906	0	0	Fundacao O Boticario de Protecao a Springer Natureza	Journal	Brazil
+12300154906	0	0	Fundacao O Boticario de Protecao a Natureza	Journal	Brazil
 12300154908	1	0	Elsevier	Journal	France
 12300154909	1	0	Vilnius Gediminas Technical University	Journal	Lithuania
 12400154701	1	1	Pontificia Universidad Católica de Valparaíso	Journal	Chile
@@ -26588,7 +26588,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 15400156000	0	0	Osaka City University	Journal	Japan
 15500154701	1	1	Regional Information Center for Science and Technology	Journal	Iran, Islamic Republic of
 15500154702	0	0	ANSInet	Journal	Pakistan
-15500154703	1	1	Springer Nature	Journal	United Kingdom
+15500154703	1	1	Human Nature Review	Journal	United Kingdom
 15500154704	1	0	Springer Nature	Journal	United States
 15500154705	1	0	Springer Nature	Journal	United States
 15500154706	0	0	Korean Society of Pathologists	Journal	South Korea
@@ -26705,7 +26705,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 16000154775	0	0	Rudolf M. Rohrer	Book Series	Austria
 16000154776	1	0	Editions du Seuil	Journal	France
 16000154777	0	0	E R I Edizioni R A I	Journal	Italy
-16000154778	1	0	Barenreiter Verlag	Journal	Germany
+16000154778	1	0	Baerenreiter Verlag	Journal	Germany
 16000154779	1	0	University of North Carolina, Dept. of Romance Languages	Journal	United States
 16000154780	1	0	Verlag Otto Sagner	Journal	Germany
 16000154781	0	0	International Fiction Association	Journal	Canada
@@ -26742,7 +26742,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 16100154712	1	0	Carleton University	Journal	Canada
 16100154713	0	0	Boydell and Brewer Ltd	Journal	United States
 16100154714	0	0	Waxmann Verlag GMBH	Journal	Germany
-16100154715	1	0	Barenreiter Verlag	Journal	Germany
+16100154715	1	0	Baerenreiter Verlag	Journal	Germany
 16100154716	1	0	Real Academia Espanola	Journal	Spain
 16100154717	0	0	Deutsche Mozart-Gesellschaft e.V.	Journal	Germany
 16100154718	1	0	Societa Editrice il Mulino	Journal	Italy
@@ -27010,7 +27010,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 16300154785	1	0	Editoriale Lotus	Trade Journal	Italy
 16300154786	1	0	Brill	Journal	Netherlands
 16300154787	1	0	Brill	Journal	Netherlands
-16300154788	1	0	Verlag der Oesterreichischen Akademie der Wissenschaften	Journal	Austria
+16300154788	1	0	Verlag der Osterreichischen Akademie der Wissenschaften	Journal	Austria
 16300154789	1	1	Uitgeverij Verloren	Journal	Netherlands
 16300154790	1	0	Wiley-Blackwell	Journal	United Kingdom
 16300154791	1	0	Brill	Journal	Netherlands
@@ -28176,7 +28176,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 19400157922	0	0	Wolters Kluwer Health	Journal	United States
 19400157923	0	0	Istituto Superiore di Sanita	Journal	Italy
 19400157929	0	0	Sociedad Espanola de Patologia Digestiva	Journal	Spain
-19400157930	0	0	Association pour le Developpement et la Diffusion de l'Information Militaire	Journal	France
+19400157930	0	0	Association pour le Developement et la Diffusion de l'inforrmation Militaire	Journal	France
 19400157931	0	0	Societe de Medecine de Nancy	Journal	France
 19400157933	0	0	Elsevier	Journal	France
 19400157934	0	0	En Commission chez H. Hagerup	Journal	Denmark
@@ -28521,7 +28521,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 19600157337	1	0	Ceska Akademie Verlag	Journal	Czech Republic
 19600157344	1	0	Springer Nature	Journal	Germany
 19600157349	0	0	WSEAS Press	Journal	Greece
-19600157363	1	0	Izdatel'stvo Nauka	Journal	Russian Federation
+19600157363	1	0	Izdatel'stva Nauka	Journal	Russian Federation
 19600157368	1	0	Cambridge University Press	Journal	United Kingdom
 19600157369	1	0	Wolters Kluwer Health	Journal	United States
 19600157712	1	1	Taylor & Francis	Journal	United Kingdom
@@ -29214,7 +29214,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 19700174968	0	0	Bentham	Journal	United Arab Emirates
 19700174969	0	0	Wiley-Blackwell	Journal	United States
 19700174970	0	0	Hacettepe Universitesi	Journal	Turkey
-19700174971	1	0	Aall India Institute of Medical Sciences	Journal	India
+19700174971	1	0	All India Institute of Medical Sciences	Journal	India
 19700174972	0	0	Termedia	Journal	Poland
 19700174973	0	0	Elsevier	Journal	Netherlands
 19700174974	1	0	Future Medicine Ltd.	Journal	United Kingdom
@@ -29355,7 +29355,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 19700175114	1	1	Frontiers Media S.A.	Journal	Switzerland
 19700175115	1	1	Frontiers Media S.A.	Journal	Switzerland
 19700175116	1	1	Frontiers Media S.A.	Journal	Switzerland
-19700175117	1	1	Aim Shams University	Journal	Egypt
+19700175117	1	1	Ain Shams University	Journal	Egypt
 19700175118	0	0	Academia Mexicana de Neurologia	Journal	Mexico
 19700175119	1	1	Hong Kong Asiamed Publishing House	Journal	China
 19700175120	0	0	Wolters Kluwer Health	Journal	India
@@ -29518,7 +29518,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 19700176021	1	0	Spandidos Publications	Journal	Greece
 19700176022	0	0	Taylor & Francis	Journal	United States
 19700176023	1	0	Taylor & Francis	Journal	United States
-19700176024	1	1	Teheran University of Medical Sciences	Journal	Iran, Islamic Republic of
+19700176024	1	1	Tehran University of Medical Sciences	Journal	Iran, Islamic Republic of
 19700176038	1	0	Mazandaran University of Medical Sciences	Journal	Iran, Islamic Republic of
 19700176043	1	0	Publishing House of the Warsaw University of Technology	Journal	Poland
 19700176044	1	0	Innovative Scientific Information & Services network (ISISnet)	Journal	Pakistan
@@ -29748,7 +29748,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 19700180840	1	1	Springer Nature	Journal	Germany
 19700180841	1	0	Elsevier	Book Series	Netherlands
 19700180842	1	0	Japan Society of Mechanical Engineers/Nihon Kikai Gakkai	Journal	Japan
-19700180845	1	1	International Union for Conservation of Springer Nature and Natural Resources	Journal	Switzerland
+19700180845	1	1	International Union for Conservation of Nature and Natural Resources	Journal	Switzerland
 19700180846	0	0	Walter de Gruyter	Journal	Germany
 19700180901	1	0	Bolyaianum Universitatis	Journal	Hungary
 19700180905	0	0	Internet Scientific Publications	Journal	United States
@@ -30071,7 +30071,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 19700186521	0	0		Journal	France
 19700186533	0	0	Universidad De Antioquia	Journal	Venezuela
 19700186577	0	0	Edizioni Minerva Medica	Journal	Italy
-19700186619	0	0	Societa editrici Universa	Journal	Italy
+19700186619	0	0	Societa Editrice Universo	Journal	Italy
 19700186620	0	0	Nakladatelske Stredisko CLSJE Purkyne	Journal	Czech Republic
 19700186638	0	0	Associacao Brasileira de Enfermagem	Journal	Brazil
 19700186703	1	1	Kruzak	Journal	Croatia
@@ -30176,7 +30176,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 19700186913	1	0	Vyzkumny Ustav Lesniho Hospodarstvi a Myslivosti	Journal	Czech Republic
 19700186936	0	0	Emerald	Journal	United Kingdom
 19700186941	1	0	Elsevier	Journal	Netherlands
-19700186945	1	1	Universidade Federal da Parana	Journal	Brazil
+19700186945	1	1	Universidade Federal do Parana	Journal	Brazil
 19700186953	1	0	Practical Action Publishing	Journal	United Kingdom
 19700186954	1	0	Tehran University of Medical Sciences	Journal	Iran, Islamic Republic of
 19700187301	0	1	Fundacio per la Universitat Oberta de Catalunya	Journal	Spain
@@ -30639,7 +30639,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 19700201638	1	1	Wolters Kluwer Health	Journal	India
 19700201639	1	1	Hindawi	Journal	Egypt
 19700201640	1	1	Hindawi	Journal	Egypt
-19700201642	1	0	Meditsiinski Unversitet-Sofia	Journal	Bulgaria
+19700201642	1	0	Meditsinski Universitet - Sofia	Journal	Bulgaria
 19700201647	1	1	The Egyptian Society for Joint Diseases and Arthritis	Journal	Egypt
 19700201648	1	0	Australasian Corrosion Association	Journal	Australia
 19700201652	0	0	Remedica Medical Education and Publishing Ltd	Journal	United Kingdom
@@ -31440,7 +31440,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100197513	0	0	Public Health Agency of Canada	Journal	Canada
 21100197523	0	1	Science and Engineering Research Support Society	Journal	South Korea
 21100197524	1	0	Kowsar Publishing Company	Journal	Netherlands
-21100197704	1	0	Teheran University of Medical Sciences	Journal	Iran, Islamic Republic of
+21100197704	1	0	Tehran University of Medical Sciences	Journal	Iran, Islamic Republic of
 21100197706	1	1	Elsevier	Journal	Netherlands
 21100197714	1	1	Associacao Iberica de Sistemas e Tecnologias de Informacao (AISTI)	Journal	Portugal
 21100197731	1	0	Institut Catala d'Ornitologia	Journal	Spain
@@ -31661,7 +31661,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100199846	1	1	Taylor & Francis	Journal	United Kingdom
 21100199847	0	0	Korean Society of Hematology	Journal	South Korea
 21100199848	1	1	Korean Cancer Association	Journal	South Korea
-21100199849	1	1	Teheran University of Medical Sciences	Journal	Iran, Islamic Republic of
+21100199849	1	1	Tehran University of Medical Sciences	Journal	Iran, Islamic Republic of
 21100199850	0	1	Science and Engineering Research Support Society	Journal	South Korea
 21100199851	1	0	Human Kinetics Publishers Inc.	Journal	United States
 21100199852	1	0	Catholic Faculty of Theology, University of Split	Journal	Croatia
@@ -31877,7 +31877,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100201998	1	1	Walter de Gruyter	Journal	Germany
 21100202107	0	0	Journal of Social, Evolutionary, and Cultural Psychology	Journal	United States
 21100202110	1	0	Elsevier	Journal	Netherlands
-21100202112	1	1	Universidade Federal Rural do Semi-Arid	Journal	Brazil
+21100202112	1	1	Universidade Federal Rural do Semi-Arido	Journal	Brazil
 21100202123	1	0	Israel Antiquities Authority	Book Series	Israel
 21100202124	1	0	Filozofsko teoloski institut Druzbe Isusove	Journal	Croatia
 21100202126	1	0	Wiley-Blackwell	Journal	United States
@@ -32039,7 +32039,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100204304	1	0	Institut Catala d'antropologia	Journal	Spain
 21100204305	1	0	Emerald	Journal	United Kingdom
 21100204306	1	0	Walter de Gruyter	Journal	Germany
-21100204309	1	1	Univerisdad de Los Andes	Journal	Colombia
+21100204309	1	1	Universidad de los Andes	Journal	Colombia
 21100204502	1	0	Katholieke Universiteit, Instituut voor Culturele en Sociale Antropologie, University Of Nijmegen	Journal	Netherlands
 21100204503	1	0	Taylor & Francis	Journal	United Kingdom
 21100204505	1	1	UQ Business School, The University of Queensland	Journal	Australia
@@ -32135,7 +32135,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100206006	1	1	Taylor & Francis	Journal	United Kingdom
 21100206008	1	1	Bialystok University of Technology	Journal	Poland
 21100206009	1	0	BPCC Wheatons Ltd	Journal	United Kingdom
-21100206210	1	0	Springer Nature Kenya: The East Africa Natural History Society	Journal	Kenya
+21100206210	1	0	Nature Kenya: The East Africa Natural History Society	Journal	Kenya
 21100206214	1	0	IGI Global	Journal	United States
 21100206221	1	0	IGI Global	Journal	United States
 21100206241	1	1	Institute of Applied Mathematics And Mechanics of the National Academy of Sciences of Ukraine	Journal	Ukraine
@@ -32188,7 +32188,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100207616	1	0	IGI Global	Journal	United States
 21100207619	1	1	Medicina Oral S.L	Journal	Spain
 21100207622	1	0	IGI Global	Journal	United States
-21100207623	1	0	Museum National d'Histoire Springer Naturelle	Journal	France
+21100207623	1	0	Museum National d'Histoire Naturelle	Journal	France
 21100207626	1	0	Elsevier	Book Series	United Kingdom
 21100207633	1	1	Grupo Espanol del IIC (International Institute for Conservation of Historic and Artistic Works)	Journal	Spain
 21100207634	1	0	Advanstar Communications Inc.	Journal	United States
@@ -32241,7 +32241,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100210918	1	0	Wolters Kluwer Health	Journal	Spain
 21100210919	1	0	The Association of Technology, Management, and Applied Engineering	Journal	United States
 21100210920	1	0	California State University Press	Journal	United States
-21100210921	1	1	Faculty of Sociel Sciences, Charles Universtiy	Journal	Czech Republic
+21100210921	1	1	Faculty of Social Sciences, Charles University	Journal	Czech Republic
 21100210922	1	1	Libertas Academica	Journal	New Zealand
 21100211105	1	1	Internetworking Indonesia	Journal	United States
 21100211106	1	0	AsociaciOn de Revistas Culturales de Espana (ARCE)	Journal	Spain
@@ -32525,7 +32525,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100220142	1	1	AEDEI, the Spanish Association for Irish Studies	Journal	Spain 
 21100220151	1	1	Technical University of Kosice	Journal	Slovakia
 21100220152	1	0	Associacion Espanola de Estudio en Drogodependencias	Journal	Spain
-21100220153	1	0	Teheran University of Medical Sciences	Journal	Iran, Islamic Republic of
+21100220153	1	0	Tehran University of Medical Sciences	Journal	Iran, Islamic Republic of
 21100220154	1	0	Taylor's University College	Journal	Malaysia
 21100220156	1	0	Emerald	Journal	United Kingdom
 21100220158	1	0	Wiley-Blackwell	Journal	United States
@@ -33029,7 +33029,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100239803	1	0	ZRC Publishing house	Journal	Slovenia
 21100239819	1	1	Universidade Federal de Santa Maria	Journal	Brazil
 21100239823	1	0	Equinox Publishing Ltd	Journal	United Kingdom
-21100239824	1	0	The International Society for the Study of Religion, Springer Nature & Culture	Journal	United States
+21100239824	1	0	The International Society for the Study of Religion, Nature & Culture	Journal	United States
 21100239825	1	0	Taylor & Francis	Journal	United Kingdom
 21100239827	1	0	Carl Heymanns Verlag KG	Journal	Germany
 21100239828	1	0	Frommann-Holzboog Verlag e.K.	Journal	Germany
@@ -33539,7 +33539,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100264880	1	1	Charles University	Journal	Czech Republic
 21100264891	1	0	Emerald	Book Series	United Kingdom
 21100264904	1	0	Via Medica	Journal	Poland
-21100264966	0	0	Lawbook Co.	Journal	Australia
+21100264966	0	0	Law Book Co.	Journal	Australia
 21100265006	0	0	Emerald	Book Series	United Kingdom
 21100265015	1	0	Elsevier	Journal	Netherlands 
 21100265033	1	0	Mary Ann Liebert	Journal	United States
@@ -33702,7 +33702,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100284428	1	0	Austrian Academy of Sciences	Book Series	Austria
 21100284498	0	0	Commission internationale pour l'exploration scientifique de la mer Mediterranee	Book Series	Monaco
 21100284506	1	0	Adam Mickiewicz University Press	Book Series	Poland
-21100284508	1	0	Faculty of Social Sciences Charles University	Journal	Czech Republic
+21100284508	1	0	Faculty of Social Sciences, Charles University	Journal	Czech Republic
 21100284518	0	0	Global Publishing Company	Journal	United States
 21100284918	1	1	Copernicus	Journal	Germany
 21100284944	1	1	Multidisciplinary Digital Publishing Institute (MDPI)	Journal	Switzerland
@@ -33947,7 +33947,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100312206	1	0	Universita di Torino	Book Series	Italy
 21100312210	1	1	Institute of Croatian History, Faculty of Philosophy Zagreb	Journal	Croatia
 21100312211	1	1	Elsevier	Journal	Netherlands
-21100312217	1	0	Izdatel'stvo Nauka	Journal	Russian Federation
+21100312217	1	0	Izdatel'stva Nauka	Journal	Russian Federation
 21100312221	0	0	Sdu Uitgevers	Journal	Netherlands
 21100312401	1	1	Centro Nacional De Informacion De Ciencias Medicas	Journal	Cuba
 21100312404	1	0	Institute of Mathematics, Ukrainian National Academy of Sciences	Journal	Ukraine
@@ -34015,7 +34015,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100317906	1	1	Elsevier	Journal	Netherlands
 21100317907	1	1	Elsevier	Journal	Netherlands
 21100317990	1	1	Wiley-Blackwell	Journal	United Kingdom
-21100318251	1	1	University of Ostrava Faculty of Medicine	Journal	Czech Republic
+21100318251	1	1	Faculty of Medicine, University of Ostrava	Journal	Czech Republic
 21100318403	1	0	Institute of Image Electronics Engineers of Japan	Journal	Japan
 21100318411	1	0	Universite de Caen, Centre de Recherches Archeologiques et Historiques Medievales	Book Series	France
 21100318415	1	1	Research Network of Computational and Structural Biotechnology	Journal	Sweden
@@ -34060,7 +34060,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100323200	1	0	Science Press	Journal	China
 21100323400	1	0	Environment Facility of the Arkhangelsk region	Journal	Russian Federation
 21100323800	0	0	Bentham	Journal	United Arab Emirates
-21100324058	0	0	Librairie Droz SA	Book Series	France
+21100324058	0	0	Librairie Droz S.A.	Book Series	France
 21100324067	1	1	Kolej Universiti Islam Sultan Azlan Shah	Journal	Malaysia
 21100324208	1	0	Institut d'Etudes Levinasienne	Book Series	Israel
 21100324361	1	1	Elsevier	Journal	United Kingdom
@@ -34688,7 +34688,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100400009	0	0	Institute of Electrical and Electronics Engineers	Journal	United States
 21100400010	0	0	Institute of Electrical and Electronics Engineers	Journal	United States
 21100400016	1	0	Il Mulino publishing house	Journal	Italy
-21100400023	1	1	Universitat Politecnica de Valencia	Journal	Spain
+21100400023	1	1	Universidad Politecnica de Valencia	Journal	Spain
 21100400051	0	0	Institute of Electrical and Electronics Engineers	Journal	United States
 21100400052	0	0	Institute of Electrical and Electronics Engineers	Journal	United States
 21100400140	1	0	SAGE	Journal	United States
@@ -34772,7 +34772,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100405404	1	0	Taylor & Francis	Journal	United Kingdom
 21100405446	1	0	Penn State University Press	Journal	United States
 21100405524	0	0	Brill	Book Series	Netherlands
-21100405529	1	0	Universidad de Navara	Journal	Spain
+21100405529	1	0	Universidad de Navarra	Journal	Spain
 21100405538	1	0	Inderscience	Journal	Switzerland
 21100405571	1	1	SEAS - Society for South-East Asian Studies	Journal	Austria
 21100405582	0	0	Brill	Book Series	Netherlands
@@ -34895,7 +34895,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100407408	1	0	Brill	Journal	Netherlands
 21100407421	0	0	Entomological Society of Canada	Book Series	Canada
 21100407477	1	0	Brill	Book Series	Netherlands
-21100407545	1	1	Queensland Uuniversity of Technology	Journal	Australia
+21100407545	1	1	Queensland University of Technology	Journal	Australia
 21100407556	0	0	Brill	Book Series	Netherlands
 21100407560	1	1	Universidad de Navarra	Journal	Spain
 21100407601	1	0	International Measurement Confederation (IMECO)	Journal	Hungary
@@ -35666,7 +35666,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100463834	1	0	Taylor & Francis	Journal	United States
 21100463842	1	1	Elsevier	Journal	Netherlands
 21100463845	1	0	Elsevier	Journal	United Kingdom
-21100463861	1	0	Hipatia Press	Journal	Spain
+21100463861	1	0	Hepatia Press	Journal	Spain
 21100463862	1	0	Elsevier	Journal	United Kingdom
 21100463869	1	0	Wiley-Blackwell	Journal	Germany
 21100463872	1	1	Copernicus	Journal	Germany
@@ -35868,7 +35868,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100775055	1	1	Springer Nature	Journal	United Kingdom
 21100775078	1	0	Emerald	Journal	United Kingdom
 21100775395	1	0	Informing Science Institute	Journal	United States
-21100775412	1	0	National Research University, Higher School of Economics	Journal	Russian Federation
+21100775412	1	0	Higher School of Economics, National Research University	Journal	Russian Federation
 21100775478	1	1	Russian open medical journal	Journal	Russian Federation
 21100775590	1	0	Mary Ann Liebert	Journal	United States
 21100775591	1	0	Wolters Kluwer Health	Journal	United States
@@ -35929,7 +35929,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100778661	1	0	Emerald	Journal	United Kingdom
 21100778750	1	0	Wiley-Blackwell	Journal	United States
 21100778765	1	0	Annual Reviews, inc.	Journal	United States
-21100778766	1	0	National Research University, Higher School of Economics	Journal	Russian Federation
+21100778766	1	0	National Research University Higher School of Economics	Journal	Russian Federation
 21100778772	1	0	Univerisity Department of Psychiatry University Hospital Center Sestre milosrdnice	Journal	Croatia
 21100778814	0	0	Springer Nature	Journal	Netherlands
 21100778824	0	0	Zdravstveni Centar Rijeka	Journal	Croatia
@@ -35972,7 +35972,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100780480	1	0	Taylor & Francis	Journal	United Kingdom
 21100780545	1	0	Chinese Society of Forestry (CSF)	Journal	China
 21100780547	0	0	Niu Terra	Journal	Russian Federation
-21100780549	1	1	National Research University, Higher School of Economics	Journal	Russian Federation
+21100780549	1	1	National Research University Higher School of Economics	Journal	Russian Federation
 21100780550	1	0	Elsevier	Journal	United States
 21100780673	1	1	Wolters Kluwer Health	Journal	India
 21100780677	1	0	Wolters Kluwer Health	Journal	India
@@ -35982,12 +35982,12 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100780796	1	1	State Islamic University of Sunan Ampel Surabaya	Journal	Indonesia
 21100780798	1	1	Materials and Energy Research Center	Journal	Iran, Islamic Republic of
 21100780799	0	0	Elsevier	Journal	Netherlands
-21100780829	1	1	National Research University, Higher School of Economics	Journal	Russian Federation
+21100780829	1	1	National Research University Higher School of Economics	Journal	Russian Federation
 21100780830	1	0	SAGE	Journal	United Kingdom
 21100780831	1	0	Springer Nature	Journal	United Kingdom
 21100780896	0	0	Institution of Gas Engineers	Journal	United Kingdom
 21100780992	1	0	German Medical Science	Journal	Germany
-21100780996	1	0	National Research University, Higher School of Economics	Journal	Russian Federation
+21100780996	1	0	National Research University Higher School of Economics	Journal	Russian Federation
 21100781204	1	0	Bentham	Journal	Netherlands
 21100781400	1	0	PagePress	Journal	Italy
 21100781401	1	0	Editorial Department of Acta Prataculturae Sinica	Journal	China
@@ -36015,7 +36015,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100781877	1	0	National Chengchi University	Journal	Taiwan
 21100781878	1	1	Firenze University Press	Journal	Italy
 21100781880	1	0	Institute of Competition Law	Journal	France
-21100781903	1	1	National Research University, Higher School of Economics	Journal	Russian Federation
+21100781903	1	1	National Research University Higher School of Economics	Journal	Russian Federation
 21100781964	1	0	Asociacion Espanola de Ecologia Terrestre	Journal	Spain
 21100781971	1	0	Taylor & Francis	Journal	United Kingdom
 21100781972	0	0	Springer Nature	Journal	United States
@@ -36434,7 +36434,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100805329	1	0	European Respiratory Society	Journal	Switzerland
 21100805343	1	0	Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria - Forestry Research Centre (CRA)	Journal	Italy
 21100805354	1	0	Springer Nature	Journal	Switzerland
-21100805726	1	0	National Research University, Higher School of Economics	Journal	Russian Federation
+21100805726	1	0	National Research University Higher School of Economics	Journal	Russian Federation
 21100805728	1	0	Ima-Press Publishing House	Journal	Russian Federation
 21100805729	1	0	The National Bureau of Asian Research	Journal	United States
 21100805730	1	0	Editorial Department of Journal of Sichuan University	Journal	China
@@ -36587,7 +36587,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100815304	1	0	African Scholarly Science Communications Trust (ASSCAT)	Journal	Kenya
 21100815316	1	0	Stolichnaya Izdatelskaya Kompaniya	Journal	Russian Federation
 21100815317	1	0	Korean Pharmacopuncture Institute	Journal	South Korea
-21100815331	1	0	Izdatel'stvo Nauka	Journal	Russian Federation
+21100815331	1	0	Izdatel'stva Nauka	Journal	Russian Federation
 21100815354	1	0	Universita di Firenze, Dipartimento di Storia, Archeologia, Geografia, Arte e Spettacolo	Journal	Italy
 21100815369	1	0	Universidad de Granada, Departamento de Historia del Arte	Journal	Spain
 21100815385	1	0	Consiglio Nazionale delle Ricerche	Journal	Italy
@@ -36693,7 +36693,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100820675	1	0	Universidade Federal de Mato Grosso do Sul, Departamento de Quimica	Journal	Brazil
 21100820707	1	0	Universidade da Beira Interior	Journal	Portugal
 21100820732	1	0	Editura Medicala	Journal	Romania
-21100820733	1	0	National Research University, Higher School of Economics	Journal	Russian Federation
+21100820733	1	0	National Research University Higher School of Economics	Journal	Russian Federation
 21100820742	1	0	Edinburgh University Press	Journal	United Kingdom
 21100820755	1	0	Springer Nature	Journal	Germany
 21100820782	1	0	Wiley-Blackwell	Journal	United Kingdom
@@ -36786,7 +36786,7 @@ scopus_id	active	open_access	main_publisher	source_type	publisher_country
 21100824048	1	0	Common Ground Research Networks	Journal	United States
 21100824403	1	0	ID Design Press	Journal	Mexico
 21100824428	1	0	Akademiai Kiado	Journal	Hungary
-21100824437	1	0	Izdatel'stvo Nauka	Journal	Russian Federation
+21100824437	1	0	Izdatel'stva Nauka	Journal	Russian Federation
 21100824449	1	0	Universidad Nacional Autonoma de Mexico	Journal	Mexico
 21100824452	1	0	Russian Academy of Sciences	Journal	Russian Federation
 21100824458	1	0	Universidade de Brasilia	Journal	Brazil
