@@ -14,6 +14,7 @@ The `data` directory contains the following tidy outputs:
 
 + [`titles.tsv`](data/titles.tsv): IDs and names for titles in Scopus
 + [`title-attributes.tsv`](data/title-attributes.tsv): attributes for Scopus titles such as open access status, publisher, and active status (excludes conference proceedings)
++ [`publishers.tsv`](data/publishers.tsv): number of journals per publisher as well as URL-friendly slugs. Redundant or misspelled publisher names can be manually fixed in [`publisher-name-patches.tsv`](data/publisher-name-patches.tsv).
 + [`title-top-levels.tsv`](data/title-top-levels.tsv): top-level subject categories for each Scopus title
 + [`asjc-codes.tsv`](data/asjc-codes.tsv): ASJC (All Science Journal Classification) code definitions
 + [`subject-areas.tsv`](data/subject-areas.tsv): ASJC subject areas for each Scopus title
