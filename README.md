@@ -50,7 +50,7 @@ Install the environment with:
 conda env create --file=environment.yml
 ```
 
-Then use `source activate scopus` and `source deactivate` to activate or deactivate the environment. On windows, use `activate scopus` and `deactivate` instead.
+Then use `conda activate scopus` and `conda deactivate` to activate or deactivate the environment.
 
 ## License
 
