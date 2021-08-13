@@ -35,11 +35,12 @@ The `data` directory contains the following tidy outputs:
 
 This repository is built from the following publicly-available inputs in [`download`](download):
 
-+ `Scopus_Source_List.xlsx`: Scopus title list ([source](https://www.elsevier.com/solutions/scopus/content))
-+ `CiteScore_Metrics_2011-2016_Download_21Jun2017.xlsx`: Journal Metrics ([source](https://journalmetrics.scopus.com/))
-+ `pubmed-journals.tsv`: PubMed journal information ([source](https://github.com/dhimmel/delays/blob/master/data/pubmed-journals.tsv))
-
-See [`download.sh`](download/download.sh), which downloads local copies of the inputs, for the source URLs.
++ `extlistJuly2021.xlsx`:
+  Scopus title list (from "Download Scopus Source List" at [source](https://www.scopus.com/sources))
++ `CiteScore 2011-2020 new methodology - May 2021.xlsb`:
+  Journal Metrics
++ `pubmed-journals.tsv`:
+  PubMed journal information ([source](https://github.com/dhimmel/delays/blob/master/data/pubmed-journals.tsv) via [process-nlm-catalog.ipynb](https://github.com/dhimmel/delays/blob/4f541e0818322d86365f56671c9634c111eaf8c4/process-nlm-catalog.ipynb))
 
 ## Environment
 
