@@ -23,7 +23,7 @@ The `data` directory contains the following tidy outputs:
 
 The `data` directory contains the following tidy outputs:
 
-+ [`issn.tsv`](data/issn.tsv): a mapping between Scopus titles and ISSNs
++ [`issn.tsv`](data/issn.tsv): a mapping between Scopus titles and ISSNs, including [linking ISSNs](https://github.com/dhimmel/scopus/issues/7).
 + [`pubmed-map.tsv`](data/pubmed-map.tsv): a Scopus–NLM journal mapping
 
 ### Journal metrics
@@ -41,6 +41,8 @@ This repository is built from the following publicly-available inputs in [`downl
   Journal Metrics
 + `pubmed-journals.tsv`:
   PubMed journal information ([source](https://github.com/dhimmel/delays/blob/master/data/pubmed-journals.tsv) via [process-nlm-catalog.ipynb](https://github.com/dhimmel/delays/blob/4f541e0818322d86365f56671c9634c111eaf8c4/process-nlm-catalog.ipynb))
++ `20210912.ISSN-to-ISSN-L.txt.gz`:
+  The "ISSN-L matching table" is extracted and compressed from `issnltables.zip` which is available [upon request](http://www.issn.org/services/online-services/access-to-issn-l-table/) from ISSN.
 
 ## Environment
 
